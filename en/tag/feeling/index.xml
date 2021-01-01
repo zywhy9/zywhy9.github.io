@@ -28,5 +28,32 @@
 </description>
     </item>
     
+    <item>
+      <title>Welcome to My New Website</title>
+      <link>https://zywhy9.github.io/en/post/new-page/</link>
+      <pubDate>Wed, 30 Dec 2020 20:49:18 -0500</pubDate>
+      <guid>https://zywhy9.github.io/en/post/new-page/</guid>
+      <description>&lt;p&gt;After searching and trying for 3 days, I finally learned how to use Hugo and this Academic theme to build a personal website. So this website is for both academic writing and personal blogs. New year is coming and I will give you some fun facts about me as a new year present.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;I was born in &lt;a href=&#34;https://en.wikipedia.org/wiki/Dalian&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dalian&lt;/a&gt;, Liaoning, China.  When I was celebrating my five-year-old birthday, we were also celebrating the return of Macao (you know my birthday now). My parents are both working in a university and they influence me a lot.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;My motto for studying is: &lt;strong&gt;Curiosity is the best teacher&lt;/strong&gt;. I&amp;rsquo;m always trying to be a kid, so that I can be curious about everything and be creative for any question.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;I like traveling. I started traveling with my parents when I was one-and-a-half-year-old to my father&amp;rsquo;s hometown. From then, I travelled with my parents every year. Until now, I have been to:&lt;/p&gt;
+&lt;p&gt;China (provinces): Beijing, Tianjin, Shanghai,  Hebei, Shanxi, Liaoning, Jilin, Heilongjiang, Jiangsu, Zhejiang, Fujian, Shandong, Henan, Hubei, Hunan, Guangdong, Sichuan, Guizhou, Shaanxi, Gansu, Neimenggu/Inner Mongolia, Ningxia, Xinjiang (23/34 Provinces)&lt;/p&gt;
+&lt;p&gt;Japan (prefectures with cities): Tokyo (Tokyo), Kyoto (Kyoto), Osaka (Osaka), Nara (Nara), Aichi (Nagoya), Hyogo (Kobe), Chiba (Disneyland), Yamanashi (Mt. Fuji)&lt;/p&gt;
+&lt;p&gt;U.S. (states): California, Illinois,  Massachusetts, New Jersey, New York, Pennsylvania, Rhode Island, Texas, Wisconsin, District of Columbia&lt;/p&gt;
+&lt;p&gt;Canada (provinces): Ontario (Toronto, Waterloo, Niagara Falls), Québec (Montréal)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;I like music. I can play &lt;a href=&#34;https://en.wikipedia.org/wiki/Erhu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Erhu&lt;/a&gt;. I&amp;rsquo;m trying to learn some guitar. My favorite band is &lt;a href=&#34;https://en.wikipedia.org/wiki/Sodagreen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sodagreen&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
