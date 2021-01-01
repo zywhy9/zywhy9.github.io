@@ -49,7 +49,7 @@
   
   <url>
     <loc></loc>
-    <lastmod>2020-12-30T20:49:18-05:00</lastmod>
+    <lastmod>2020-12-31T14:57:43-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -63,8 +63,23 @@
   </url>
   
   <url>
+    <loc>https://zywhy9.github.io/zh/post/new-year/</loc>
+    <lastmod>2020-12-31T14:57:43-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zywhy9.github.io/en/post/new-year/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zywhy9.github.io/zh/post/new-year/"
+                />
+  </url>
+  
+  <url>
     <loc>https://zywhy9.github.io/zh/categories/</loc>
-    <lastmod>2020-12-30T20:49:18-05:00</lastmod>
+    <lastmod>2020-12-31T14:57:43-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -79,7 +94,7 @@
   
   <url>
     <loc>https://zywhy9.github.io/zh/post/</loc>
-    <lastmod>2020-12-30T20:49:18-05:00</lastmod>
+    <lastmod>2020-12-31T14:57:43-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -94,7 +109,7 @@
   
   <url>
     <loc>https://zywhy9.github.io/zh/tags/</loc>
-    <lastmod>2020-12-30T20:49:18-05:00</lastmod>
+    <lastmod>2020-12-31T14:57:43-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -109,7 +124,27 @@
   
   <url>
     <loc>https://zywhy9.github.io/zh/tag/%E5%BF%83%E6%83%85/</loc>
-    <lastmod>2020-12-30T20:49:18-05:00</lastmod>
+    <lastmod>2020-12-31T14:57:43-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2020-12-31T14:57:43-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href=""
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href=""
+                />
+  </url>
+  
+  <url>
+    <loc>https://zywhy9.github.io/zh/category/%E9%9A%8F%E7%AC%94/</loc>
+    <lastmod>2020-12-31T14:57:43-05:00</lastmod>
   </url>
   
   <url>
@@ -125,26 +160,6 @@
                 hreflang="zh"
                 href="https://zywhy9.github.io/zh/post/new-page/"
                 />
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2020-12-30T20:49:18-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href=""
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href=""
-                />
-  </url>
-  
-  <url>
-    <loc>https://zywhy9.github.io/zh/category/%E9%9A%8F%E7%AC%94/</loc>
-    <lastmod>2020-12-30T20:49:18-05:00</lastmod>
   </url>
   
   <url>
