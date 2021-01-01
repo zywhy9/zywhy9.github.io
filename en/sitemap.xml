@@ -3,51 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://zywhy9.github.io/en/talk/example-talk/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zywhy9.github.io/zh/talk/example-talk/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zywhy9.github.io/en/talk/example-talk/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://zywhy9.github.io/en/event/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zywhy9.github.io/zh/event/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zywhy9.github.io/en/event/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://zywhy9.github.io/en/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zywhy9.github.io/zh/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zywhy9.github.io/en/"
-                />
-  </url>
-  
-  <url>
     <loc></loc>
     <lastmod>2020-12-31T14:57:43-05:00</lastmod>
     <xhtml:link
@@ -133,6 +88,21 @@
   </url>
   
   <url>
+    <loc>https://zywhy9.github.io/en/</loc>
+    <lastmod>2020-12-31T14:57:43-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zywhy9.github.io/zh/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zywhy9.github.io/en/"
+                />
+  </url>
+  
+  <url>
     <loc></loc>
     <lastmod>2020-12-31T14:57:43-05:00</lastmod>
     <xhtml:link
@@ -163,98 +133,7 @@
   </url>
   
   <url>
-    <loc>https://zywhy9.github.io/en/slides/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zywhy9.github.io/zh/slides/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zywhy9.github.io/en/slides/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://zywhy9.github.io/en/slides/example/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zywhy9.github.io/zh/slides/example/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zywhy9.github.io/en/slides/example/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://zywhy9.github.io/en/project/example/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zywhy9.github.io/zh/project/example/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zywhy9.github.io/en/project/example/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://zywhy9.github.io/en/project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zywhy9.github.io/zh/project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zywhy9.github.io/en/project/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://zywhy9.github.io/en/publication-type/1/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zywhy9.github.io/zh/publication-type/1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zywhy9.github.io/en/publication-type/1/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://zywhy9.github.io/en/publication/example/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zywhy9.github.io/zh/publication/example/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zywhy9.github.io/en/publication/example/"
-                />
-  </url>
-  
-  <url>
     <loc>https://zywhy9.github.io/en/publication_types/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -269,7 +148,6 @@
   
   <url>
     <loc>https://zywhy9.github.io/en/publication/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -283,17 +161,16 @@
   </url>
   
   <url>
-    <loc></loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <loc>https://zywhy9.github.io/en/event/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href=""
+                href="https://zywhy9.github.io/zh/event/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href=""
+                href="https://zywhy9.github.io/en/event/"
                 />
   </url>
   
