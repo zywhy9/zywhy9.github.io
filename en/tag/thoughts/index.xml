@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog | Yiran Wang</title>
-    <link>https://zywhy9.github.io/en/post/</link>
-      <atom:link href="https://zywhy9.github.io/en/post/index.xml" rel="self" type="application/rss+xml" />
-    <description>Blog</description>
+    <title>Thoughts | Yiran Wang</title>
+    <link>https://zywhy9.github.io/en/tag/thoughts/</link>
+      <atom:link href="https://zywhy9.github.io/en/tag/thoughts/index.xml" rel="self" type="application/rss+xml" />
+    <description>Thoughts</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Yiran Wang © 2020-2021</copyright><lastBuildDate>Mon, 04 Jan 2021 13:21:35 -0500</lastBuildDate>
     <image>
       <url>https://zywhy9.github.io/images/icon_hua528d14b798ebc86857f98c3b60c3dfa_27765_512x512_fill_lanczos_center_2.png</url>
-      <title>Blog</title>
-      <link>https://zywhy9.github.io/en/post/</link>
+      <title>Thoughts</title>
+      <link>https://zywhy9.github.io/en/tag/thoughts/</link>
     </image>
     
     <item>
@@ -28,49 +28,6 @@
 &lt;h3 id=&#34;4-when-did-you-think-you-have-enough-knowledge-to-work-on-a-project-independently-and-when-did-you-find-you-have-enough-knowledge-to-think-about-the-fundamental-questions-about-statistics&#34;&gt;4. When did you think you have enough knowledge to work on a project independently, and when did you find you have enough knowledge to think about the fundamental questions about Statistics?&lt;/h3&gt;
 &lt;p&gt;These two questions are not as important and deep as the prior ones. I just don&amp;rsquo;t know if this is a good time to think about these questions and what will it be after PhD. What level should a PhD graduate be? How far am I to that level?&lt;/p&gt;
 &lt;p&gt;I always agree that it&amp;rsquo;s good to think some general and fundamental questions about something. To think about the deepest foundation of everything helps you understand this world and form your worldview. I hope after few years, I could answer some of these questions and come up with some new questions.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>New Year 2021</title>
-      <link>https://zywhy9.github.io/en/post/new-year/</link>
-      <pubDate>Thu, 31 Dec 2020 14:57:43 -0500</pubDate>
-      <guid>https://zywhy9.github.io/en/post/new-year/</guid>
-      <description>&lt;p&gt;The new year is coming. We suffered a lot in this old year. At the same time, we got used to a lot of things. We got used to stay at home. We got uesd to wear a mask. We got used to have a course online. What a year! Thanks to my girlfriend moving to my house, I could spend this hard time with her.&lt;/p&gt;
-&lt;h2 id=&#34;gifts--toys&#34;&gt;Gifts &amp;amp; Toys&lt;/h2&gt;
-&lt;p&gt;At least, I got the time to learn how to play my guitar, which is my last year&amp;rsquo;s birthday gift from my girlfriend. I also enjoy my first Lego, which is my birthday gift from one of my best friends since childhood. And I feel I&amp;rsquo;ve fallen into this Lego trap since I just bought two more Legos&amp;hellip; For this toy in the picture, I saw a little girl playing with it on the ION last year, and I&amp;rsquo;m so curious about it since I found it may be related to fractal geometry. However, I didn&amp;rsquo;t find it in any toy shops or supermarkets. Few days ago, I found it on Amazon and my girlfriend bought it for me as a new year gift. I think it&amp;rsquo;s partially because that she loves my gift, a Yamaha digital piano~&lt;/p&gt;
-&lt;h2 id=&#34;academic&#34;&gt;Academic&lt;/h2&gt;
-&lt;p&gt;Well, I finally finished all my coursework as a student. Though there is still a long way to go in the school, it feels a new stage has come. I indeed feel the pressure when I heard some of my friends have published a paper or saw my friend&amp;rsquo;s name on arXiv. But I have felt hopelessness and despair when comparing with my classmates during my masters. Having passed that period, I konw how impartant a good mood is for a graduate student. Hope I can have some achievement this year and pass the proposal successfully.&lt;/p&gt;
-&lt;h2 id=&#34;other&#34;&gt;Other&lt;/h2&gt;
-&lt;p&gt;For now, I really want to fly back to China and stay with my family. However, I still need to finish my paper for EURING and prepare for my proposal after that. And I&amp;rsquo;m not sure if I can come back smoothly few months later. Anyway, at least my girlfriend will be here until April, so I&amp;rsquo;ll consider the flight at that time maybe. Just watching my friends eating delicious food in China makes me really envy~&lt;/p&gt;
-&lt;p&gt;After 3 hours, the new year is coming. Happy new year to everyone and hope you have a wonderful new year!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Welcome to My New Website</title>
-      <link>https://zywhy9.github.io/en/post/new-page/</link>
-      <pubDate>Wed, 30 Dec 2020 20:49:18 -0500</pubDate>
-      <guid>https://zywhy9.github.io/en/post/new-page/</guid>
-      <description>&lt;p&gt;After searching and trying for 3 days, I finally learned how to use Hugo and this Academic theme to build a personal website. So this website is for both academic writing and personal blogs. New year is coming and I will give you some fun facts about me as a new year present.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;I was born in &lt;a href=&#34;https://en.wikipedia.org/wiki/Dalian&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dalian&lt;/a&gt;, Liaoning, China.  When I was celebrating my five-year-old birthday, we were also celebrating the return of Macao (you know my birthday now). My parents are both working in a university and they influence me a lot.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;My motto for studying is: &lt;strong&gt;Curiosity is the best teacher&lt;/strong&gt;. I&amp;rsquo;m always trying to be a kid, so that I can be curious about everything and be creative for any question.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;I like traveling. I started traveling with my parents when I was one-and-a-half-year-old to my father&amp;rsquo;s hometown. From then, I travelled with my parents every year. Until now, I have been to:&lt;/p&gt;
-&lt;p&gt;China (provinces): Beijing, Tianjin, Shanghai,  Hebei, Shanxi, Liaoning, Jilin, Heilongjiang, Jiangsu, Zhejiang, Fujian, Shandong, Henan, Hubei, Hunan, Guangdong, Sichuan, Guizhou, Shaanxi, Gansu, Neimenggu/Inner Mongolia, Ningxia, Xinjiang (23/34 Provinces)&lt;/p&gt;
-&lt;p&gt;Japan (prefectures with cities): Tokyo (Tokyo), Kyoto (Kyoto), Osaka (Osaka), Nara (Nara), Aichi (Nagoya), Hyogo (Kobe), Chiba (Disneyland), Yamanashi (Mt. Fuji)&lt;/p&gt;
-&lt;p&gt;U.S. (states): California, Illinois,  Massachusetts, New Jersey, New York, Pennsylvania, Rhode Island, Texas, Wisconsin, District of Columbia&lt;/p&gt;
-&lt;p&gt;Canada (provinces): Ontario (Toronto, Waterloo, Niagara Falls), Québec (Montréal)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;I like music. I can play &lt;a href=&#34;https://en.wikipedia.org/wiki/Erhu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Erhu&lt;/a&gt;. I&amp;rsquo;m trying to learn some guitar. My favorite band is &lt;a href=&#34;https://en.wikipedia.org/wiki/Sodagreen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sodagreen&lt;/a&gt;.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
     
