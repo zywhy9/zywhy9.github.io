@@ -4,7 +4,7 @@
   
   <url>
     <loc></loc>
-    <lastmod>2020-12-31T14:57:43-05:00</lastmod>
+    <lastmod>2021-01-04T13:21:35-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -15,6 +15,111 @@
                 hreflang="zh"
                 href=""
                 />
+  </url>
+  
+  <url>
+    <loc>https://zywhy9.github.io/zh/categories/</loc>
+    <lastmod>2021-01-04T13:21:35-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zywhy9.github.io/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zywhy9.github.io/zh/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://zywhy9.github.io/zh/post/</loc>
+    <lastmod>2021-01-04T13:21:35-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zywhy9.github.io/en/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zywhy9.github.io/zh/post/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://zywhy9.github.io/zh/tags/</loc>
+    <lastmod>2021-01-04T13:21:35-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zywhy9.github.io/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zywhy9.github.io/zh/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://zywhy9.github.io/zh/post/questions-to-statistics/</loc>
+    <lastmod>2021-01-04T13:21:35-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zywhy9.github.io/en/post/questions-to-statistics/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zywhy9.github.io/zh/post/questions-to-statistics/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://zywhy9.github.io/zh/tag/%E6%83%B3%E6%B3%95/</loc>
+    <lastmod>2021-01-04T13:21:35-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zywhy9.github.io/zh/</loc>
+    <lastmod>2021-01-04T13:21:35-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zywhy9.github.io/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zywhy9.github.io/zh/"
+                />
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2021-01-04T13:21:35-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href=""
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href=""
+                />
+  </url>
+  
+  <url>
+    <loc>https://zywhy9.github.io/zh/tag/%E7%BB%9F%E8%AE%A1/</loc>
+    <lastmod>2021-01-04T13:21:35-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zywhy9.github.io/zh/category/%E7%BB%9F%E8%AE%A1%E5%9F%BA%E7%A1%80/</loc>
+    <lastmod>2021-01-04T13:21:35-05:00</lastmod>
   </url>
   
   <url>
@@ -33,83 +138,8 @@
   </url>
   
   <url>
-    <loc>https://zywhy9.github.io/zh/categories/</loc>
-    <lastmod>2020-12-31T14:57:43-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zywhy9.github.io/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zywhy9.github.io/zh/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://zywhy9.github.io/zh/post/</loc>
-    <lastmod>2020-12-31T14:57:43-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zywhy9.github.io/en/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zywhy9.github.io/zh/post/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://zywhy9.github.io/zh/tags/</loc>
-    <lastmod>2020-12-31T14:57:43-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zywhy9.github.io/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zywhy9.github.io/zh/tags/"
-                />
-  </url>
-  
-  <url>
     <loc>https://zywhy9.github.io/zh/tag/%E5%BF%83%E6%83%85/</loc>
     <lastmod>2020-12-31T14:57:43-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zywhy9.github.io/zh/</loc>
-    <lastmod>2020-12-31T14:57:43-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zywhy9.github.io/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zywhy9.github.io/zh/"
-                />
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2020-12-31T14:57:43-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href=""
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href=""
-                />
   </url>
   
   <url>

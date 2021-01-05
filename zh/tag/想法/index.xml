@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts | 王祎然</title>
-    <link>https://zywhy9.github.io/zh/post/</link>
-      <atom:link href="https://zywhy9.github.io/zh/post/index.xml" rel="self" type="application/rss+xml" />
-    <description>Posts</description>
+    <title>想法 | 王祎然</title>
+    <link>https://zywhy9.github.io/zh/tag/%E6%83%B3%E6%B3%95/</link>
+      <atom:link href="https://zywhy9.github.io/zh/tag/%E6%83%B3%E6%B3%95/index.xml" rel="self" type="application/rss+xml" />
+    <description>想法</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>Yiran Wang © 2020-2021</copyright><lastBuildDate>Mon, 04 Jan 2021 13:21:35 -0500</lastBuildDate>
     <image>
       <url>https://zywhy9.github.io/images/icon_hua528d14b798ebc86857f98c3b60c3dfa_27765_512x512_fill_lanczos_center_2.png</url>
-      <title>Posts</title>
-      <link>https://zywhy9.github.io/zh/post/</link>
+      <title>想法</title>
+      <link>https://zywhy9.github.io/zh/tag/%E6%83%B3%E6%B3%95/</link>
     </image>
     
     <item>
@@ -28,52 +28,6 @@
 &lt;h3 id=&#34;4-你是什么时候觉得自己有足够的能力去单独承担一个项目的你又是什么时候觉得自己有足够的知识去考虑统计深层的问题的&#34;&gt;4. 你是什么时候觉得自己有足够的能力去单独承担一个项目的？你又是什么时候觉得自己有足够的知识去考虑统计深层的问题的？&lt;/h3&gt;
 &lt;p&gt;这两个问题相对于上面的问题就没那么重要和深刻了，主要是我现在问这些问题不知道是不是太早了，毕竟我现在感觉自己的知识储备实在是太浅了。看着这些老师PhD期间都发了不少论文，我也不知道我的PhD是不是落后了别人一大截，包括我毕业到底应该到一个什么水平，我离这个水平到底有多远，我现在慢慢也准备开始规划我的PhD生涯了。&lt;/p&gt;
 &lt;p&gt;最后，我想说我一直都很赞同一个观点，就是偶尔思考一下某些东西的深层本质问题是很好的事情，这样既能帮助你理解这个世界，形成自己的世界观，也可以不那么盲目地去做事情。我希望几年之后，我能够回答上面的几个问题，也会提出一些新的问题。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>2021新年快乐</title>
-      <link>https://zywhy9.github.io/zh/post/new-year/</link>
-      <pubDate>Thu, 31 Dec 2020 14:57:43 -0500</pubDate>
-      <guid>https://zywhy9.github.io/zh/post/new-year/</guid>
-      <description>&lt;p&gt;新的一年终于要来了！我们也算撑过了这个给我们重重难关的2020年。在这一年里，我们习惯了很多之前不喜欢的事情：把自己关在家里不出门，出门就要戴口罩，上课也都是网课。还好到年末的时候Mei搬到我住的地方了，这四个月也算有个伴了~&lt;/p&gt;
-&lt;h2 id=&#34;礼物和玩具&#34;&gt;礼物和玩具&lt;/h2&gt;
-&lt;p&gt;这一年也收到了不少礼物，从去年年底生日收到的吉他，到今年的乐高，也得感谢疫情给我了时间在家练练琴，拼拼乐高。今年生日收到远在瑞士的小徐同学送的东京乐高真的是很开心，以前一直没碰这个坑，没想到一拼起来真的就停不下来，今天又在乐高官网上下了两个单。这篇文章上面的照片是一个类似魔方的玩具，大概是去年的时候我在轻轨上看到一个小女孩玩的，当时我就想到了分形几何的东西，所以就一直想买一个回来自己玩，没想到转了几家玩具店都没找到。前两天在亚马逊上看到了一个，于是就让Mei买一个当我的新年礼物了。我最近感觉真是越来越喜欢玩具了，小的时候都不记得有这么喜欢玩玩具，但是从这些玩具里我现在看到的全是各种逻辑和数学的东西。也许是真的想把自己的好奇心变成孩子，希望这样也能提升我对科研的思路吧。另一方面，Mei今年喜欢上了丙烯画，我还送了她一个Yamaha的电子琴，这两天真是停不下来地练习。我虽然对画画没什么天赋，但是我还是很喜欢她喜欢各种乐器和音乐的。&lt;/p&gt;
-&lt;h2 id=&#34;学术&#34;&gt;学术&lt;/h2&gt;
-&lt;p&gt;这学期结束也就意味着我学生生涯的所有课程都上完了，虽然以后还有很长的时间要待在学校，但是也算是开始了一个新阶段了。最近有些同学或者学弟学妹也开始发paper了，虽然多少有点压力，但是我前两年也是感觉到了互相攀比导致的各种抑郁，所以现在慢慢也就让自己看淡一些。过了那个阶段，就知道保持一个好的心态和好的身体真的是读博很重要的基础条件。希望这一年里能有些阶段性的成果，也能顺利地度过开题答辩。&lt;/p&gt;
-&lt;h2 id=&#34;其他&#34;&gt;其他&lt;/h2&gt;
-&lt;p&gt;最近是很想回国跟爸妈待在一起，又可以吃各种好吃的。但是一方面是检测太麻烦了，另一方面我还要赶一个2月的会议ddl，之后还要准备开题答辩。事情太多，变数太大，很多事情还是先解决了比较好。不过Mei待到四月也要准备回国了，所以我也可以考虑考虑那个时候回去一趟，估计夏天在魁北克城的EURING也得线上了，如果这样那其实回去几个月也没什么问题。这几天看着国内的同学朋友们吃各种好吃的真是馋得我口水直流啊~&lt;/p&gt;
-&lt;p&gt;再过两个小时就要跨年啦！在这里祝大家新年快乐，希望你们都能在新的一年里万事顺利！&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>欢迎来到我的新主页</title>
-      <link>https://zywhy9.github.io/zh/post/new-page/</link>
-      <pubDate>Wed, 30 Dec 2020 20:49:18 -0500</pubDate>
-      <guid>https://zywhy9.github.io/zh/post/new-page/</guid>
-      <description>&lt;p&gt;其实期末之前我就看到有学长把自己的主页放到github.io上了，但是我一直都不知道怎么玩的，然后我就查了查，最后一方面没什么时间，另一方面被这个Academic的主题劝退了，因为自从这个主题大改了之后下载和修改都要麻烦好多。趁着圣诞和新年的假期，我终于花了三天把这个主页搞出来了。照片是朋友送我的生日礼物，一个东京标志性建筑物的乐高，一下子把我带到乐高的坑里了，就是感觉太贵了。&lt;/p&gt;
-&lt;p&gt;一转眼新年都快来了，其实还有一堆计划到现在还没有开始或者没有完成的。拉了一堆人做的飞跃手册，到最后也跟我想的一样成了烂尾工程，刚开始的up主生涯也提不起兴趣和精力去做，到最后只有该完成的课程全部完成了。说不定等哪天我忘了这个博客的存在，它也会沉默在我的硬盘里吧。&lt;/p&gt;
-&lt;p&gt;作为新年的彩蛋，我来分享一点我自己的资料吧~&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;我在辽宁大连出生长大，我的父母都在大学工作，所以我从小就想当个科学家或者教授&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;我在学习上的座右铭是“好奇心是最好的老师”，就像乔布斯说的Stay hungry，Stay foolish，我一直试着去做一个小孩子，可以不满足于已有的东西，也可以不用那么聪明的去迎合别人的想法&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;我很喜欢旅行，我一岁半的时候就跟我爸坐船回老家了，从那时候开始基本每年都能跟爸妈去旅游。到现在为止，我已经去过：&lt;/p&gt;
-&lt;p&gt;中国（省份）：北京、天津、上海、河北、陕西、山西、辽宁、吉林、黑龙江、江苏、浙江、福建、山东、河南、湖北、湖南、广东、四川、贵州、甘肃、内蒙古、宁夏、新疆（还有11个省没去过）&lt;/p&gt;
-&lt;p&gt;日本（都道府县以及城市）：东京都（东京市）、京都府（京都市）、大阪府（大阪市）、奈良县（奈良市）、爱知县（名古屋市）、兵库县（神户市）、千叶县（浦安市）、山梨县（富士河口湖町）&lt;/p&gt;
-&lt;p&gt;美国（州）：加利福尼亚州、伊利诺伊州、马萨诸塞州、新泽西州、纽约州、宾夕法尼亚州、罗德岛州、德克萨斯州、威斯康星州、哥伦比亚特区&lt;/p&gt;
-&lt;p&gt;加拿大（省）：安大略省（多伦多、滑铁卢、尼亚加拉瀑布）、魁北克省（蒙特利尔）&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;我喜欢音乐，从小有学过&lt;a href=&#34;https://en.wikipedia.org/wiki/Erhu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;二胡&lt;/a&gt;，现在在自学吉他，最近给女朋友买了个电子琴，想试试会不会比吉他简单。虽然没有单推的歌手，但是我很喜欢&lt;a href=&#34;https://en.wikipedia.org/wiki/Sodagreen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;苏打绿&lt;/a&gt;的歌。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;希望这个主页能继续运营下去，至少作为日常记录也是很有意义的，希望你们会喜欢~&lt;/p&gt;
 </description>
     </item>
     
