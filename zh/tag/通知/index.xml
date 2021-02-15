@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>通知 | 王祎然</title>
+    <link>https://zywhy9.github.io/zh/tag/%E9%80%9A%E7%9F%A5/</link>
+      <atom:link href="https://zywhy9.github.io/zh/tag/%E9%80%9A%E7%9F%A5/index.xml" rel="self" type="application/rss+xml" />
+    <description>通知</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>Yiran Wang © 2020-2021</copyright><lastBuildDate>Mon, 15 Feb 2021 15:45:27 -0500</lastBuildDate>
+    <image>
+      <url>https://zywhy9.github.io/images/icon_hua528d14b798ebc86857f98c3b60c3dfa_27765_512x512_fill_lanczos_center_2.png</url>
+      <title>通知</title>
+      <link>https://zywhy9.github.io/zh/tag/%E9%80%9A%E7%9F%A5/</link>
+    </image>
+    
+    <item>
+      <title>一些关于博客的通知</title>
+      <link>https://zywhy9.github.io/zh/post/2021-announcement/</link>
+      <pubDate>Mon, 15 Feb 2021 15:45:27 -0500</pubDate>
+      <guid>https://zywhy9.github.io/zh/post/2021-announcement/</guid>
+      <description>&lt;p&gt;这个网站已经开了有一段时间了，感谢大家来捧场。在这段时间里，我慢慢感到有些文章适合用英语来写，比如一些学术类的，而有些文章就适合双语一起写。其实自从出国之后，所有的学术内容我就都是用英语学习的了，很多定义的东西都没有中文的正式译名，包括很多人名要翻译也比较费劲。所以我打算之后就不把所有的文章都翻译了，其实我自己写也是先写英文再翻译成中文，之后的话我会以英文网站为主，一些日常的或者文化类的文章可能中英文都会放，目前也没想出什么情况会只写中文不写英文。大概就这些啦~&lt;/p&gt;
+&lt;p&gt;再次感谢大家来我的网站，请大家随意在文章下面用disqus评论，不过可能得挂VPN因为国内好像会看不到，或者用我主页底下的联系方式联系我也可以。大家新年快乐啦！&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
