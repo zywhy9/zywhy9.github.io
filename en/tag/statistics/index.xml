@@ -5,12 +5,24 @@
     <link>https://zywhy9.github.io/en/tag/statistics/</link>
       <atom:link href="https://zywhy9.github.io/en/tag/statistics/index.xml" rel="self" type="application/rss+xml" />
     <description>Statistics</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Yiran Wang © 2020-2021</copyright><lastBuildDate>Sun, 28 Feb 2021 11:12:47 -0500</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Yiran Wang © 2020-2021</copyright><lastBuildDate>Sat, 17 Apr 2021 20:37:15 -0400</lastBuildDate>
     <image>
       <url>https://zywhy9.github.io/images/icon_hua528d14b798ebc86857f98c3b60c3dfa_27765_512x512_fill_lanczos_center_2.png</url>
       <title>Statistics</title>
       <link>https://zywhy9.github.io/en/tag/statistics/</link>
     </image>
+    
+    <item>
+      <title>New Rhat</title>
+      <link>https://zywhy9.github.io/en/post/rhat/</link>
+      <pubDate>Sat, 17 Apr 2021 20:37:15 -0400</pubDate>
+      <guid>https://zywhy9.github.io/en/post/rhat/</guid>
+      <description>&lt;p&gt;I feel that I need to repeat that this post is just my random thoughts, and I know too little to comment on anything. So please don&amp;rsquo;t take my words seriously.&lt;/p&gt;
+&lt;p&gt;Recently, I noticed a paper on Bayesian Analysis, which is &amp;ldquo;&lt;a href=&#34;https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Rank-Normalization-Folding-and-Localization--An-Improved-R%cb%86-for/10.1214/20-BA1221.full&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rank-Normalization, Folding, and Localization: An Improved $\hat{R}$ for Assessing Convergence of MCMC&lt;/a&gt;&amp;rdquo; by Vehtari, A., Gelman, A., Simpson, D., Carpenter, B., &amp;amp; Bürkner, P. C.. I was attracted because of the $\hat{R}$ in the title since I just finished my oral exam about Rhat. Also, Gelman&amp;rsquo;s thoughts appeal to me, so I read some papers and watched some his talks on Youtube. I won&amp;rsquo;t talk about the theoretical part of this paper (since I don&amp;rsquo;t really want to figure out all the maths.) If you are interested in MCMC, you may want to read this paper since Rhat is an important and widely-used measure in MCMC to assess the convergence.&lt;/p&gt;
+&lt;p&gt;Gelman and Rubin proposed Rhat in 1992. The first time I read this paper, I found they defined Rhat as a practical measure &amp;ldquo;for researchers primarily intereseted in the science underlying the data and models they are analyzing, rather than for researchers interested in the probability theory underlying the iterative simualtions themselves.&amp;rdquo; Also the commonly-used cutoff 1.1 is from nowhere, which is worse than 0.05 for p-value. Well, the common form of Rhat is actually from the paper by Brooks and Gelman (1998). After reading this paper, I felt that the definition of Rhat is too fuzzy, which may be modified and improved again and again. And this new Rhat paper just turned up. Though I know that Rhat is the ratio between two vairances, I still don&amp;rsquo;t know if $\hat{R}$ less than a cutoff can be concluded as convergence. Ultimately, the convergence itself might be a tricky thing to define.&lt;/p&gt;
+&lt;p&gt;I have talked to Martin about this paper and Gelman. He has the same opinion that Rhat has some disadvantages and he has no idea where the cutoff comes from. But we both agree that Gelman is a genius and creative-thinker. From his comments, I realize that maybe Monte Carlo SE and effective sample size (ESS) will be talked more about in the future, and this is actually an interesting area for me to think about. I&amp;rsquo;m glad to see that ESS is also mentioned in that new paper, though ESS has its flaws too. Well, it could be a direction to explore.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Bayesianism vs Frequentism</title>

@@ -4,7 +4,7 @@
   
   <url>
     <loc></loc>
-    <lastmod>2021-04-14T21:57:04-04:00</lastmod>
+    <lastmod>2021-04-17T20:37:15-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -18,8 +18,18 @@
   </url>
   
   <url>
+    <loc>https://zywhy9.github.io/en/category/basic-statistics/</loc>
+    <lastmod>2021-04-17T20:37:15-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zywhy9.github.io/en/tag/bayesian/</loc>
+    <lastmod>2021-04-17T20:37:15-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://zywhy9.github.io/en/post/</loc>
-    <lastmod>2021-04-14T21:57:04-04:00</lastmod>
+    <lastmod>2021-04-17T20:37:15-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -34,7 +44,7 @@
   
   <url>
     <loc>https://zywhy9.github.io/en/categories/</loc>
-    <lastmod>2021-04-14T21:57:04-04:00</lastmod>
+    <lastmod>2021-04-17T20:37:15-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -44,6 +54,66 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://zywhy9.github.io/en/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://zywhy9.github.io/en/tag/mcmc/</loc>
+    <lastmod>2021-04-17T20:37:15-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zywhy9.github.io/en/post/rhat/</loc>
+    <lastmod>2021-04-17T20:37:15-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zywhy9.github.io/en/tag/statistics/</loc>
+    <lastmod>2021-04-17T20:37:15-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zywhy9.github.io/en/tags/</loc>
+    <lastmod>2021-04-17T20:37:15-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zywhy9.github.io/zh/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zywhy9.github.io/en/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://zywhy9.github.io/en/</loc>
+    <lastmod>2021-04-17T20:37:15-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zywhy9.github.io/zh/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zywhy9.github.io/en/"
+                />
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2021-04-17T20:37:15-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href=""
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href=""
                 />
   </url>
   
@@ -60,56 +130,16 @@
   <url>
     <loc>https://zywhy9.github.io/en/post/new-car/</loc>
     <lastmod>2021-04-14T21:57:04-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zywhy9.github.io/en/tags/</loc>
-    <lastmod>2021-04-14T21:57:04-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://zywhy9.github.io/zh/tags/"
+                href="https://zywhy9.github.io/zh/post/new-car/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zywhy9.github.io/en/tags/"
+                href="https://zywhy9.github.io/en/post/new-car/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://zywhy9.github.io/en/</loc>
-    <lastmod>2021-04-14T21:57:04-04:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zywhy9.github.io/zh/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zywhy9.github.io/en/"
-                />
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2021-04-14T21:57:04-04:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href=""
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href=""
-                />
-  </url>
-  
-  <url>
-    <loc>https://zywhy9.github.io/en/category/basic-statistics/</loc>
-    <lastmod>2021-02-28T11:12:47-05:00</lastmod>
   </url>
   
   <url>
@@ -118,7 +148,7 @@
   </url>
   
   <url>
-    <loc>https://zywhy9.github.io/en/tag/statistics/</loc>
+    <loc>https://zywhy9.github.io/en/tag/general-questions/</loc>
     <lastmod>2021-02-28T11:12:47-05:00</lastmod>
   </url>
   
