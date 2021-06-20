@@ -5,12 +5,25 @@
     <link>https://zywhy9.github.io/en/</link>
       <atom:link href="https://zywhy9.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     <description>Yiran Wang</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Yiran Wang © 2020-2021</copyright><lastBuildDate>Sat, 17 Apr 2021 20:37:15 -0400</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Yiran Wang © 2020-2021</copyright><lastBuildDate>Sun, 20 Jun 2021 17:25:09 +0800</lastBuildDate>
     <image>
-      <url>https://zywhy9.github.io/images/icon_hua528d14b798ebc86857f98c3b60c3dfa_27765_512x512_fill_lanczos_center_2.png</url>
+      <url>https://zywhy9.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Yiran Wang</title>
       <link>https://zywhy9.github.io/en/</link>
     </image>
+    
+    <item>
+      <title>Bayesian Genetic Mark-Recapture Methods For Estimating Seasonal River Run Size Of Stock Populations</title>
+      <link>https://zywhy9.github.io/en/project/bayesian/</link>
+      <pubDate>Sun, 20 Jun 2021 17:25:09 +0800</pubDate>
+      <guid>https://zywhy9.github.io/en/project/bayesian/</guid>
+      <description>&lt;p&gt;The slides can be found &lt;a href=&#34;https://zywhy9.github.io/uploads/SSC2021.pdf&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;. And the poster can be found &lt;a href=&#34;https://zywhy9.github.io/uploads/EURING2021.pdf&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Genetic mark-recapture (GMR) is a statistical technique used in estimating population size in ecology. By combining estimated relative abundance for all the species of interest from genetic data with counts for some species, GMR provides information about the total population size and the contributions of each species.&lt;/p&gt;
+&lt;p&gt;In this study, we propose a novel Bayesian GMR framework which presents several advantages over current frequentist techniques. First, the Bayesian framework can explicitly incorporate the sampling error from the genetic sample within the model specification to accommodate the fact that the observed relative proportions in the genetic sample differ from those in the population. Second, uncertainty in the estimates is easily obtained from the posterior samples, without the need for approximations or bootstrapping. Third, the Bayesian framework lends itself nicely to eventually incorporating additional sources of data into a single model.&lt;/p&gt;
+&lt;p&gt;The effectiveness of the new method is investigated via simulation studies and is shown to perform better than the frequentist estimator in a first simple simulation. However, in a second simulation, where some of the stocks have very small relative abundances, the method is very sensitive to the choice of prior. We discuss this matter in the Discussion Section.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>New Rhat</title>
