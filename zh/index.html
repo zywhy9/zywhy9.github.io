@@ -45,8 +45,6 @@
 
 
 
-
-
   
 
 
@@ -75,9 +73,9 @@
   
     
     
-      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.0/css/academicons.min.css" integrity="sha512-W4yqoT1+8NLkinBLBZko+dFB2ZbHsYLDdr50VElllRcNt2Q4/GSs6u71UHKxB7S6JEMCp5Ve4xjh3eGQl/HRvg==" crossorigin="anonymous" media="print" onload="this.media='all'">
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.0/css/academicons.min.css" integrity="sha512-W4yqoT1+8NLkinBLBZko+dFB2ZbHsYLDdr50VElllRcNt2Q4/GSs6u71UHKxB7S6JEMCp5Ve4xjh3eGQl/HRvg==" crossorigin="anonymous">
     
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha256-FMvZuGapsJLjouA6k7Eo2lusoAX9i0ShlWFG6qt7SLc=" crossorigin="anonymous" media="print" onload="this.media='all'">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha256-FMvZuGapsJLjouA6k7Eo2lusoAX9i0ShlWFG6qt7SLc=" crossorigin="anonymous">
 
     
     
@@ -86,8 +84,6 @@
       
       
       
-      
-        
       
         
       
@@ -118,6 +114,8 @@
 
     
     
+    
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.css" integrity="sha512-1xoFisiGdy9nvho8EgXuXvnpR5GAMSjFwp40gSRE3NwdUdIMIKuPa7bqoUhLD0O/5tPNhteAsE5XyyMi5reQVA==" crossorigin="anonymous" media="print" onload="this.media='all'">
     
 
     
@@ -328,6 +326,8 @@
   
   
   
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  
 
   
     <link rel="alternate" href="/zh/index.xml" type="application/rss+xml" title="王祎然" />
@@ -337,8 +337,8 @@
     <link rel="manifest" href="/zh/index.webmanifest" />
   
 
-  <link rel="icon" type="image/png" href="/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_32x32_fill_lanczos_center_2.png" />
-  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_180x180_fill_lanczos_center_2.png" />
+  <link rel="icon" type="image/png" href="/media/icon_hua528d14b798ebc86857f98c3b60c3dfa_27765_32x32_fill_lanczos_center_2.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hua528d14b798ebc86857f98c3b60c3dfa_27765_180x180_fill_lanczos_center_2.png" />
 
   <link rel="canonical" href="https://zywhy9.github.io/zh/" />
 
@@ -359,8 +359,8 @@
   <meta property="og:site_name" content="王祎然" />
   <meta property="og:url" content="https://zywhy9.github.io/zh/" />
   <meta property="og:title" content="王祎然" />
-  <meta property="og:description" content="王祎然统计" /><meta property="og:image" content="https://zywhy9.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png" />
-    <meta property="twitter:image" content="https://zywhy9.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png" /><meta property="og:locale" content="zh-Hans" />
+  <meta property="og:description" content="王祎然统计" /><meta property="og:image" content="https://zywhy9.github.io/media/icon_hua528d14b798ebc86857f98c3b60c3dfa_27765_512x512_fill_lanczos_center_2.png" />
+    <meta property="twitter:image" content="https://zywhy9.github.io/media/icon_hua528d14b798ebc86857f98c3b60c3dfa_27765_512x512_fill_lanczos_center_2.png" /><meta property="og:locale" content="zh-Hans" />
   
     
       <meta property="og:updated_time" content="2021-04-14T21:57:04-04:00" />
@@ -372,7 +372,13 @@
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "WebSite","url": "https://zywhy9.github.io/"
+  "@type": "WebSite",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://zywhy9.github.io/?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  },
+  "url": "https://zywhy9.github.io/"
 }
 </script>
 
@@ -406,6 +412,43 @@
 
   
 
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>搜索</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="搜索..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="搜索...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
 
 
 
@@ -484,7 +527,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/zh/#about" data-target="#about"><span>关于</span></a>
+          <a class="nav-link " href="/zh/#about" data-target="#about"><span>主页</span></a>
         </li>
 
         
@@ -578,6 +621,10 @@
       
 
       
+      
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#" aria-label="搜索"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
       
 
       
@@ -1130,6 +1177,9 @@
   
   
   
+    <span class="middot-divider"></span>
+    <a href="/zh/post/new-car/#disqus_thread"></a>
+  
 
   
   
@@ -1240,6 +1290,9 @@
   
   
   
+    <span class="middot-divider"></span>
+    <a href="/zh/post/2021-announcement/#disqus_thread"></a>
+  
 
   
   
@@ -1345,6 +1398,9 @@
   
   
   
+    <span class="middot-divider"></span>
+    <a href="/zh/post/lady-tea-note-1/#disqus_thread"></a>
+  
 
   
   
@@ -1394,137 +1450,6 @@
     </div>
   
 
-</div>
-
-
-    
-      </div>
-    
-
-    </div>
-  </section>
-
-  
-  
-  
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-  
-
-  
-
-  
-  
-
-  
-  
-  
-
-  
-  
-  
-  
-  
-
-  
-  
-
-  
-
-  
-  
-
-  
-  
-
-  
-  <section id="projects" class="home-section wg-portfolio  "  >
-   <div class="home-section-bg " ></div>
-    <div class="container">
-
-    
-      <div class="row  ">
-      
-        
-          <div class="section-heading col-12 col-lg-4 mb-3 mb-lg-0 d-flex flex-column align-items-center align-items-lg-start">
-            <h1 class="mb-0">项目</h1>
-            
-          </div>
-        
-      
-    
-
-      
-
-
-
-
-
-
-
-<div class="col-12 col-lg-8">
-
-  
-
-  
-
-    
-
-    
-    
-    
-    
-      
-    
-
-    <span class="d-none default-project-filter">*</span>
-
-    
-    
-    <div class="project-toolbar">
-      <div class="project-filters">
-        <div class="btn-toolbar">
-          <div class="btn-group flex-wrap">
-            
-              
-              
-              
-                
-              
-              <a href="#" data-filter="*" class="btn btn-primary btn-lg active">所有</a>
-            
-              
-              
-              
-              <a href="#" data-filter=".js-id-Ecology" class="btn btn-primary btn-lg">统计生态学</a>
-            
-          </div>
-        </div>
-      </div>
-    </div>
-    
-  
-
-  <div class="isotope projects-container row js-layout-row ">
-
-    
-    
-      
-    
-
-    
-  </div>
 </div>
 
 
@@ -1641,7 +1566,7 @@
         
         
         
-        <a href="/zh/tag/%E7%94%9F%E6%B4%BB/" style="font-size:1.35rem">生活</a>
+        <a href="/zh/tag/%E7%94%9F%E6%B4%BB/" style="font-size:0.7rem">生活</a>
       
         
         
@@ -1820,6 +1745,16 @@
   </ul>
 
   
+  <div class="d-none">
+    <input id="map-provider" value="mapnik">
+    <input id="map-lat" value="43.473089">
+    <input id="map-lng" value="-80.543951">
+    <input id="map-dir" value="Department of Statistics and Actuarial Science, University of Waterloo, 200 University Avenue West, Waterloo, ON N2L 3G1">
+    <input id="map-zoom" value="15">
+    <input id="map-api-key" value="">
+  </div>
+  <div id="map"></div>
+  
 
 </div>
 
@@ -1972,12 +1907,7 @@
     
     
     
-
-    
-    
-
-    
-    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.js" integrity="sha512-SeiQaaDh73yrb56sTW/RgVdi/mMqNeM2oBwubFHagc5BkixSpP1fvqF47mKzPGWYSSy4RwbBunrJBQ4Co8fRWA==" crossorigin="anonymous"></script>
     
 
     
@@ -1986,6 +1916,32 @@
     
     
     
+      
+      <script id="search-hit-fuse-template" type="text/x-template">
+        <div class="search-hit" id="summary-{{key}}">
+          <div class="search-hit-content">
+            <div class="search-hit-name">
+              <a href="{{relpermalink}}">{{title}}</a>
+              <div class="article-metadata search-hit-type">{{type}}</div>
+              <p class="search-hit-description">{{snippet}}</p>
+            </div>
+          </div>
+        </div>
+      </script>
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+      
+    
+
+    
+    
+
+    
+    
+    
+    
+      <script id="dsq-count-scr" src="https://zywhy9.disqus.com/count.js" async></script>
     
 
     
@@ -1993,6 +1949,14 @@
 
     
     
+      
+      
+      
+      
+      
+      
+      
+    
 
     
     
@@ -2002,8 +1966,11 @@
     
     
     
+      
+      
     
-    <script src="/zh/js/wowchemy.min.c94dc1fa7734b899f5ea0899c19bd658.js"></script>
+    
+    <script src="/zh/js/wowchemy.min.8527e1d2f168342590e2ddcad9698fad.js"></script>
 
     
 

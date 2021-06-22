@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog | Yiran Wang</title>
+    <title>Posts | Yiran Wang</title>
     <link>https://zywhy9.github.io/en/post/</link>
       <atom:link href="https://zywhy9.github.io/en/post/index.xml" rel="self" type="application/rss+xml" />
-    <description>Blog</description>
+    <description>Posts</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Yiran Wang © 2020-2021</copyright><lastBuildDate>Sun, 20 Jun 2021 18:47:54 +0800</lastBuildDate>
     <image>
-      <url>https://zywhy9.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
-      <title>Blog</title>
+      <url>https://zywhy9.github.io/media/icon_hua528d14b798ebc86857f98c3b60c3dfa_27765_512x512_fill_lanczos_center_2.png</url>
+      <title>Posts</title>
       <link>https://zywhy9.github.io/en/post/</link>
     </image>
     

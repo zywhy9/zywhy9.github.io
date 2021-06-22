@@ -2,7 +2,64 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://zywhy9.github.io/en/project/bgmr/</loc>
+    <lastmod>2021-06-22T15:20:04+08:00</lastmod>
+  </url><url>
+    <loc>https://zywhy9.github.io/en/categories/</loc>
+    <lastmod>2021-06-22T15:20:04+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zywhy9.github.io/zh/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zywhy9.github.io/en/categories/"
+                />
+  </url><url>
+    <loc>https://zywhy9.github.io/en/tag/ecology/</loc>
+    <lastmod>2021-06-22T15:20:04+08:00</lastmod>
+  </url><url>
+    <loc>https://zywhy9.github.io/en/project/</loc>
+    <lastmod>2021-06-22T15:20:04+08:00</lastmod>
+  </url><url>
+    <loc>https://zywhy9.github.io/en/category/statistical-ecology/</loc>
+    <lastmod>2021-06-22T15:20:04+08:00</lastmod>
+  </url><url>
+    <loc>https://zywhy9.github.io/en/tags/</loc>
+    <lastmod>2021-06-22T15:20:04+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zywhy9.github.io/zh/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zywhy9.github.io/en/tags/"
+                />
+  </url><url>
+    <loc>https://zywhy9.github.io/en/</loc>
+    <lastmod>2021-06-22T15:20:04+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zywhy9.github.io/zh/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zywhy9.github.io/en/"
+                />
+  </url><url>
     <loc>https://zywhy9.github.io/en/post/back-to-china/</loc>
+    <lastmod>2021-06-20T18:47:54+08:00</lastmod>
+  </url><url>
+    <loc>https://zywhy9.github.io/en/tag/daily/</loc>
+    <lastmod>2021-06-20T18:47:54+08:00</lastmod>
+  </url><url>
+    <loc>https://zywhy9.github.io/en/category/diary/</loc>
     <lastmod>2021-06-20T18:47:54+08:00</lastmod>
   </url><url>
     <loc>https://zywhy9.github.io/en/post/</loc>
@@ -17,63 +74,6 @@
                 hreflang="en"
                 href="https://zywhy9.github.io/en/post/"
                 />
-  </url><url>
-    <loc>https://zywhy9.github.io/en/categories/</loc>
-    <lastmod>2021-06-20T18:47:54+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zywhy9.github.io/zh/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zywhy9.github.io/en/categories/"
-                />
-  </url><url>
-    <loc>https://zywhy9.github.io/en/tag/daily/</loc>
-    <lastmod>2021-06-20T18:47:54+08:00</lastmod>
-  </url><url>
-    <loc>https://zywhy9.github.io/en/category/diary/</loc>
-    <lastmod>2021-06-20T18:47:54+08:00</lastmod>
-  </url><url>
-    <loc>https://zywhy9.github.io/en/tags/</loc>
-    <lastmod>2021-06-20T18:47:54+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zywhy9.github.io/zh/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zywhy9.github.io/en/tags/"
-                />
-  </url><url>
-    <loc>https://zywhy9.github.io/en/</loc>
-    <lastmod>2021-06-20T18:47:54+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zywhy9.github.io/zh/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zywhy9.github.io/en/"
-                />
-  </url><url>
-    <loc>https://zywhy9.github.io/en/project/bayesian/</loc>
-    <lastmod>2021-06-20T17:25:09+08:00</lastmod>
-  </url><url>
-    <loc>https://zywhy9.github.io/en/tag/ecology/</loc>
-    <lastmod>2021-06-20T17:25:09+08:00</lastmod>
-  </url><url>
-    <loc>https://zywhy9.github.io/en/project/</loc>
-    <lastmod>2021-06-20T17:25:09+08:00</lastmod>
-  </url><url>
-    <loc>https://zywhy9.github.io/en/category/statistical-ecology/</loc>
-    <lastmod>2021-06-20T17:25:09+08:00</lastmod>
   </url><url>
     <loc>https://zywhy9.github.io/en/category/basic-statistics/</loc>
     <lastmod>2021-04-17T20:37:15-04:00</lastmod>
@@ -107,9 +107,6 @@
                 />
   </url><url>
     <loc>https://zywhy9.github.io/en/post/bayesian-and-frequentist/</loc>
-    <lastmod>2021-02-28T11:12:47-05:00</lastmod>
-  </url><url>
-    <loc>https://zywhy9.github.io/en/tag/general-questions/</loc>
     <lastmod>2021-02-28T11:12:47-05:00</lastmod>
   </url><url>
     <loc>https://zywhy9.github.io/en/tag/announcements/</loc>
