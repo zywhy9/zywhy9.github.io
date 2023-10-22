@@ -38,10 +38,10 @@ education:
     - course: Ph.D. Statistics
       institution: University of Waterloo
       year: 2023
-    - course: MSc Statistics
+    - course: M.S. Statistics
       institution: University of California, Irvine
       year: 2019
-    - course: BSc Statistics
+    - course: B.S. Statistics
       institution: Donghua University
       year: 2017
 
