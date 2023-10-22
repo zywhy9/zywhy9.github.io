@@ -6,25 +6,25 @@
 en:
   languageCode: en-us
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  contentDir: content/en
+  # contentDir: content/en
 
 # Uncomment the lines below to configure your website in a second language.
-zh:
-  languageCode: zh-Hans
-  contentDir: content/zh
-  title: '王祎然'
-  params:
-    description: '王祎然统计'
-  menu:
-    main:
-      - name: '关于'
-        url: '#about'
-        weight: 1
-    main:
-      - name: '博客'
-        url: '#posts'
-        weight: 2
-    main:
-      - name: '联系方式'
-        url: '#contact'
-        weight: 3
+# zh:
+#   languageCode: zh-Hans
+#   contentDir: content/zh
+#   title: '王祎然'
+#   params:
+#     description: '王祎然统计'
+#   menu:
+#     main:
+#       - name: '关于'
+#         url: '#about'
+#         weight: 1
+#     main:
+#       - name: '博客'
+#         url: '#posts'
+#         weight: 2
+#     main:
+#       - name: '联系方式'
+#         url: '#contact'
+#         weight: 3
