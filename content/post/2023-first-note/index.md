@@ -11,8 +11,8 @@ tags:
 - Cat
 categories: 
 - Diary
-date: 2023-11-01
-lastmod: 2023-11-01
+date: 2023-11-01T10:00:00
+lastmod: 2023-11-01T10:00:00
 featured: false
 draft: false
 commentable: true
@@ -21,7 +21,7 @@ commentable: true
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
+  caption: "Small Lemon"
   focal_point: ""
   preview_only: false
 
@@ -37,11 +37,9 @@ Wow, I still can't believe that I wrote nothing this year! But so many things ha
 
 Lemon is a British shorthair cat. It is a little different about the description of color between English and Chinese. In general, Lemon is a white cat, but in Chinese, a white cat is a "silver" cat (Also dark grey = blue, yellow/orange = gold). And he has grey point coloration (a new word I learned from Wikipedia), which is related to his gene. We have him since last August, and he is already 1.5 years old. Quite amazing to watch him growing up from a small kitten to a big cat. Now he's more than 4.5 kgs, and quite heavy when I hug him.
 
-![screen reader text](Lemon1.jpg "Cute Lemon")
+![Cute Lemon](Lemon1.jpg "Cute Lemon")
 
 In this January, Lemon first suffered from burn after he jumped on the hot cooktop. During his recovery, he also suffered from a seizure caused by meningoencephalitis. Thankfully it's not primary epilepsy which is very common in pedigree cats. The whole recovery process took months. And now, Lemon is healthy and playful. Always curious about the outside and attempted a few times to run to the corridor when we opened the suite door.
-
-![screen reader text](Lemon2.jpg "Handsome Lemon")
 
 After experiencing Lemon's suffering, I watched a few documentories about vet clinic and decided to apply for volunteers for car rescue organizations. Now I have been volunteering for Toronto Car Rescue and Action Volunteers for Animals for eight months. During this period, I met a lot of different cats and also different people. Some people surrendered their cats because various reasons, such as allergy, cannot afford the medication fee, too many new-borns because they didn't neuter or spay their cats, leaving the town and cannot bring their cats. Especially during summer, some international students graduated and went back home, leaving their cats behind. 
 
