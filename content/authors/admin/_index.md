@@ -30,7 +30,7 @@ bio: My research interests include statistical ecology, Bayesian statistics and 
 # Interests to show in About widget
 interests:
   - Bayesian Statistics
-  - Statistical Ecolog
+  - Statistical Ecology
 
 # Education to show in About widget
 education:
