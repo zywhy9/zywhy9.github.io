@@ -30,7 +30,7 @@ bio: My research interests include statistical ecology, Bayesian statistics and 
 # Interests to show in About widget
 interests:
   - Bayesian Statistics
-  - Statistical Ecolog
+  - Statistical Ecology
 
 # Education to show in About widget
 education:
@@ -121,6 +121,6 @@ highlight_name: false
 
 I am a fifth-year PhD student in Statistics at the University of Waterloo, supervised by Prof. [Audrey Béliveau](https://uwaterloo.ca/scholar/a2belive/home) and Prof. [Martin Lysy](https://uwaterloo.ca/statistics-and-actuarial-science/people-profiles/martin-lysy).  
 
-My research is mainly concerned with Bayesian hierarchical modeling and is motivated by applications in Statistical Ecology. Currently I am working on capture-recapture studies and integrated population model. Moreover, I am interested in various problems in Bayesian methods. I am still learning more and more new areas of statistics and biostatistics.
+My research is mainly concerned with Bayesian hierarchical modeling and is motivated by applications in Statistical Ecology. Currently, I am working on capture-recapture studies and integrated population model. Moreover, I am interested in various problems in Bayesian methods. I am still learning more and more new areas of statistics and biostatistics.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}resumé{{< /staticref >}} (Updated 2023/10/21).
