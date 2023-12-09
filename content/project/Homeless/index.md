@@ -9,7 +9,6 @@ tags:
 - Ecology
 - Epidemiology
 categories: 
-- Statistical Ecology
 - Research
 date: 2023-12-09
 

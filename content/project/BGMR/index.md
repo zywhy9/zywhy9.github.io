@@ -8,7 +8,7 @@ authors:
 tags: 
 - Ecology
 categories: 
-- Statistical Ecology
+- Research
 date: 2022-07-14
 
 commentable: true
