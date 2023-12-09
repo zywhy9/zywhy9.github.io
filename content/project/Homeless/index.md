@@ -11,7 +11,7 @@ tags:
 categories: 
 - Statistical Ecology
 - Research
-date: 2023-12-9T15:20:04+08:00
+date: 2023-12-09
 
 commentable: true
 # Optional external URL for project (replaces project detail page).

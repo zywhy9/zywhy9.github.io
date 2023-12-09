@@ -9,7 +9,7 @@ tags:
 - Ecology
 categories: 
 - Statistical Ecology
-date: 2022-07-14T15:20:04+08:00
+date: 2022-07-14
 
 commentable: true
 # Optional external URL for project (replaces project detail page).
