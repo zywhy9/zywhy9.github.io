@@ -21,7 +21,7 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: 
+  caption: "New Orleans, November 2018. Homeless encampment under Pontchartrain Expressway. Photo by Infrogmation of New Orleans, November 2018."
   focal_point: "Smart"
   preview_only: false
 
