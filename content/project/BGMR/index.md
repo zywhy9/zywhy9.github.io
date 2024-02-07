@@ -44,7 +44,7 @@ url_video: ""
 slides: ""
 ---
 
-The slides can be found {{% staticref "uploads/SSC2022.pdf" "newtab" %}}here{{% /staticref %}}. And the poster can be found {{% staticref "uploads/ISBA2022.pdf" "newtab" %}}here{{% /staticref %}}.
+The slides can be found {{% staticref "uploads/JSM_2023.pdf" "newtab" %}}here{{% /staticref %}}. And the poster can be found {{% staticref "uploads/ISBA2022.pdf" "newtab" %}}here{{% /staticref %}}.
 
 ## Abstract
 
