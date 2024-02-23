@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD student in Statistics
+role: PhD Candidate in Statistics
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -28,7 +28,7 @@ organizations:
 bio: My current research areas are Bayesian methods and applications in ecology and epidemiology.
 
 # Interests to show in About widget
-Current research areas:
+Interests:
   - Bayesian Statistics
   - Statistical Ecology
   - Capture-recapture methods
