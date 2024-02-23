@@ -40,16 +40,27 @@ Sorry for the late post. It's already 2024! I just don't have enough enthusiasm 
     <figcaption>Montreal</figcaption>
 </figure>
 
+<figure>
+    <img src="quebec.jpg" title="Quebec City">
+    <figcaption>Quebec City</figcaption>
+</figure>
 
-<img src="quebec.jpg" title="Quebec City">
 
 And also the Niagara Falls!
 
-<img src="falls.jpg" title="Niagara Falls">
+<figure>
+    <img src="falls.jpg" title="Niagara Falls">
+    <figcaption>Niagara Falls</figcaption>
+</figure>
+
 
 After we came back to Toronto, she was invited by one of her professors who taught her during her undergraduate. So we drove to Windsor and on the way we also went to Point Pelee National Park, which is the southernmost point of mainland Canada.
 
-<img src="pelee.jpg" title="Point Pelee">
+<figure>
+    <img src="pelee.jpg" title="Point Pelee">
+    <figcaption>Point Pelee</figcaption>
+</figure>
+
 
 After JSM, we went to Alberta and BC. We started from Edmonton, then Jasper, Banff, Alberta, and Vancouver at the end. I always saw my friend's photos in Jasper and Banff, but it's really amazing when you look at it by your own. The wild animal is walking aside the road and sometimes you have to wait deers and goats crossing the road. For me, I work on statistical ecology but never had a field work. This trip is like a field work for me.
 
@@ -59,12 +70,22 @@ After JSM, we went to Alberta and BC. We started from Edmonton, then Jasper, Ban
 
 In Jasper, Banff and Yoho National Parks, we hiked in mountains, rowing boat on lakes, and walking on the icefield!
 
-<img src="emerald.jpg" title="Emerald Lake">
+<figure>
+    <img src="emerald.jpg" title="Emerald Lake">
+    <figcaption>Emerald Lake</figcaption>
+</figure>
 
-<img src="icefield.jpg" title="Columbia Icefield">
+<figure>
+    <img src="icefield.jpg" title="Columbia Icefield">
+    <figcaption>Columbia Icefield</figcaption>
+</figure>
 
 When summer ends, it's time to walk in the falling leaves! We hiked in Kelso Conservation Area. The route is not too long, but the scene is very beautiful.
 
-<img src="hiking.jpg" title="Kelso Conservation Area">
+<figure>
+    <img src="hiking.jpg" title="Kelso Conservation Area">
+    <figcaption>Kelso Conservation Area</figcaption>
+</figure>
+
 
 Hopefully in 2024, I could travel to more places. If possible, I hope I can go back to China and travel to more cities I haven't been to. Wish me good luck!
