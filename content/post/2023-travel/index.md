@@ -35,7 +35,11 @@ projects: []
 
 Sorry for the late post. It's already 2024! I just don't have enough enthusiasm to update on time LOL. One important thing for 2023 is that my mom came to Canada to spend her summer break. She has been to US as a visiting scholar but never came to Canada. I first brought her to Montreal and Quebec City which are two cities that I am familiar with.
 
-<img src="montreal.jpg" title="Montreal">
+<figure>
+    <img src="montreal.jpg" title="Montreal">
+    <figcaption>Montreal</figcaption>
+</figure>
+
 
 <img src="quebec.jpg" title="Quebec City">
 
