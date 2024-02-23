@@ -25,12 +25,13 @@ organizations:
     url: https://uwaterloo.ca/statistics-and-actuarial-science/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include statistical ecology, Bayesian statistics and its applications.
+bio: My current research areas are Bayesian methods and applications in ecology and epidemiology.
 
 # Interests to show in About widget
-interests:
+Current research areas:
   - Bayesian Statistics
   - Statistical Ecology
+  - Capture-recapture methods
 
 # Education to show in About widget
 education:
