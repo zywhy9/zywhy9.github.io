@@ -68,18 +68,6 @@ After JSM, we went to Alberta and BC. We started from Edmonton, then Jasper, Ban
 
 ![Black Bear](bear.jpg "Black Bear")
 
-In Jasper, Banff and Yoho National Parks, we hiked in mountains, rowing boat on lakes, and walking on the icefield!
-
-<figure>
-    <img src="emerald.jpg" title="Emerald Lake">
-    <figcaption>Emerald Lake</figcaption>
-</figure>
-
-<figure>
-    <img src="icefield.jpg" title="Columbia Icefield">
-    <figcaption>Columbia Icefield</figcaption>
-</figure>
-
 When summer ends, it's time to walk in the falling leaves! We hiked in Kelso Conservation Area. The route is not too long, but the scene is very beautiful.
 
 <figure>
