@@ -124,4 +124,4 @@ I am a fifth-year PhD student in Statistics at the University of Waterloo, super
 
 My research is mainly concerned with Bayesian hierarchical modeling and is motivated by applications in a variety of fields. Currently, I am working on capture-recapture methods and population size estimation. Moreover, I am also interested in various topics in Bayesian methods. I am still learning more and more new areas of statistics and biostatistics.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}resumé{{< /staticref >}} (Updated 2024/4/30).
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}resumé{{< /staticref >}} (Updated 2024/6/22).

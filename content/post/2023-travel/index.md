@@ -54,7 +54,7 @@ And also the Niagara Falls!
 </figure>
 
 
-After we came back to Toronto, she was invited by one of her professors who taught her during her undergraduate. So we drove to Windsor and on the way we also went to Point Pelee National Park, which is the southernmost point of mainland Canada.
+After we came back to Toronto, she was invited by one of her professors, who taught her during her undergraduate, to visit her house in Windsor. So we drove to Windsor and on the way we also went to Point Pelee National Park, which is the southernmost point of mainland Canada.
 
 <figure>
     <img src="pelee.jpg" title="Point Pelee">
@@ -62,7 +62,7 @@ After we came back to Toronto, she was invited by one of her professors who taug
 </figure>
 
 
-After JSM, we went to Alberta and BC. We started from Edmonton, then Jasper, Banff, Alberta, and Vancouver at the end. I always saw my friend's photos in Jasper and Banff, but it's really amazing when you look at it by your own. The wild animal is walking aside the road and sometimes you have to wait deers and goats crossing the road. For me, I work on statistical ecology but never had a field work. This trip is like a field work for me.
+After JSM, we went to Alberta and BC. We started from Edmonton, then Jasper, Banff, Alberta, and Vancouver at the end. I always saw my friend's photos in Jasper and Banff, but it's really amazing when you look at it by yourself. The wild animal is walking aside the road and sometimes you have to wait deers and goats crossing the road. For me, I work on statistical ecology but never had a field work. This trip is like a field work for me.
 
 ![Elk](elk.jpg "Elk")
 
