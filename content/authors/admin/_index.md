@@ -17,28 +17,29 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate in Statistics
+role: Postdoctoral Associate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Department of Statistics and Actuarial Science, University of Waterloo
-    url: https://uwaterloo.ca/statistics-and-actuarial-science/
+  - name: Department of Biostatistics, Yale School of Public Health
+    url: https://ysph.yale.edu/public-health-research-and-practice/department-research/biostatistics/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My current research areas are Bayesian methods and applications in ecology and epidemiology.
+bio: My current research areas are Bayesian methods and causal mediation analysis.
 
 # Interests to show in About widget
 Interests:
   - Bayesian Statistics
+  - Causal Inference
   - Statistical Ecology
-  - Capture-recapture methods
+  - Capture-Recapture Methods
 
 # Education to show in About widget
 education:
   courses:
     - course: Ph.D. Statistics
       institution: University of Waterloo
-      year: 2023
+      year: 2024
     - course: M.S. Statistics
       institution: University of California, Irvine
       year: 2019
@@ -120,8 +121,10 @@ social:
 highlight_name: false
 ---
 
-I am a fifth-year PhD student in Statistics at the University of Waterloo, supervised by Prof. [Audrey Béliveau](https://uwaterloo.ca/scholar/a2belive/home) and Prof. [Martin Lysy](https://uwaterloo.ca/statistics-and-actuarial-science/people-profiles/martin-lysy).  
+I am an incoming postdoctoral associate in biostatistics in Dr. Bhramar Mukherjee's lab at Yale University.
 
-My research is mainly concerned with Bayesian hierarchical modeling and is motivated by applications in a variety of fields. Currently, I am working on capture-recapture methods and population size estimation. Moreover, I am also interested in various topics in Bayesian methods. I am still learning more and more new areas of statistics and biostatistics.
+I recently graduated from the University of Waterloo for my Ph.D. in Statistics, supervised by Dr. [Audrey Béliveau](https://uwaterloo.ca/scholar/a2belive/home) and Dr. [Martin Lysy](https://uwaterloo.ca/statistics-and-actuarial-science/people-profiles/martin-lysy).  
+
+My research is mainly concerned with Bayesian hierarchical modeling and is motivated by applications in a variety of fields. During my Ph.D. study, I was working on capture-recapture methods and population size estimation. Moreover, I am also interested in various topics in Bayesian methods. I am still learning more and more new areas of statistics and biostatistics.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}resumé{{< /staticref >}} (Updated 2024/6/22).
