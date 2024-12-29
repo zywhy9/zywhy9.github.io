@@ -3,7 +3,7 @@
 title: Yiran Wang
 
 # Name pronunciation (optional)
-# name_pronunciation: Chien Shiung Wu
+name_pronunciation: 王祎然
 
 # Full name (for SEO)
 first_name: Yiran
