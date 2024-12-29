@@ -32,9 +32,9 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: ""
+url_code: "https://github.com/zywhy9/PlantCapture"
 url_pdf: "https://arxiv.org/pdf/2403.04058"
-url_slides: ""
+url_slides: "uploads/Student_Conference_YiranWang.pdf"
 url_video: ""
 
 # Slides (optional).
