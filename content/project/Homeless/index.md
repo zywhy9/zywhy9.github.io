@@ -33,7 +33,7 @@ image:
 #   icon: twitter
 
 url_code: ""
-url_pdf: ""
+url_pdf: "https://arxiv.org/pdf/2403.04058"
 url_slides: ""
 url_video: ""
 
@@ -45,7 +45,7 @@ url_video: ""
 slides: ""
 ---
 
-The slides can be found {{% staticref "uploads/Student_Conference_YiranWang.pdf" "newtab" %}}here{{% /staticref %}}.
+The slides can be found {{% staticref "uploads/Student_Conference_YiranWang.pdf" "newtab" %}}here{{% /staticref %}}, and an Arxiv version of the paper can be found [here](https://arxiv.org/pdf/2403.04058).
 
 ## Abstract
 
