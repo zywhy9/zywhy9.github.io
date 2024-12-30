@@ -78,7 +78,7 @@ sections:
   - block: collection
     id: publications
     content:
-      title: Publication
+      title: Publications
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
