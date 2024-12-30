@@ -2,6 +2,8 @@
 title: "Plant-Capture Methods for Estimating Population Size from Uncertain Plant Captures"
 authors:
 - admin
+- Martin Lysy
+- Audrey Béliveau
 date: "2024-12-30T00:00:00"
 doi: "https://doi.org/10.48550/arXiv.2403.04058"
 
