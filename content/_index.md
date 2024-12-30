@@ -75,6 +75,33 @@ sections:
   #   design:
   #     columns: '2'
   #     view: compact
+  - block: collection
+    id: publications
+    content:
+      title: Publication
+      subtitle: ''
+      text: ''
+      # Choose how many pages you would like to display (0 = all pages)
+      count: 3
+      # Filter on criteria
+      filters:
+        folders:
+          - publication
+        author: ""
+        category: ""
+        tag: ""
+        exclude_featured: false
+        exclude_future: false
+        exclude_past: false
+        publication_type: ""
+      # Choose how many pages you would like to offset by
+      offset: 0
+      # Page order: descending (desc) or ascending (asc) date.
+      order: desc
+    design:
+      # Choose a layout view
+      view: compact
+      columns: '1'
   - block: tag_cloud
     content:
       title: Popular Topics
@@ -88,17 +115,17 @@ sections:
       text: |-
         Please feel free to sent message to me here.
       # Contact (add or remove contact options as necessary)
-      email: yiran.wang2@uwaterloo.ca
+      email: yiran.wang.yw995@yale.edu
       # phone: 888 888 88 88
       # appointment_url: 'https://calendly.com'
       address:
-        street: Department of Statistics and Actuarial Science, University of Waterloo, 200 University Avenue West
-        city: Waterloo
-        region: 'ON'
-        postcode: 'N2L 3G1'
-        country: Canada
-        country_code: CA
-      directions: M3 4128
+        street: Department of Biostatistics, Yale University, 60 College St
+        city: New Haven
+        region: 'CT'
+        postcode: '06510'
+        country: U.S.
+        country_code: US
+      directions: Room 216
       # office_hours:
       #   - 'Monday 10:00 to 13:00'
       #   - 'Wednesday 09:00 to 10:00'
