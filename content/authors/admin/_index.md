@@ -104,6 +104,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/harryyiranwang/
+  - icon: bluesky
+    icon_pack: fab
+    link: https://bsky.app/profile/yiranwang.bsky.social
   - icon: google
     icon_pack: fab
     link: https://sites.google.com/view/yiranwangstat/home
