@@ -3,7 +3,7 @@ title: "Modeling and Bayesian Computations for Capture-Recapture Studies"
 authors:
 - admin
 date: "2024-12-30T00:00:00"
-doi: "https://hdl.handle.net/10012/20823"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-08-19T00:00:00"
