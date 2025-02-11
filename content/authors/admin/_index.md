@@ -91,5 +91,5 @@ I am a postdoctoral associate at Yale School of Public Health, working with Dr. 
 
 I recently graduated from the University of Waterloo for my Ph.D. in Statistics, supervised by Dr. [Audrey Béliveau](https://uwaterloo.ca/scholar/a2belive/home) and Dr. [Martin Lysy](https://uwaterloo.ca/statistics-and-actuarial-science/people-profiles/martin-lysy).  
 
-My research is mainly concerned with Bayesian hierarchical modeling and is motivated by applications in a variety of fields. During my Ph.D. study, I was working on capture-recapture methods and population size estimation. Moreover, I am also interested in various topics in Bayesian methods. I am still learning more and more new areas of statistics and biostatistics.
+My research is mainly concerned with Bayesian inference and is motivated by applications in a variety of fields. Currently, I'm working on Bayesian mediation analysis. During my Ph.D. study, I was working on capture-recapture methods and population size estimation. Moreover, I am also interested in various topics in Bayesian methods. I am still learning more and more new areas of statistics and biostatistics.
 
