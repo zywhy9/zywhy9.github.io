@@ -93,5 +93,5 @@ I recently graduated from the University of Waterloo for my Ph.D. in Statistics,
 
 My research is mainly concerned with Bayesian hierarchical modeling and is motivated by applications in a variety of fields. During my Ph.D. study, I was working on capture-recapture methods and population size estimation. Moreover, I am also interested in various topics in Bayesian methods. I am still learning more and more new areas of statistics and biostatistics.
 
-{{< icon name="download" pack="fas" >}} Download my [résumé](uploads/CV.pdf) (Updated 2024/11/7).
+Download my [résumé](uploads/CV.pdf) (Updated 2024/11/7).
 
