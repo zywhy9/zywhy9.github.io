@@ -69,7 +69,7 @@ sections:
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
-   - block: collection
+  - block: collection
     id: projects
     content:
       title: Projects
