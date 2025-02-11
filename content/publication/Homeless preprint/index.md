@@ -5,7 +5,7 @@ authors:
 - Martin Lysy
 - Audrey Béliveau
 date: "2024-12-30T00:00:00"
-doi: "https://doi.org/10.48550/arXiv.2403.04058"
+doi: "10.48550/arXiv.2403.04058"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-03-06T21:13:17"
