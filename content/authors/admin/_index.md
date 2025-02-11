@@ -27,22 +27,41 @@ organizations:
   - name: Department of Biostatistics, Yale School of Public Health
     url: https://ysph.yale.edu/public-health-research-and-practice/department-research/biostatistics/
 
+# # Social network links
+# # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
+# profiles:
+#   - icon: at-symbol
+#     url: 'mailto:yiran.wang.yw995@yale.edu'
+#     label: E-mail Me
+#   - icon: academicons/google-scholar
+#     link: https://scholar.google.com/citations?user=_lgZm3UAAAAJ&hl=en
+#   - icon: brands/github
+#     link: https://github.com/zywhy9
+#   - icon: brands/linkedin
+#     link: https://www.linkedin.com/in/harryyiranwang/
+#   - icon: bluesky
+#     link: https://bsky.app/profile/yiranwang.bsky.social
+#   - icon: bilibili
+#     link: https://space.bilibili.com/749168
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:yiran.wang.yw995@yale.edu'
+    url: 'mailto:your-email@example.com'
     label: E-mail Me
-  - icon: academicons/google-scholar
-    link: https://scholar.google.com/citations?user=_lgZm3UAAAAJ&hl=en
+  - icon: brands/x
+    url: https://twitter.com/GetResearchDev
+  - icon: brands/instagram
+    url: https://www.instagram.com/
   - icon: brands/github
-    link: https://github.com/zywhy9
+    url: https://github.com/gcushen
   - icon: brands/linkedin
-    link: https://www.linkedin.com/in/harryyiranwang/
-  - icon: bluesky
-    link: https://bsky.app/profile/yiranwang.bsky.social
-  - icon: bilibili
-    link: https://space.bilibili.com/749168
+    url: https://www.linkedin.com/
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/
+  - icon: academicons/orcid
+    url: https://orcid.org/
+
 
 interests:
   - Bayesian Statistics
