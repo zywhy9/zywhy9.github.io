@@ -41,7 +41,7 @@ sections:
     design:
       view: citation
   - block: collection
-    id: news
+    id: posts
     content:
       title: Recent Posts
       subtitle: ''
@@ -69,4 +69,14 @@ sections:
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
+   - block: collection
+    id: projects
+    content:
+      title: Projects
+      filters:
+        folders:
+          - project
+    design:
+      view: article-grid
+      columns: 1
 ---
