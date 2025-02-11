@@ -45,8 +45,6 @@ url_video: ""
 slides: ""
 ---
 
-The slides can be found [here](uploads/Student_Conference_YiranWang.pdf), and an Arxiv version of the paper can be found [here](https://arxiv.org/pdf/2403.04058).
-
 ## Abstract
 
 Plant-capture is a method used to estimate the size of a target population from the captured number of both target individuals and known "plants" randomly mixed into the population of interest. The method has shown considerable success in estimating population sizes from limited samples in many epidemiological, ecological, and demographic studies. However, previous plant-recapture studies have not systematically accounted for uncertainty in the capture status for the plants. In this work, we propose various approaches to formally incorporate the uncertainty due to multiple factors into the plant-capture model. We further introduce two inference methods and compare their performance in simulation studies. We then apply our methods to estimate the size of the homeless population in several US cities based on the famous "S-night" study conducted by the US Census Bureau.

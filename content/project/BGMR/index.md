@@ -43,7 +43,7 @@ url_video: ""
 slides: ""
 ---
 
-The slides can be found [here](uploads/JSM_2023.pdf). And the poster can be found [here](uploads/ISBA2022.pdf).
+The slides can be found [here](static/uploads/JSM_2023.pdf). And the poster can be found [here](static/uploads/ISBA2022.pdf).
 
 ## Abstract
 
