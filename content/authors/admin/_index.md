@@ -33,27 +33,16 @@ profiles:
   - icon: at-symbol
     url: 'mailto:yiran.wang.yw995@yale.edu'
     label: E-mail Me
-  - icon: researchgate
-    icon_pack: ai
-    link: https://www.researchgate.net/profile/Yiran_Wang32
-  - icon: github
-    icon_pack: fab
+  - icon: academicons/google-scholar
+    link: https://scholar.google.com/citations?user=_lgZm3UAAAAJ&hl=en
+  - icon: brands/github
     link: https://github.com/zywhy9
-  - icon: linkedin
-    icon_pack: fab
+  - icon: brands/linkedin
     link: https://www.linkedin.com/in/harryyiranwang/
   - icon: bluesky
-    icon_pack: fab
     link: https://bsky.app/profile/yiranwang.bsky.social
-  - icon: google
-    icon_pack: fab
-    link: https://sites.google.com/view/yiranwangstat/home
-  - icon: video
-    icon_pack: fas
+  - icon: bilibili
     link: https://space.bilibili.com/749168
-  - icon: cv
-    icon_pack: ai
-    link: uploads/CV.pdf
 
 interests:
   - Bayesian Statistics
