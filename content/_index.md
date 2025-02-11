@@ -80,9 +80,4 @@ sections:
     design:
       view: article-grid
       columns: 1
-  - block: tag_cloud
-    content:
-      title: Popular Topics
-    design:
-      columns: '2'
 ---
