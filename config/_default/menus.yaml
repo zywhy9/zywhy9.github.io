@@ -15,5 +15,9 @@ main:
     weight: 13
   - name: Projects
     url: /#projects
-    weight: 30
+    weight: 15
+  - name: Tags
+    identifier: tags
+    weight: 20
+
 

@@ -10,10 +10,9 @@ tags:
 categories:
 - Management
 date: 2021-02-15
+commentable: true
 image:
   caption: ""
-  focal_point: ""
-  preview_only: false
 
 ---
 
