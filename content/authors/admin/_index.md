@@ -63,7 +63,6 @@ interests:
   - Bayesian Statistics
   - Causal Inference
   - Statistical Ecology
-  - Capture-Recapture Methods
   
 education:
   - area: Ph.D. Statistics
