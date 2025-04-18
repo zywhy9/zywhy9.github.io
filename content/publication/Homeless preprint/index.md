@@ -5,7 +5,7 @@ authors:
 - Martin Lysy
 - Audrey Béliveau
 date: "2024-12-30T00:00:00"
-doi: "10.48550/arXiv.2403.04058"
+doi: "10.1097/EDE.0000000000001836"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-03-06T21:13:17"
@@ -29,7 +29,7 @@ tags:
 - Epidemiology
 featured: false
 
-url_pdf: https://arxiv.org/pdf/2403.04058
+url_pdf: 'https://journals.lww.com/epidem/fulltext/2025/05000/plant_capture_methods_for_estimating_homeless.5.aspx'
 url_code: 'https://github.com/zywhy9/PlantCapture'
 url_dataset: ''
 url_poster: ''
