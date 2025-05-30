@@ -10,7 +10,7 @@ tags:
 - Statistics
 categories: 
 - Diary
-date: 2025-4-18
+date: 2025-04-18
 commentable: true
 reading_time: true
 # Featured image
