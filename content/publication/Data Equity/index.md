@@ -8,7 +8,7 @@ authors:
   - Kate Nyhan
   - Ruchit Nagar
   - Jackson Higginbottom
-  - Megan L. Ranney
+  - Megan L Ranney
   - Harsh Parikh
   - Bhramar Mukherjee
 date: "2025-08-27T22:00:00"
