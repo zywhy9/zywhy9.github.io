@@ -6,7 +6,6 @@ summary: "A new framework for the plant-capture method to estimate population si
 authors:
 - admin
 tags: 
-- Ecology
 - Epidemiology
 categories: 
 - Research
