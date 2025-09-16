@@ -36,7 +36,7 @@ tags:
 featured: false
 
 url_pdf: 'https://arxiv.org/pdf/2509.10916'
-url_code: ''
+url_code: 'https://github.com/ysph-dsde/Mixture-Mediation-Tutorial'
 url_dataset: ''
 url_poster: ''
 url_project: ''
