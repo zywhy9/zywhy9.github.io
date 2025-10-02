@@ -9,7 +9,7 @@ tags:
 - Daily
 - Statistics
 - Bayesian
-- Statistics Ecology
+- Ecology
 - Conference
 categories: 
 - Diary
