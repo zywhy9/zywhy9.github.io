@@ -4,7 +4,7 @@ authors:
 - admin
 - Martin Lysy
 - Audrey Béliveau
-date: "2024-12-30T00:00:00"
+date: "2024-03-01T00:00:00"
 doi: "10.1097/EDE.0000000000001836"
 
 # Schedule page publish date (NOT publication's date).
@@ -16,7 +16,7 @@ publishDate: "2024-03-06T21:13:17"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Epidemiology"
 publication_short: ""
 
 abstract: Plant-capture is a variant of classical capture-recapture methods used to estimate the size of a population. In this method, decoys referred to as "plants" are introduced into the population in order to estimate the capture probability. The method has shown considerable success in estimating population sizes from limited samples in many epidemiological, ecological, and demographic studies. However, previous plant-recapture studies have not systematically accounted for uncertainty in the capture status of each individual plant. In this work, we propose various approaches to formally incorporate uncertainty into the plant-capture model arising from (i) the capture status of plants and (ii) the heterogeneity between multiple survey sites. We present two inference methods and compare their performance in simulation studies. We then apply our methods to estimate the size of the homeless population in several US cities using the large-scale "S-night" study conducted by the US Census Bureau.
