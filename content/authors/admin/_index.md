@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Postdoctoral Associate
+# role: Postdoctoral Associate
 
 # Organizations/Affiliations to display in Biography blox
-organizations:
-  - name: Department of Biostatistics, Yale School of Public Health
-    url: https://ysph.yale.edu/public-health-research-and-practice/department-research/biostatistics/
+#organizations:
+#  - name: Department of Biostatistics, Yale School of Public Health
+#    url: https://ysph.yale.edu/public-health-research-and-practice/department-research/biostatistics/
 
 # # Social network links
 # # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -86,7 +86,7 @@ education:
     summary: ""
 ---
 
-I am a postdoctoral associate at Yale School of Public Health, working with Dr. [Bhramar Mukherjee](https://ysph.yale.edu/profile/bhramar-mukherjee).
+I have just finished my job as a postdoctoral associate at Yale School of Public Health, working with Dr. [Bhramar Mukherjee](https://ysph.yale.edu/profile/bhramar-mukherjee).
 
 I recently graduated from the University of Waterloo for my Ph.D. in Statistics, supervised by Dr. [Audrey Béliveau](https://uwaterloo.ca/scholar/a2belive/home) and Dr. [Martin Lysy](https://uwaterloo.ca/statistics-and-actuarial-science/people-profiles/martin-lysy).  
 
