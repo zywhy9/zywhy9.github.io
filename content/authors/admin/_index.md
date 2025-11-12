@@ -30,15 +30,6 @@ highlight_name: true
 # # Social network links
 # # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 # profiles:
-#   - icon: at-symbol
-#     url: 'mailto:yiran.wang.yw995@yale.edu'
-#     label: E-mail Me
-#   - icon: academicons/google-scholar
-#     link: https://scholar.google.com/citations?user=_lgZm3UAAAAJ&hl=en
-#   - icon: brands/github
-#     link: https://github.com/zywhy9
-#   - icon: brands/linkedin
-#     link: https://www.linkedin.com/in/harryyiranwang/
 #   - icon: bluesky
 #     link: https://bsky.app/profile/yiranwang.bsky.social
 #   - icon: bilibili
