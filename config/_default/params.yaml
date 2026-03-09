@@ -13,7 +13,7 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   identity:
     # Site name - shown in navbar, footer, copyright, and browser title by default
-    name: "Your Name"
+    name: "Yiran Wang"
     # Legal entity for copyright notices (defaults to name if not set)
     organization: ""
     # Schema.org type for structured data
@@ -21,10 +21,10 @@ hugoblox:
     # Short tagline displayed on your site
     tagline: ""
     # Site meta description for search engines and social sharing
-    description: "The highly-customizable Hugo Academic theme powered by HugoBlox Kit. Easily create your personal academic website."
+    description: "Yiran Wang Statistics"
     # Social accounts (used for meta tags like Twitter Cards)
     social:
-      twitter: "MakeOwnable"              # Twitter/X handle for Twitter Cards (without @)
+      twitter: "YiranWangStat"              # Twitter/X handle for Twitter Cards (without @)
 
   # ────────────────────────────────────────────────────────────────────────────
   # THEME
@@ -185,14 +185,14 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   comments:
     enable: false
-    provider: ""                        # giscus | disqus
+    provider: "disqus"                        # giscus | disqus
     giscus:
       repo: ""
       repo_id: ""
       category: ""
       category_id: ""
     disqus:
-      shortname: ""
+      shortname: "zywhy9"
 
   # ────────────────────────────────────────────────────────────────────────────
   # ANALYTICS
@@ -200,7 +200,7 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   analytics:
     google:
-      measurement_id: ""                # Google Analytics 4: G-XXXXXXXXXX
+      measurement_id: "G-6YYCTKNYVC'"                # Google Analytics 4: G-XXXXXXXXXX
     google_tag_manager:
       container_id: ""                  # GTM-XXXXXXX
     plausible:
@@ -232,7 +232,7 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   repository:
     enable: false
-    url: ""                             # e.g., https://github.com/username/repo
+    url: "https://github.com/zywhy9/zywhy9.github.io"                             # e.g., https://github.com/username/repo
     branch: main
     content_dir: content
 
