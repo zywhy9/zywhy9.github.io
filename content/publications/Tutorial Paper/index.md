@@ -1,17 +1,17 @@
 ---
-title: "A Tutorial on Conducting Mediation Analysis with Exposure Mixtures"
+title: "A comparison and evaluation of statistical methods for mediation analysis with mixtures of environmental exposures"
 authors:
+  - Sean McGrath
   - me
   - Yi-Ting Lin
-  - Sean McGrath
   - John D Meeker
   - Sung Kyun Park
   - Joshua L Warren
   - Bhramar Mukherjee
-date: "2025-09-15T22:00:00"
+date: "2026-03-19T22:00:00"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-09-16T00:00:00"
+publishDate: "2026-03-19T00:00:00"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -19,12 +19,21 @@ publishDate: "2025-09-16T00:00:00"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "BMC Medical Research Methodology"
+publication_short: "BMC Med Res Methodol"
 
 abstract: |
-  Causal mediation analysis is a powerful tool in environmental health research, allowing researchers to uncover the pathways through which exposures influence health outcomes. While traditional mediation methods have been widely applied to individual exposures, real-world scenarios often involve complex mixtures. Such mixtures introduce unique methodological challenges, including multicollinearity, sparsity of active exposures, and potential nonlinear and interactive effects. This paper provides an overview of several commonly used approaches for mediation analysis under exposure mixture settings with clear strategies and code for implementation. The methods include: single exposure mediation analysis (SE-MA), principal component-based mediation analysis, environmental risk score-based mediation analysis, and Bayesian kernel machine regression causal mediation analysis. While SE-MA serves as a baseline that analyzes each exposure individually, the other methods are designed to address the correlation and complexity inherent in exposure mixtures. For each method, we aim to clarify the target estimand and the assumptions that each method is making to render a causal interpretation of the estimates obtained. We conduct a simulation study to systematically evaluate the operating characteristics of these four methods to estimate global indirect effects and to identify individual exposures contributing to the global mediation under varying sample sizes, effect sizes, and exposure-mediator-outcome structures. We also illustrate their real-world applicability by examining data from the PROTECT birth cohort, specifically analyzing the relationship between prenatal exposure to phthalate mixtures and neonatal head circumference Z-score, with leukotriene E4 as a mediator. This example offers practical guidance for conducting mediation analysis in complex environmental contexts.
+  **Background**
+  Environmental studies often evaluate how exposures influence health outcomes through intermediate biological processes. In practice, researchers are often interested in complex exposure mixtures rather than single agents, creating challenges for mediation analysis due to strong correlations among exposures, sparsity of active exposures, and possible nonlinear and interactive effects. This study compares and evaluates approaches for mediation analysis when exposures involve complex mixtures.
 
+  **Methods**
+  We review four strategies: (1) single-exposure mediation analysis that analyzes each exposure separately; (2) principal component–based mediation analysis that summarizes correlated exposures into orthogonal components; (3) environmental risk score–based mediation analysis that constructs a supervised prediction score for the exposure set and treats the score as the exposure; and (4) Bayesian kernel machine regression causal mediation analysis that flexibly models nonlinear and interactive mixture effects. For each approach, we clarify the target estimand and the assumptions required for causal interpretation. We conduct a simulation study to systematically evaluate the operating characteristics of these four methods to estimate global indirect effects and to identify individual exposures contributing to the global mediation under varying sample sizes and effect sizes. We then illustrate an application of these approaches in an observational birth cohort.
+
+  **Results**
+  In the simulation study, the single-exposure mediation analysis approach often produced highly biased estimates when not adjusting for co-exposures, and this bias was substantially reduced after co-exposure adjustment. For the mediation analysis methods designed to address the correlation and complexity in exposure mixtures, the performance often depended on a number of method-specific analytic choices, such as the number of principal components retained or the variable selection approach used in the Bayesian kernel machine regression method. In the data application, all methods found limited evidence of non-null global indirect effects and had broad agreement in which individual exposures were identified as potentially active, despite differences in their assumptions and causal estimands.
+
+  **Conclusion**
+  Multiple strategies are available for mediation analysis with exposure mixtures, each with distinct strengths. The study provides guidance on selecting and applying methods according to study aims and data features.
 # Summary. An optional shortened abstract.
 summary: ""
 
@@ -37,6 +46,7 @@ featured: false
 hugoblox:
   ids:
     arxiv: 2509.10916
+    doi: 10.1186/s12874-026-02809-0
 
 links:
 - type: code
@@ -63,3 +73,5 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+
+**Author note:** Sean McGrath and Yiran Wang contributed equally to this work.
