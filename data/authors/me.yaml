@@ -12,8 +12,8 @@ postnominals:
   - "PhD"
 status:
   icon: "🔬"
-role: "Researcher"
-bio: "Yiran Wang is a statistician. His research interests lie in developing methods that bridge theory and practice for a broad range of statistical problems, including Bayesian inference, population size estimation, mediation analysis, data integration, and latent variable models."
+role: "Postdoctoral Fellow"
+bio: "Yiran Wang is a Postdoctoral Fellow at Institute of Health Policy, Management and Evaluation, University of Toronto. His research interests lie in developing methods that bridge theory and practice for a broad range of statistical problems, including Bayesian inference, population size estimation, mediation analysis, data integration, and latent variable models."
 affiliations: []
 links:
   - icon: "at-symbol"
@@ -31,6 +31,8 @@ interests:
   - "Bayesian Statistics"
   - "Causal Inference"
   - "Statistical Ecology"
+  - "Epidemiology"
+  - "Environmental Health"
 education:
   - degree: "Ph.D. Statistics"
     institution: "University of Waterloo"
