@@ -153,7 +153,7 @@ hugoblox:
   content:
     # Math rendering
     math:
-      enable: false
+      enable: true
     # Table of contents
     toc:
       enable: true
@@ -180,7 +180,7 @@ hugoblox:
   # User comments system
   # ────────────────────────────────────────────────────────────────────────────
   comments:
-    enable: false
+    enable: true
     provider: "disqus" # giscus | disqus
     giscus:
       repo: ""
