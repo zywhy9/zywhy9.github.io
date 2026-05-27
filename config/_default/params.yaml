@@ -181,12 +181,12 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   comments:
     enable: true
-    provider: "disqus" # giscus | disqus
+    provider: "giscus" # giscus | disqus
     giscus:
-      repo: ""
-      repo_id: ""
-      category: ""
-      category_id: ""
+      repo_id: "R_kgDORitVKA"
+      category: "Announcements"
+      category_id: "DIC_kwDORitVKM4C9-MO"
+      repo: zywhy9/zywhy9.github.io
     disqus:
       shortname: "zywhy9"
 
