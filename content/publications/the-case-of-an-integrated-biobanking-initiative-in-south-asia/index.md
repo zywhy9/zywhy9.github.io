@@ -1,5 +1,5 @@
 ---
-title: The Case of An Integrated Biobanking Initiative in South Asia
+title: "The Case of An Integrated Biobanking Initiative in South Asia"
 
 # Authors
 # If you created a profile for a user (e.g. the default `me` user), write the username (folder name) here
@@ -22,10 +22,6 @@ authors:
   - Anurag Agrawal
   - Bhramar Mukherjee
 
-# Author notes (optional)
-author_notes:
-  - ""
-
 date: 2026-05-15T14:06:17.525Z
 
 # Schedule page publish date (NOT publication date).
@@ -33,7 +29,7 @@ publishDate: 2026-05-14T14:06:17.525Z
 
 # Publication type from the CSL standard.
 # Accepts a single type but formatted as a YAML list (Hugo requirement).
-publication_types: ["article-journal"]
+publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*The Lancet Regional Health - Southeast Asia*"
@@ -56,26 +52,7 @@ featured: false
 # Standard identifiers for auto-linking
 hugoblox:
   ids:
-    doi: "10.1016/j.lansea.2026.100777"
-
-# Custom links
-links:
-  - type: pdf
-    url: ""
-  - type: code
-    url: ""
-  - type: dataset
-    url: ""
-  - type: poster
-    url: ""
-  - type: project
-    url: ""
-  - type: slides
-    url: ""
-  - type: source
-    url: ""
-  - type: video
-    url: ""
+    doi: 10.1016/j.lansea.2026.100777
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -93,8 +70,6 @@ projects: []
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck folder name without extension.
 slides: ""
-
-draft: false
 ---
 
 <!-- Add the paper text or supplementary notes. Markdown, math, and code are supported. -->
