@@ -13,7 +13,7 @@ baseURL: 'https://zywhy9.github.io'
 ############################
 
 defaultContentLanguage: en
-hasCJKLanguage: false
+hasCJKLanguage: true
 defaultContentLanguageInSubdir: false
 removePathAccents: true
 
@@ -22,7 +22,7 @@ removePathAccents: true
 ############################
 
 cascade:
-  - _target:
+  - target:
       path: /slides/**
       kind: page
     outputs: [HTML, present]

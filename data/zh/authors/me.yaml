@@ -1,0 +1,66 @@
+schema: "hugoblox/author/v1"
+slug: "me"
+is_owner: true
+name:
+  display: "Yiran Wang"
+  given: "Yiran"
+  family: "Wang"
+  alternate: "王祎然"
+  pronunciation: ""
+  pronouns: "he/him"
+postnominals:
+  - "PhD"
+status:
+  icon: "🔬"
+role: "博士后研究员"
+bio: "王祎然现为多伦多大学卫生政策、管理与评估研究所博士后研究员。他的研究兴趣主要是发展能够连接统计理论与实际应用的方法，包括贝叶斯推断、总体规模估计、中介分析、数据整合和潜变量模型等。"
+links:
+  - icon: "at-symbol"
+    url: "mailto:zywhy9@gmail.com"
+    label: "给我发邮件"
+  - icon: "brands/github"
+    url: "https://github.com/zywhy9"
+  - icon: "brands/linkedin"
+    url: "https://www.linkedin.com/in/harryyiranwang/"
+  - icon: "academicons/google-scholar"
+    url: "https://scholar.google.com/citations?user=_lgZm3UAAAAJ&hl=en"
+  - icon: "academicons/orcid"
+    url: "https://orcid.org/0000-0003-1158-8367"
+interests:
+  - "贝叶斯统计"
+  - "因果推断"
+  - "统计生态学"
+  - "流行病学"
+  - "环境健康"
+education:
+  - degree: "统计学博士"
+    institution: "滑铁卢大学"
+    start: "2019-09-01"
+    end: "2024-08-19"
+    summary: "博士论文题目为 _Modeling and Bayesian Computations for Capture-Recapture Studies_，导师为 [Audrey Béliveau](https://uwaterloo.ca/scholar/a2belive/home) 博士和 [Martin Lysy](https://uwaterloo.ca/statistics-and-actuarial-science/people-profiles/martin-lysy) 博士。"
+    button:
+      text: "Modeling and Bayesian Computations for Capture-Recapture Studies"
+      url: "https://hdl.handle.net/10012/20823"
+      icon: ""
+  - degree: "统计学硕士"
+    institution: "加州大学欧文分校"
+    start: "2017-09-01"
+    end: "2019-06-14"
+    summary: ""
+  - degree: "统计学学士"
+    institution: "东华大学"
+    start: "2013-09-07"
+    end: "2017-06-30"
+    summary: ""
+experience:
+  - role: "博士后研究员"
+    org: "耶鲁大学公共卫生学院"
+    start: "2024-11-01"
+    end: "2025-10-31"
+    summary: ""
+skills: []
+languages: []
+awards: []
+ids:
+  research_gate: "Yiran-Wang-42"
+  orcid: "0000-0003-1158-8367"
