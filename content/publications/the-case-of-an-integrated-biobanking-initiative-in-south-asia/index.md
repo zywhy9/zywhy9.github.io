@@ -94,7 +94,7 @@ projects: []
 #   Simply enter your slide deck folder name without extension.
 slides: ""
 
-draft: true
+draft: false
 ---
 
 <!-- Add the paper text or supplementary notes. Markdown, math, and code are supported. -->
