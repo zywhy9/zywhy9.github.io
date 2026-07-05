@@ -7,7 +7,7 @@ draft: true
 # Featured image for cards/social
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'I'm in Nagoya!'
+  caption: "I'm in Nagoya!"
 
 cover:
   image: "https://images.unsplash.com/photo-1557682250-33bd709cbe85?q=80&w=1600"
