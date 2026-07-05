@@ -2,7 +2,7 @@
 title: ISBA 2026 in Nagoya, Japan!
 summary: "One of my favourite conferences was held in Japan!"
 date: 2026-07-05
-draft: true
+draft: false
 
 # Featured image for cards/social
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.

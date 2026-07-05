@@ -2,7 +2,7 @@
 title: 日本名古屋的 ISBA 2026！
 summary: "我最喜欢的会议之一，这次在日本举办！"
 date: 2026-07-05
-draft: true
+draft: false
 
 # Featured image for cards/social
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
