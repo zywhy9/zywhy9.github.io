@@ -1,28 +1,25 @@
-# Yiran Wang's academic website
+# Yiran Wang — Academic Website
 
-This repository contains the source for the English-only Quarto website published at
-<https://zywhy9.github.io/>.
+Source repository for [zywhy9.github.io](https://zywhy9.github.io/), the personal academic website of Yiran Wang, a statistician working on Bayesian methods, causal inference, epidemiology, and population health.
 
-## Local preview
+The website brings together:
 
-From the repository root, run:
+- a short academic biography and current research interests;
+- peer-reviewed publications, preprints, and dissertation work;
+- conference talks and posters organized by research project;
+- a blog covering research, conferences, and life beyond academia; and
+- a current curriculum vitae.
 
-```powershell
-quarto preview
-```
+The site is built with [Quarto](https://quarto.org/) and published through GitHub Pages. It includes responsive light and dark themes, site search, publication records with APA citations and BibTeX files, blog categories and tags, RSS, and Giscus comments.
 
-For a production render, run:
+## Content authoring
 
-```powershell
-quarto render
-```
+On Windows, new content can be created by double-clicking `New Blog Post.cmd` or `New Publication.cmd` in the repository root. Each small wizard asks for a URL slug, title, and date before creating the appropriate draft from the repository's templates.
 
-The rendered site is written to `_site/`, which is intentionally excluded from Git.
+A Blog command creates a draft at `blog/<slug>/index.qmd`. A Publication command creates a draft detail page, a `cite.bib` starter, and a `_listing-entry.md` snippet for the appropriate section of the Publications page. The generated files contain a small number of `TODO` markers for article-specific details.
 
-## Publishing
+## Repository history
 
-Pull requests targeting `main` run a full Quarto render as a validation check. A push to
-`main` renders the website and deploys the `_site/` artifact to GitHub Pages through
-`.github/workflows/publish.yml`.
+The current `main` branch contains the English-only Quarto website. The final HugoBlox version is preserved in the `codex/archive-hugoblox-final` branch.
 
-The final HugoBlox version is preserved in the `codex/archive-hugoblox-final` branch.
+Changes merged into `main` are built and published automatically by GitHub Actions.
