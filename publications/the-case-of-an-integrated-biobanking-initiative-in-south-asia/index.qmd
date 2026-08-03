@@ -1,0 +1,45 @@
+---
+title: "The case for an integrated biobanking initiative in South Asia"
+date: 2026-05-15
+author:
+  - "Maxwell Salvatore"
+  - "Yiran Wang"
+  - "Preeti Syal"
+  - "Brian Wahl"
+  - "Harsh Parikh"
+  - "Vishal Deo"
+  - "Naveen Kumar Bhatraju"
+  - "Kaushalya Jayaweera"
+  - "Nisha Rana"
+  - "Redoy Ranjan"
+  - "Fyezah Jehan"
+  - "Abdullah Yusuf"
+  - "Karthik Adapa"
+  - "Mona Duggal"
+  - "Anurag Agrawal"
+  - "Bhramar Mukherjee"
+categories:
+  - "Statistics"
+  - "Public Health"
+  - "Equity"
+venue: "The Lancet Regional Health - Southeast Asia"
+abstract: |
+  Large national, integrated biobanks have revolutionized how genetics-linked healthcare data can be scaled, providing access to massive databases to researchers globally. Recognizing the importance of integrated biobanks for public health and national scientific advancement, countries around the world have launched similar initiatives. Despite comprising a quarter of the world’s population, South Asia accounts for only 1·8% of EHR-indexed publications and 0·2% of GWAS participants. We argue for a South Asia Biobank Consortium: (1) a regional governing body overseeing interoperability across (2) national-level integrated biobanks that adapts the UK Biobank model to regional contexts (3) supported by federated analytics infrastructure with global access. If enacted, the consortium represents a scientific imperative and a pathway to digital health equity for nearly two billion people living in South Asia. We present a framework based on hallmarks of successful integrated biobanks and critical success factors. We propose a timeline for its establishment. Without decisive action, current disparities will worsen, leaving South Asia’s population marginalized as the transformative revolution continues. With a federated, equitable strategy, South Asia can transform from a peripheral participant into a central driver of biomedical discovery – strengthening health systems, advancing equity, and realizing the global promise of precision medicine.
+format:
+  html:
+    include-before-body: ../../_includes/back-to-publications.html
+---
+**The Lancet Regional Health - Southeast Asia**
+
+## Resources
+
+::: {.publication-links}
+[DOI](https://doi.org/10.1016/j.lansea.2026.100777)
+[BibTeX](cite.bib)
+:::
+
+## Citation (APA)
+
+::: {.publication-citation}
+Salvatore, M., Wang, Y., Syal, P., Wahl, B., Parikh, H., Deo, V., Bhatraju, N. K., Jayaweera, K., Rana, N., Ranjan, R., Jehan, F., Yusuf, A., Adapa, K., Duggal, M., Agrawal, A., & Mukherjee, B. (2026). The case for an integrated biobanking initiative in South Asia. *The Lancet Regional Health – Southeast Asia, 49*, 100777. [https://doi.org/10.1016/j.lansea.2026.100777](https://doi.org/10.1016/j.lansea.2026.100777)
+:::

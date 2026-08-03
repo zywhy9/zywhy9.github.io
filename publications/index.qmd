@@ -1,0 +1,142 @@
+---
+title: "Publications"
+page-layout: full
+body-classes: custom-page
+---
+
+::: {.content-page}
+::: {.page-heading}
+# Publications
+
+Peer-reviewed articles, preprints, and dissertation work.
+
+<p class="authorship-note"><sup>†</sup> Denotes co-first authorship.</p>
+:::
+
+## Peer-reviewed
+
+::: {.publication-entry}
+### [Frailty and low utilization of curative-intent surgical resection in non-metastatic pancreatic cancer](frailty-pancreatic-cancer/)
+
+Lauren Raymond-King, Sean McGrath, Bhramar Mukherjee, **Yiran Wang**, Harsh Parikh, John Rothen, Pamela R. Soulos, Cary P. Gross, and John W. Kunstman
+
+::: {.publication-meta}
+*JNCI Cancer Spectrum*, 2026
+:::
+
+::: {.publication-links}
+[DOI](https://doi.org/10.1093/jncics/pkag078)
+[BibTeX](frailty-pancreatic-cancer/cite.bib)
+:::
+:::
+
+::: {.publication-entry}
+### [A comparison and evaluation of statistical methods for mediation analysis with mixtures of environmental exposures](tutorial-paper/)
+
+Sean McGrath<sup>†</sup>, **Yiran Wang**<sup>†</sup>, Yi-Ting Lin, John D. Meeker, Sung Kyun Park, Joshua L. Warren, and Bhramar Mukherjee
+
+::: {.publication-meta}
+*BMC Medical Research Methodology*, 2026
+:::
+
+::: {.publication-links}
+[DOI](https://doi.org/10.1186/s12874-026-02809-0)
+[arXiv](https://arxiv.org/abs/2509.10916)
+[Code](https://github.com/ysph-dsde/Mixture-Mediation-Tutorial)
+[BibTeX](tutorial-paper/cite.bib)
+:::
+:::
+
+::: {.publication-entry}
+### [The case for an integrated biobanking initiative in South Asia](the-case-of-an-integrated-biobanking-initiative-in-south-asia/)
+
+Maxwell Salvatore, **Yiran Wang**, Preeti Syal, Brian Wahl, Harsh Parikh, et al.
+
+::: {.publication-meta}
+*The Lancet Regional Health - Southeast Asia*, 2026
+:::
+
+::: {.publication-links}
+[DOI](https://doi.org/10.1016/j.lansea.2026.100777)
+[BibTeX](the-case-of-an-integrated-biobanking-initiative-in-south-asia/cite.bib)
+:::
+:::
+
+::: {.publication-entry}
+### [Ten Core Concepts for Ensuring Data Equity in Public Health](data-equity/)
+
+**Yiran Wang**, Alicia E. Boyd, Lillian Rountree, Yi Ren, Kate Nyhan, et al.
+
+::: {.publication-meta}
+*JAMA Health Forum*, 2026
+:::
+
+::: {.publication-links}
+[DOI](https://doi.org/10.1001/jamahealthforum.2025.6031)
+[BibTeX](data-equity/cite.bib)
+:::
+:::
+
+::: {.publication-entry}
+### [Advanced glycation end-product adducts alter the bone collagen network and human cortical bone fracture resistance](bone/)
+
+Daniel Y. Dapaah, Shoutaro Arakawa, Gwennyth A. Carroll, **Yiran Wang**, Stewart McLachlin, Mitsuru Saito, and Thomas L. Willett
+
+::: {.publication-meta}
+*JBMR Plus*, 2026
+:::
+
+::: {.publication-links}
+[DOI](https://doi.org/10.1093/jbmrpl/ziaf172)
+[BibTeX](bone/cite.bib)
+:::
+:::
+
+::: {.publication-entry}
+### [Plant-Capture Methods for Estimating Homeless Population Size From Uncertain Plant Captures](homeless/)
+
+**Yiran Wang**, Martin Lysy, and Audrey Béliveau
+
+::: {.publication-meta}
+*Epidemiology*, 2025
+:::
+
+::: {.publication-links}
+[DOI](https://doi.org/10.1097/EDE.0000000000001836)
+[Code](https://github.com/zywhy9/PlantCapture)
+[BibTeX](homeless/cite.bib)
+:::
+:::
+
+## Preprints
+
+::: {.publication-entry}
+### [Rapid Scaling of Compositional Uncertainty from Sample to Population Levels](taku-preprint/)
+
+**Yiran Wang**, Martin Lysy, and Audrey Béliveau
+
+::: {.publication-meta}
+Preprint, 2025
+:::
+
+::: {.publication-links}
+[arXiv](https://arxiv.org/abs/2510.0098)
+[BibTeX](taku-preprint/cite.bib)
+:::
+:::
+
+## Dissertation
+
+::: {.publication-entry}
+### [Modeling and Bayesian Computations for Capture-Recapture Studies](phd-thesis/)
+
+::: {.publication-meta}
+PhD dissertation, University of Waterloo, 2024
+:::
+
+::: {.publication-links}
+[Repository](https://hdl.handle.net/10012/20823)
+[BibTeX](phd-thesis/cite.bib)
+:::
+:::
+:::

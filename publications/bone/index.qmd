@@ -1,0 +1,36 @@
+---
+title: "Advanced glycation end-product adducts alter the bone collagen network and human cortical bone fracture resistance"
+date: 2025-11-03
+author:
+  - "Daniel Y Dapaah"
+  - "Shoutaro Arakawa"
+  - "Gwennyth A Carroll"
+  - "Yiran Wang"
+  - "Stewart McLachlin"
+  - "Mitsuru Saito"
+  - "Thomas L Willett"
+categories:
+  - "Consulting Projects"
+venue: "JBMR Plus"
+abstract: |
+  Elevated levels of AGEs have been implicated in the increased fracture risk of type 2 diabetes (T2D) and CKD patients. AGEs are widely thought to “over-crosslink” bone collagen, making it stiff and less ductile, leading to reduced cortical bone fracture resistance. This idea is primarily based on in vitro studies where predominately pentosidine, an AGE crosslink, has been used as a biomarker for AGEs. However, more recent studies have found that non-crosslinking AGE adducts to be roughly 40-200 times more abundant than pentosidine in human specimens. In addition, ex vivo studies have shown a denatured and less connected collagen network is associated with reduced fracture resistance. This highlights a disconnect in understanding regarding how AGEs impact cortical bone fragility. Specifically, the relationships between AGEs, bone collagen network properties, and cortical bone fracture toughness are poorly understood. Three AGE adducts (carboxy-methyl-lysine, carboxy-ethyl-lysine, 5-hydro-5-methyl-4-imidazolon-2-yl-ornithine 1), pentosidine, collagen network measures, and the fracture toughness of cortical bone specimens from a large heterogenous group of 80 human donors with and without a history of T2D and/or CKD were measured ex vivo. The AGE adducts contents were 57%-63% higher in the T2D/CKD group compared to the controls and were 70-830 times more abundant than pentosidine. The AGE adducts also correlated negatively and strongly with hydroxylysinonorleucine (HLNL), an immature lysyl oxidase-mediated crosslink (r = −0.62 to −0.71, p < .001). From multiple linear regression (MLR) models, interactions between HLNL and collagen network connectivity and cortical bone porosity best explained 2 fracture toughness measures: J-int and Wfxn (adj-R2 = 47.6% and 40.9%, respectively). From these results, AGE adducts are proposed to disrupt immature crosslink formation during bone remodeling, ultimately leading to a reduction in the cortical bone fracture resistance over time.
+format:
+  html:
+    include-before-body: ../../_includes/back-to-publications.html
+---
+**JBMR Plus**
+
+
+
+## Resources
+
+::: {.publication-links}
+[DOI](https://doi.org/10.1093/jbmrpl/ziaf172)
+[BibTeX](cite.bib)
+:::
+
+## Citation (APA)
+
+::: {.publication-citation}
+Dapaah, D. Y., Arakawa, S., Carroll, G. A., Wang, Y., McLachlin, S., Saito, M., & Willett, T. L. (2026). Advanced glycation end-product adducts alter the bone collagen network and human cortical bone fracture resistance. *JBMR Plus, 10*(1), ziaf172. [https://doi.org/10.1093/jbmrpl/ziaf172](https://doi.org/10.1093/jbmrpl/ziaf172)
+:::

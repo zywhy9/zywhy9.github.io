@@ -67,3 +67,9 @@ Desktop.ini
 
 *.log
 npm-debug.log*
+
+/.quarto/
+/_site/
+/quarto-site/
+**/*.quarto_ipynb
+__pycache__/

@@ -1,0 +1,93 @@
+---
+title: "Yiran Wang"
+pagetitle: "Yiran Wang | Statistician"
+title-prefix: ""
+page-layout: full
+body-classes: custom-page
+---
+
+::::: {.home-shell}
+:::: {.profile-panel}
+![](assets/images/profile.png){.profile-photo alt="Portrait of Yiran Wang"}
+
+## Yiran Wang {.profile-name}
+
+::: {.profile-role}
+Postdoctoral Fellow
+:::
+
+::: {.profile-affiliation}
+Institute of Health Policy, Management and Evaluation<br>
+University of Toronto
+:::
+
+::: {.profile-links}
+<a href="mailto:yiranwang.wang@utoronto.ca" aria-label="Email" title="Email"><i class="bi bi-envelope-fill" aria-hidden="true"></i></a>
+<a href="https://github.com/zywhy9" aria-label="GitHub" title="GitHub"><i class="bi bi-github" aria-hidden="true"></i></a>
+<a href="https://scholar.google.com/citations?user=_lgZm3UAAAAJ&hl=en" aria-label="Google Scholar" title="Google Scholar"><i class="ai ai-google-scholar" aria-hidden="true"></i></a>
+<a href="https://orcid.org/0000-0003-1158-8367" aria-label="ORCID" title="ORCID"><i class="ai ai-orcid" aria-hidden="true"></i></a>
+<a href="https://www.linkedin.com/in/harryyiranwang/" aria-label="LinkedIn" title="LinkedIn"><i class="bi bi-linkedin" aria-hidden="true"></i></a>
+:::
+::::
+
+:::: {.home-main}
+::: {.lede}
+I am a Postdoctoral Fellow at the University of Toronto, working with Dr. [Kuan Liu](https://www.kuan-liu.com/). My research develops statistical methods that connect rigorous inference with practical questions in public health, epidemiology, and ecology.
+:::
+
+I received my PhD in Statistics from the University of Waterloo, supervised by Dr. [Audrey Béliveau](https://uwaterloo.ca/scholar/a2belive/home) and Dr. [Martin Lysy](https://uwaterloo.ca/statistics-and-actuarial-science/people-profiles/martin-lysy). I was previously a Postdoctoral Associate at the Yale School of Public Health, working with Dr. [Bhramar Mukherjee](https://ysph.yale.edu/profile/bhramar-mukherjee/).
+
+::: {.home-section}
+## Research interests
+
+My current work focuses on using Bayesian causal inference methods to explore the effect of extreme weather on health outcomes. I am also interested in capture–recapture methods, population size estimation, data integration, and latent variable models.
+
+<ul class="interest-list">
+  <li>Bayesian inference</li>
+  <li>Capture-recapture</li>
+  <li>Causal inference</li>
+  <li>Latent factor modeling</li>
+  <li>Data integration</li>
+  <li>Statistical ecology</li>
+</ul>
+:::
+
+::: {.home-section}
+## Latest news
+
+<ul class="news-list">
+  <li class="news-item">
+    <time class="news-date" datetime="2026-08">August 2026</time>
+    <ul class="news-copy">
+      <li>Attended IMS NRC 2026 at UMass Amherst.</li>
+    </ul>
+  </li>
+  <li class="news-item">
+    <time class="news-date" datetime="2026-07">July 2026</time>
+    <ul class="news-copy">
+      <li>Attended ISBA 2026 in Nagoya and PCIC 2026 in Tianjin.</li>
+      <li>Our article on pancreatic cancer was published in <em>JNCI Cancer Spectrum</em>.</li>
+    </ul>
+  </li>
+  <li class="news-item">
+    <time class="news-date" datetime="2026-05">May 2026</time>
+    <ul class="news-copy">
+      <li>Joined the University of Toronto as a Postdoctoral Fellow.</li>
+    </ul>
+  </li>
+  <li class="news-item">
+    <time class="news-date" datetime="2026-03">March 2026</time>
+    <ul class="news-copy">
+      <li>Our tutorial and comparative evaluation of mediation methods for exposure mixtures was published in <em>BMC Medical Research Methodology</em>.</li>
+    </ul>
+  </li>
+  <li class="news-item">
+    <time class="news-date" datetime="2026-01">January 2026</time>
+    <ul class="news-copy">
+      <li>Our article on enhancing data equity in public health data science was published in <em>JAMA Health Forum</em>.</li>
+    </ul>
+  </li>
+</ul>
+:::
+::::
+:::::

@@ -1,0 +1,34 @@
+---
+title: "Plant-Capture Methods for Estimating Homeless Population Size From Uncertain Plant Captures"
+date: 2025-03-01
+author:
+  - "Yiran Wang"
+  - "Martin Lysy"
+  - "Audrey Béliveau"
+categories:
+  - "Homeless"
+  - "Epidemiology"
+venue: "Epidemiology"
+abstract: |
+  Plant-capture is a variant of classical capture-recapture methods used to estimate the size of a population. In this method, decoys referred to as "plants" are introduced into the population in order to estimate the capture probability. The method has shown considerable success in estimating population sizes from limited samples in many epidemiological, ecological, and demographic studies. However, previous plant-recapture studies have not systematically accounted for uncertainty in the capture status of each individual plant. In this work, we propose various approaches to formally incorporate uncertainty into the plant-capture model arising from (i) the capture status of plants and (ii) the heterogeneity between multiple survey sites. We present two inference methods and compare their performance in simulation studies. We then apply our methods to estimate the size of the homeless population in several US cities using the large-scale "S-night" study conducted by the US Census Bureau.
+format:
+  html:
+    include-before-body: ../../_includes/back-to-publications.html
+---
+**Epidemiology**
+
+
+
+## Resources
+
+::: {.publication-links}
+[DOI](https://doi.org/10.1097/EDE.0000000000001836)
+[Code](https://github.com/zywhy9/PlantCapture)
+[BibTeX](cite.bib)
+:::
+
+## Citation (APA)
+
+::: {.publication-citation}
+Wang, Y., Lysy, M., & Béliveau, A. (2025). Plant-capture methods for estimating homeless population size from uncertain plant captures. *Epidemiology, 36*(3), 319–326. [https://doi.org/10.1097/EDE.0000000000001836](https://doi.org/10.1097/EDE.0000000000001836)
+:::

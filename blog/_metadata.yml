@@ -1,0 +1,13 @@
+comments:
+  giscus:
+    repo: "zywhy9/zywhy9.github.io"
+    repo-id: "R_kgDORitVKA"
+    category: "Announcements"
+    category-id: "DIC_kwDORitVKM4C9-MO"
+    mapping: pathname
+    reactions-enabled: true
+    input-position: bottom
+    loading: lazy
+    theme:
+      light: light
+      dark: dark_dimmed

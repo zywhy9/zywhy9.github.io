@@ -1,0 +1,48 @@
+---
+title: "Frailty and low utilization of curative-intent surgical resection in non-metastatic pancreatic cancer"
+date: 2026-07-31
+author:
+  - "Lauren Raymond-King"
+  - "Sean McGrath"
+  - "Bhramar Mukherjee"
+  - "Yiran Wang"
+  - "Harsh Parikh"
+  - "John Rothen"
+  - "Pamela R Soulos"
+  - "Cary P Gross"
+  - "John W Kunstman"
+categories:
+  - "Cancer"
+  - "Epidemiology"
+  - "Frailty"
+venue: "JNCI Cancer Spectrum"
+abstract: |
+  **Introduction**
+  Curative-intent treatment for pancreatic ductal adenocarcinoma (PDAC) necessitates major surgery and chemotherapy, yet many patients do not undergo resection. Frailty may contribute to this phenomenon, but its prevalence and association with pancreatectomy in PDAC remains poorly defined. This study describes the distribution of frailty and its association with curative-intent surgery in a nationally representative cohort of patients with non-metastatic PDAC.
+
+  **Methods**
+  Using SEER-Medicare data (2013–2019), we identified patients aged 66 years or older with non-metastatic PDAC. Frailty was categorized as non-frail, pre-frail, mildly frail, or moderately-to-severely frail using the Claims-based Frailty Index over the 12 months preceding diagnosis. We evaluated frailty distributions via kernel density estimation and assessed the association between frailty category and receipt of surgery via logistic regression.
+
+  **Results**
+  Among 8,237 patients (mean age 78, 57.6% female, 77.4% White), 2,486 underwent curative-intent pancreatectomy (30.2%). Surgery was performed in 39.7% of non-frail and 30.7% of pre-frail patients; after adjustment, pre-frail patients had similar odds of resection compared with non-frail patients. In contrast, 15.8% of mildly frail and 5.7% of moderately-to-severely frail patients underwent surgery, and both groups had significantly lower odds of surgery than non-frail patients.
+
+  **Conclusions**
+  Fewer than 40% of non-frail patients with non-metastatic PDAC underwent surgery, suggesting that curative-intent treatment remains infrequent even among lower-risk adults. Frailty is also common and strongly associated with decreased odds of surgical resection.
+format:
+  html:
+    include-before-body: ../../_includes/back-to-publications.html
+---
+**JNCI Cancer Spectrum**
+
+## Resources
+
+::: {.publication-links}
+[DOI](https://doi.org/10.1093/jncics/pkag078)
+[BibTeX](cite.bib)
+:::
+
+## Citation (APA)
+
+::: {.publication-citation}
+Raymond-King, L., McGrath, S., Mukherjee, B., Wang, Y., Parikh, H., Rothen, J., Soulos, P. R., Gross, C. P., & Kunstman, J. W. (2026). Frailty and low utilization of curative-intent surgical resection in non-metastatic pancreatic cancer. *JNCI Cancer Spectrum*. Advance online publication. [https://doi.org/10.1093/jncics/pkag078](https://doi.org/10.1093/jncics/pkag078)
+:::

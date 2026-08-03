@@ -1,0 +1,22 @@
+---
+title: "Finally got my paper published!"
+description: "It's been a while since I finished this though."
+date: 2025-04-18
+author: "Yiran Wang"
+categories:
+  - "Academic"
+tags:
+  - "Research"
+  - "Statistical Methods"
+  - "Academic Life"
+image: "featured.jpg"
+draft: false
+format:
+  html:
+    include-before-body: ../../_includes/back-to-blog.html
+---
+I'm so excited that one of my PhD research paper got published! And I feel that even this will be a short post, I have to write it down. You can find the paper [here](https://journals.lww.com/epidem/fulltext/2025/05000/plant_capture_methods_for_estimating_homeless.5.aspx).
+
+In this work, we develop statistical methods to estimate the size of the homeless population using plant-capture techniques, accounting for uncertainty in capture status and heterogeneity across survey sites. We apply our model to data from the U.S. Census Bureau’s S-Night study to provide more reliable population size estimates.
+
+Still have two papers sleeping in my Overleaf and hopefully both of them can be published later. Meanwhile, I'm finishing two papers and planning to submit them later this year. Fingers crossed!
