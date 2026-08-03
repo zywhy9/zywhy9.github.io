@@ -1,0 +1,33 @@
+---
+title: "<<TITLE>>"
+date: <<DATE>>
+author:
+  - "Yiran Wang"
+  - "TODO: Coauthor"
+categories:
+  - "TODO: Research area"
+venue: "TODO: Journal or repository"
+abstract: |
+  TODO: Add the abstract.
+draft: true
+format:
+  html:
+    include-before-body: ../../_includes/back-to-publications.html
+---
+
+**TODO: Journal or repository**
+
+<!-- Optional: add an author note here for co-first authorship. -->
+
+## Resources
+
+::: {.publication-links}
+[DOI](https://doi.org/TODO)
+[BibTeX](cite.bib)
+:::
+
+## Citation (APA)
+
+::: {.publication-citation}
+TODO: Add the APA citation using the journal record or Google Scholar. Link the DOI, not this website.
+:::

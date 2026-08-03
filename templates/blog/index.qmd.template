@@ -1,0 +1,20 @@
+---
+title: "<<TITLE>>"
+description: "TODO: Add a one-sentence summary."
+date: <<DATE>>
+author: "Yiran Wang"
+categories:
+  - "Academic"
+tags:
+  - "Research"
+draft: true
+format:
+  html:
+    include-before-body: ../../_includes/back-to-blog.html
+---
+
+<!-- TODO: Replace the placeholder category and tags with recurring site labels. -->
+
+Start writing here.
+
+<!-- Optional: add featured.jpg to this folder and image: "featured.jpg" above. -->
