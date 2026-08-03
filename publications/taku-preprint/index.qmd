@@ -1,0 +1,32 @@
+---
+title: "Rapid Scaling of Compositional Uncertainty from Sample to Population Levels"
+date: 2025-10-02
+author:
+  - "Yiran Wang"
+  - "Martin Lysy"
+  - "Audrey Béliveau"
+categories:
+  - "Capture-recapture"
+  - "Ecology"
+  - "Bayesian"
+  - "Statistics"
+abstract: |
+  Understanding population composition is essential across ecological, evolutionary, conservation, and resource management contexts. Modern methods such as genetic stock identification (GSI) estimate the proportion of individuals from each subpopulation using genetic data. Ideally, these estimates are obtained through mixture analysis, which captures both sampling and genetic uncertainty. However, historical datasets often rely on individual assignment methods that only account for sample-level uncertainty, limiting the validity of population-level inferences. To address this, we propose a reverse Dirichlet-multinomial model and derive multiple variance estimators to propagate uncertainty from the sample to the population level. We extend this framework to genetic mark-recapture studies, assess performance via simulation, and apply our method to estimate the escapement of Sockeye Salmon (Oncorhynchus nerka) in the Taku River.
+format:
+  html:
+    include-before-body: ../../_includes/back-to-publications.html
+---
+
+
+## Resources
+
+::: {.publication-links}
+[arXiv](https://arxiv.org/abs/2510.00980)
+[BibTeX](cite.bib)
+:::
+
+## Citation (APA)
+
+::: {.publication-citation}
+Wang, Y., Lysy, M., & Béliveau, A. (2025). *Rapid scaling of compositional uncertainty from sample to population levels* [Preprint]. arXiv. [https://arxiv.org/abs/2510.00980](https://arxiv.org/abs/2510.00980)
+:::

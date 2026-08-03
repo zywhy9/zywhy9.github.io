@@ -1,0 +1,63 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - "*.qmd"
+    - "blog/**/*.qmd"
+    - "publications/**/*.qmd"
+    - "talks/**/*.qmd"
+
+website:
+  title: "Yiran Wang"
+  site-url: "https://zywhy9.github.io"
+  description: "Yiran Wang is a statistician working on Bayesian inference, causal inference, and population size estimation."
+  favicon: assets/images/profile.png
+  open-graph: true
+  twitter-card:
+    creator: "@YiranWangStat"
+  google-analytics:
+    tracking-id: "G-6YYCTKNYVC"
+    anonymize-ip: true
+    storage: cookies
+  navbar:
+    pinned: true
+    left:
+      - text: Publications
+        href: publications/index.qmd
+      - text: Talks
+        href: talks/index.qmd
+      - text: Blog
+        href: blog/index.qmd
+      - text: CV
+        href: assets/files/CV.pdf
+        target: _blank
+    right:
+      - icon: github
+        href: https://github.com/zywhy9
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://www.linkedin.com/in/harryyiranwang/
+        aria-label: LinkedIn
+      - icon: search
+        aria-label: Search
+  search:
+    location: navbar
+    type: overlay
+  page-footer:
+    left: "© 2026 Yiran Wang"
+    right: "Built with [Quarto](https://quarto.org/)"
+
+format:
+  html:
+    theme:
+      light: [cosmo, theme-light.scss, styles.scss]
+      dark: [darkly, theme-dark.scss, styles.scss]
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true
+
+execute:
+  freeze: auto
+
+filters:
+  - filters/blog-tags.lua

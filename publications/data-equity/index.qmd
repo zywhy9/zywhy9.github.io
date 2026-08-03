@@ -1,0 +1,40 @@
+---
+title: "Ten Core Concepts for Ensuring Data Equity in Public Health"
+date: 2026-01-09
+author:
+  - "Yiran Wang"
+  - "Alicia E Boyd"
+  - "Lillian Rountree"
+  - "Yi Ren"
+  - "Kate Nyhan"
+  - "Ruchit Nagar"
+  - "Jackson Higginbottom"
+  - "Megan L Ranney"
+  - "Harsh Parikh"
+  - "Bhramar Mukherjee"
+categories:
+  - "Public Health"
+  - "Equity"
+venue: "JAMA Health Forum"
+abstract: |
+  Public health decisions increasingly rely on large-scale data and emerging technologies such as artificial intelligence and mobile health. However, many populations—including those in rural areas, with disabilities, experiencing homelessness, or living in low- and middle-income regions of the world—remain underrepresented in health datasets, leading to biased findings and suboptimal health outcomes for certain subgroups. Addressing data inequities is critical to ensuring that technological and digital advances improve health outcomes for all. This article proposes 10 core concepts to improve data equity throughout the operational arc of data science research and practice in public health. The framework integrates computer science principles such as fairness, transparency, and privacy protection, with best practices in public health data science that focus on mitigating information and selection biases, learning causality, and ensuring generalizability. These concepts are applied together throughout the data life cycle, from study design to data collection, analysis, and interpretation to policy translation, offering a structured approach for evaluating whether data practices adequately represent and serve all populations. Data equity is a foundational requirement for producing trustworthy inference and actionable evidence. When data equity is built into public health research from the start, technological and digital advances are more likely to improve health outcomes for everyone rather than widening existing health gaps. These 10 core concepts can be used to operationalize data equity in public health. Although data equity is an essential first step, it does not automatically guarantee information, learning, or decision equity. Advancing data equity must be accompanied by parallel efforts in information theory and structural changes that promote informed decision-making.
+format:
+  html:
+    include-before-body: ../../_includes/back-to-publications.html
+---
+**JAMA Health Forum**
+
+
+
+## Resources
+
+::: {.publication-links}
+[DOI](https://doi.org/10.1001/jamahealthforum.2025.6031)
+[BibTeX](cite.bib)
+:::
+
+## Citation (APA)
+
+::: {.publication-citation}
+Wang, Y., Boyd, A. E., Rountree, L., Ren, Y., Nyhan, K., Nagar, R., Higginbottom, J., Ranney, M. L., Parikh, H., & Mukherjee, B. (2026). Ten core concepts for ensuring data equity in public health. *JAMA Health Forum, 7*(1), e256031. [https://doi.org/10.1001/jamahealthforum.2025.6031](https://doi.org/10.1001/jamahealthforum.2025.6031)
+:::

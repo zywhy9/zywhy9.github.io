@@ -1,0 +1,56 @@
+---
+title: "Talks"
+page-layout: full
+body-classes: custom-page talks-page
+---
+
+::: {.content-page}
+::: {.page-heading}
+# Talks
+
+Conference presentations organized by research topic.
+:::
+
+## Bayesian Mediation Analysis with Latent Exposure Mixtures
+
+::: {.talk-entry}
+::: {.talk-meta}
+An emerging line of work on causal mediation analysis for complex exposure mixtures using latent factor models.
+:::
+
+- 2025 Joint Statistical Meetings — August 2025
+:::
+
+## Plant-Capture Methods Using Uncertain Plant Captures
+
+::: {.talk-entry}
+::: {.talk-meta}
+Bayesian and frequentist methods for population size estimation that account for uncertain plant assessments and survey-site heterogeneity.
+:::
+
+- The 2026 New Researchers Conference — July 2026
+- The 2026 ISBA World Meeting — June 2026
+- The 38th New England Statistics Symposium — June 2025
+- The Bayesian Young Statisticians Meeting 2025 — April 2025
+- The 2025 ENAR Spring Meeting — March 2025
+- The Statistical Society of Canada 2024 Annual Meeting — June 2024
+- 2023 Waterloo Student Conference in Statistics, Actuarial Science and Finance — October 2023
+:::
+
+## Genetic Mark-Recapture Methods for Stock Populations
+
+::: {.talk-entry}
+::: {.talk-meta}
+A Bayesian framework for propagating genetic assignment uncertainty into abundance estimates for seasonal stock populations.
+:::
+
+- 2023 Joint Statistical Meetings — August 2023 [Slides](../assets/files/JSM_2023.pdf){.talk-resource}
+- The Statistical Society of Canada 2023 Annual Meeting — May 2023
+- EURING Analytical Meeting & Workshop 2023 — April 2023
+- The 2022 ISBA World Meeting — June 2022 [Poster](../assets/files/ISBA2022.pdf){.talk-resource}
+- International Statistical Ecology Conference 2022 — June 2022
+- The Statistical Society of Canada 2022 Annual Meeting — June 2022
+- The Statistical Society of Canada 2021 Annual Meeting — June 2021
+- EURING Analytical Meeting & Workshop 2021 — June 2021
+:::
+:::

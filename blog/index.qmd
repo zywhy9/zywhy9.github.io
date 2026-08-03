@@ -1,0 +1,32 @@
+---
+title: "Blog"
+page-layout: full
+body-classes: custom-page
+listing:
+  contents: "*/index.qmd"
+  sort: "date desc"
+  type: default
+  feed:
+    title: "Yiran Wang — Blog"
+    description: "Notes on statistics, research, conferences, and life beyond the office."
+    language: en
+  categories: true
+  sort-ui: false
+  filter-ui: false
+  page-size: 10
+format:
+  html:
+    include-after-body: _includes/taxonomy.html
+comments: false
+---
+
+::: {.content-page}
+::: {.page-heading}
+# Blog
+
+Notes on statistics, research, conferences, and life beyond the office.
+:::
+
+::: {#listing}
+:::
+:::

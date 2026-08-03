@@ -1,0 +1,24 @@
+/*-- scss:defaults --*/
+
+$body-bg: #111722;
+$body-color: #e7edf5;
+$primary: #91b7dc;
+$secondary: #aab6c5;
+$link-color: #91b7dc;
+$link-hover-color: #e49a72;
+$navbar-bg: #111722;
+$navbar-fg: #e7edf5;
+$navbar-hl: #91b7dc;
+$footer-bg: #151e29;
+
+/*-- scss:rules --*/
+
+:root {
+  --yw-canvas: #111722;
+  --yw-ink: #e7edf5;
+  --yw-primary: #91b7dc;
+  --yw-accent: #e49a72;
+  --yw-surface: #1c2633;
+  --yw-border: #334356;
+  --yw-muted: #aab6c5;
+}

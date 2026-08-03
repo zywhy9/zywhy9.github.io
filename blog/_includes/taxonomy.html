@@ -1,0 +1,111 @@
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  const tagsBySlug = {
+    "2021-announcement": ["Website"],
+    "2023-conference": ["Conferences", "Academic Life"],
+    "2023-first-note": ["Personal Life", "Canada"],
+    "2023-travel": ["Travel", "Canada", "Personal Life"],
+    "2024-summary": ["Year in Review", "Travel", "Conferences", "Career"],
+    "2025-bdsy": ["Academic Life", "Career"],
+    "2025-leaving": ["Career", "Academic Life", "Personal Life"],
+    "2025-new-paper": ["Research", "Statistical Methods", "Academic Life"],
+    "2026-coach-terminal": ["Canada", "Personal Life"],
+    "back-to-canada": ["Travel", "Canada", "China", "Personal Life"],
+    "back-to-china": ["Travel", "China", "Personal Life"],
+    "bayesian-and-frequentist": ["Bayesian Statistics", "Statistical Methods"],
+    "conference-report": ["Conferences", "Research", "Bayesian Statistics"],
+    "conference-schedule": ["Conferences", "Research", "Bayesian Statistics"],
+    "isba-2026-in-nagoya-japan": ["Conferences", "Research", "Bayesian Statistics", "Travel"],
+    "lady-tea-note-1": ["Books", "Academic Life"],
+    "lady-tea-note-2": ["Books", "Academic Life"],
+    "new-car": ["Canada", "Personal Life"],
+    "new-page": ["Website", "Personal Life"],
+    "new-year": ["Year in Review", "Academic Life", "Personal Life"],
+    "questions-to-statistics": ["Statistical Methods", "Academic Life"],
+    "rhat": ["Bayesian Statistics", "Statistical Methods", "Research"]
+  };
+
+  const listing = window["quarto-listings"]?.["listing-listing"];
+  const posts = listing?.items?.map((item) => item.elm)
+    || [...document.querySelectorAll("#listing-listing .quarto-post")];
+  const encodeFilter = (value) => btoa(encodeURIComponent(value));
+  const decodeFilter = (value) => decodeURIComponent(atob(value || ""));
+  const tagCounts = new Map();
+
+  posts.forEach((post) => {
+    const titleLink = post.querySelector(".listing-title a");
+    if (!titleLink) return;
+
+    const pathParts = new URL(titleLink.href).pathname.split("/").filter(Boolean);
+    const blogIndex = pathParts.lastIndexOf("blog");
+    const slug = blogIndex >= 0 ? pathParts[blogIndex + 1] : "";
+    const tags = tagsBySlug[slug] || [];
+    if (!tags.length) return;
+
+    const category = decodeFilter(post.dataset.categories);
+    const combined = [category, ...tags].filter(Boolean);
+    const encodedCombined = encodeFilter(combined.join(","));
+    post.dataset.categories = encodedCombined;
+
+    const listItem = listing?.items?.find((item) => item.elm === post);
+    if (listItem) {
+      listItem.values({ categories: encodedCombined });
+    }
+
+    const badgeRow = post.querySelector(".listing-categories");
+    if (badgeRow) {
+      tags.forEach((tag) => {
+        tagCounts.set(tag, (tagCounts.get(tag) || 0) + 1);
+        const badge = document.createElement("div");
+        badge.className = "listing-category listing-tag";
+        badge.textContent = tag;
+        badge.setAttribute("role", "button");
+        badge.setAttribute("tabindex", "0");
+        const activate = () => window.quartoListingCategory(encodeFilter(tag));
+        badge.addEventListener("click", activate);
+        badge.addEventListener("keydown", (event) => {
+          if (event.key === "Enter" || event.key === " ") {
+            event.preventDefault();
+            activate();
+          }
+        });
+        badgeRow.appendChild(badge);
+      });
+    }
+  });
+
+  const sidebar = document.querySelector("#quarto-margin-sidebar");
+  if (!sidebar || !tagCounts.size) return;
+
+  const title = document.createElement("h5");
+  title.className = "quarto-listing-category-title taxonomy-tag-title";
+  title.textContent = "Tags";
+  title.addEventListener("click", () => window.quartoListingCategory(""));
+
+  const cloud = document.createElement("div");
+  cloud.className = "quarto-listing-category quarto-listing-tag-cloud";
+
+  [...tagCounts.entries()]
+    .sort(([left], [right]) => left.localeCompare(right))
+    .forEach(([tag, count]) => {
+      const filter = document.createElement("div");
+      filter.className = "category listing-tag-filter";
+      filter.dataset.category = encodeFilter(tag);
+      filter.innerHTML = `${tag} <span class="quarto-category-count">(${count})</span>`;
+      filter.setAttribute("role", "button");
+      filter.setAttribute("tabindex", "0");
+      const activate = () => window.quartoListingCategory(filter.dataset.category);
+      filter.addEventListener("click", activate);
+      filter.addEventListener("keydown", (event) => {
+        if (event.key === "Enter" || event.key === " ") {
+          event.preventDefault();
+          activate();
+        }
+      });
+      cloud.appendChild(filter);
+    });
+
+  sidebar.appendChild(title);
+  sidebar.appendChild(cloud);
+});
+</script>
