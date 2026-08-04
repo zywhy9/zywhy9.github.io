@@ -35,7 +35,36 @@ University of Toronto
 I am a Postdoctoral Fellow at the University of Toronto, working with Dr. [Kuan Liu](https://www.kuan-liu.com/). My research develops statistical methods that connect rigorous inference with practical questions in public health, epidemiology, and ecology.
 :::
 
-I received my PhD in Statistics from the University of Waterloo, supervised by Dr. [Audrey Béliveau](https://uwaterloo.ca/scholar/a2belive/home) and Dr. [Martin Lysy](https://uwaterloo.ca/statistics-and-actuarial-science/people-profiles/martin-lysy). I was previously a Postdoctoral Associate at the Yale School of Public Health, working with Dr. [Bhramar Mukherjee](https://ysph.yale.edu/profile/bhramar-mukherjee/).
+Previously, I was a Postdoctoral Associate at the Yale School of Public Health, working with Dr. [Bhramar Mukherjee](https://ysph.yale.edu/profile/bhramar-mukherjee/).
+
+::: {.home-section}
+## Education
+
+<ul class="education-list">
+  <li class="education-item">
+    <time class="education-year" datetime="2024">2024</time>
+    <span class="education-copy">
+      <strong>Ph.D. in Statistics</strong>
+      <span>University of Waterloo</span>
+      <small>Supervisors: Dr. <a href="https://uwaterloo.ca/scholar/a2belive/home">Audrey Béliveau</a> and Dr. <a href="https://uwaterloo.ca/statistics-and-actuarial-science/people-profiles/martin-lysy">Martin Lysy</a></small>
+    </span>
+  </li>
+  <li class="education-item">
+    <time class="education-year" datetime="2019">2019</time>
+    <span class="education-copy">
+      <strong>M.S. in Statistics</strong>
+      <span>University of California, Irvine</span>
+    </span>
+  </li>
+  <li class="education-item">
+    <time class="education-year" datetime="2017">2017</time>
+    <span class="education-copy">
+      <strong>B.S. in Statistics</strong>
+      <span>Donghua University</span>
+    </span>
+  </li>
+</ul>
+:::
 
 ::: {.home-section}
 ## Research interests
