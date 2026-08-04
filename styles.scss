@@ -313,6 +313,52 @@ body {
   margin-top: 0.55rem;
 }
 
+.education-list {
+  display: grid;
+  gap: 0;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.education-item {
+  display: grid;
+  grid-template-columns: 4.5rem 1fr;
+  gap: 1.1rem;
+  padding: 0.75rem 0;
+  border-bottom: 1px solid var(--yw-border);
+}
+
+.education-item:last-child {
+  border-bottom: 0;
+}
+
+.education-year {
+  color: var(--yw-accent);
+  font-size: 0.88rem;
+  font-weight: 600;
+}
+
+.education-copy {
+  line-height: 1.45;
+}
+
+.education-copy strong,
+.education-copy span,
+.education-copy small {
+  display: block;
+}
+
+.education-copy span,
+.education-copy small {
+  color: var(--yw-muted);
+}
+
+.education-copy small {
+  margin-top: 0.18rem;
+  font-size: 0.88rem;
+}
+
 .home-shell .anchorjs-link,
 .content-page .anchorjs-link {
   display: none;
@@ -557,7 +603,8 @@ body {
     width: min(72vw, 250px);
   }
 
-  .news-item {
+  .news-item,
+  .education-item {
     grid-template-columns: 1fr;
     gap: 0.15rem;
   }
