@@ -31,7 +31,7 @@ Bayesian and frequentist methods for population size estimation that account for
 - The 2026 New Researchers Conference — July 2026
 - The 2026 ISBA World Meeting — June 2026 [Poster](../assets/files/ISBA2026.pdf){.talk-resource}
 - The 38th New England Statistics Symposium — June 2025
-- The Bayesian Young Statisticians Meeting 2025 — April 2025
+- The Bayesian Young Statisticians Meeting 2025 — April 2025 [Slides](../assets/files/BAYSM2025.pdf){.talk-resource}
 - The 2025 ENAR Spring Meeting — March 2025
 - The Statistical Society of Canada 2024 Annual Meeting — June 2024
 - 2023 Waterloo Student Conference in Statistics, Actuarial Science and Finance — October 2023
