@@ -94,6 +94,7 @@ My current work focuses on using Bayesian causal inference methods to explore th
   <li class="news-item">
     <time class="news-date" datetime="2026-07">July 2026</time>
     <ul class="news-copy">
+      <li>Received University of Toronto Postdoctoral Competitive Research Award ($10,000, one year).</li>
       <li>Attended ISBA 2026 in Nagoya and PCIC 2026 in Tianjin.</li>
       <li>Our article on pancreatic cancer was published in <em>JNCI Cancer Spectrum</em>.</li>
     </ul>
