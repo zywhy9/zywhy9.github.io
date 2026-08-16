@@ -32,10 +32,8 @@ University of Toronto
 
 :::: {.home-main}
 ::: {.lede}
-I am a Postdoctoral Fellow at the University of Toronto, working with Dr. [Kuan Liu](https://www.kuan-liu.com/). My research develops statistical methods that connect rigorous inference with practical questions in public health, epidemiology, and ecology.
+I am a Postdoctoral Fellow at the University of Toronto, working with Dr. [Kuan Liu](https://www.kuan-liu.com/). Previously, I was a Postdoctoral Associate at the Yale School of Public Health, working with Dr. [Bhramar Mukherjee](https://ysph.yale.edu/profile/bhramar-mukherjee/). My research develops statistical methods that connect rigorous inference with practical questions in public health, epidemiology, and ecology.
 :::
-
-Previously, I was a Postdoctoral Associate at the Yale School of Public Health, working with Dr. [Bhramar Mukherjee](https://ysph.yale.edu/profile/bhramar-mukherjee/).
 
 ::: {.home-section}
 ## Education
