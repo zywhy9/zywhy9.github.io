@@ -16,6 +16,21 @@ Peer-reviewed articles, preprints, and dissertation work.
 ## Peer-reviewed
 
 ::: {.publication-entry}
+### [Is direct oxidative damage of bone collagen associated with poor human cortical bone tissue fracture resistance?](direct-oxidative-damage/)
+
+Daniel Y. Dapaah, Shoutaro Arakawa, Gwennyth A. Carroll, **Yiran Wang**, Stewart McLachlin, Mitsuru Saito, and Thomas L. Willett
+
+::: {.publication-meta}
+*JBMR Plus*, 2026
+:::
+
+::: {.publication-links}
+[DOI](https://doi.org/10.1093/jbmrpl/ziag152)
+[BibTeX](direct-oxidative-damage/cite.bib)
+:::
+:::
+
+::: {.publication-entry}
 ### [Frailty and low utilization of curative-intent surgical resection in non-metastatic pancreatic cancer](frailty-pancreatic-cancer/)
 
 Lauren Raymond-King, Sean McGrath, Bhramar Mukherjee, **Yiran Wang**, Harsh Parikh, John Rothen, Pamela R. Soulos, Cary P. Gross, and John W. Kunstman
