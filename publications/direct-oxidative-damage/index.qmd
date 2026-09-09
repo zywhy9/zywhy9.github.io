@@ -1,0 +1,43 @@
+---
+title: "Is direct oxidative damage of bone collagen associated with poor human cortical bone tissue fracture resistance?"
+date: 2026-09-08
+author:
+  - "Daniel Y. Dapaah"
+  - "Shoutaro Arakawa"
+  - "Gwennyth A. Carroll"
+  - "Yiran Wang"
+  - "Stewart McLachlin"
+  - "Mitsuru Saito"
+  - "Thomas L. Willett"
+categories:
+  - "Bone Health"
+  - "Biomechanics"
+  - "Oxidative Stress"
+venue: "JBMR Plus"
+abstract: |
+  The limitations of clinical X-ray-based tools and fracture risk assessment tools, such as FRAX, particularly for disease groups including type 2 diabetes (T2D) and chronic kidney disease (CKD), suggest that important determinants of bone fracture resistance are not assessed. One such determinant is the bone collagen network, whose nativity and connectivity contribute to cortical bone fracture resistance, but whose degradation mechanisms remain unclear.
+
+  Oxidative damage to the collagen network, driven by oxidative stress, has been proposed as a contributing factor. Two pathways are recognized: an indirect pathway involving glycoxidation and advanced glycation end-product formation, examined in a precursor study, and a direct pathway, examined herein, involving protein fragmentation and amino acid side chain modifications such as carbonylation.
+
+  To investigate the direct pathway, bulk collagen carbonyl content (measured using a fluorescence-based assay and normalized to collagen content) and intact collagen α-chain content (the opposite of α-chain fragmentation and measured via α-chain band intensities using gel electrophoresis) were quantified ex vivo using cortical bone specimens from 80 human donors with and without T2D and/or CKD. Relationships with fracture toughness and other bone quality measures from a precursor study were assessed using Spearman correlations and multiple linear regression (MLR).
+
+  Bulk collagen carbonyl content was not directly associated with collagen network connectivity or cortical bone fracture toughness. In contrast, intact collagen α-chain content emerged as an independent explanatory variable for stable crack-growth fracture toughness measures (adjusted R² = 46.3%, p = 0.028) and was negatively associated with bulk collagen carbonyl content (r = −0.37, p < 0.001). These findings suggest that collagen α-chain integrity may provide insight into variation in cortical bone fracture resistance, whereas bulk collagen carbonyl content did not support the hypothesized direct oxidative damage pathway in this donor cohort.
+format:
+  html:
+    include-before-body: ../../_includes/back-to-publications.html
+---
+
+**JBMR Plus**
+
+## Resources
+
+::: {.publication-links}
+[DOI](https://doi.org/10.1093/jbmrpl/ziag152)
+[BibTeX](cite.bib)
+:::
+
+## Citation (APA)
+
+::: {.publication-citation}
+Dapaah, D. Y., Arakawa, S., Carroll, G. A., Wang, Y., McLachlin, S., Saito, M., & Willett, T. L. (2026). Is direct oxidative damage of bone collagen associated with poor human cortical bone tissue fracture resistance? *JBMR Plus*. Advance online publication. [https://doi.org/10.1093/jbmrpl/ziag152](https://doi.org/10.1093/jbmrpl/ziag152)
+:::
