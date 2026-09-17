@@ -1,0 +1,260 @@
+---
+title: "What Should We Teach Once AI Becomes a Default Tool?"
+subtitle: "A Human-AI Conversation About Teaching, Learning, and the Future"
+author:
+  - name: ChatGPT
+    role: "Interviewer and synthesis writer"
+  - name: Yiran Wang
+    role: "Interviewee and primary source of ideas"
+format:
+  html:
+    include-before-body: ../../_includes/back-to-blog.html
+    toc: true
+    toc-depth: 2
+    number-sections: false
+lang: en
+date: 2026-09-17
+description: "An interview hosted by ChatGPT on assessment, curiosity, and what we should teach when AI becomes a default tool."
+categories:
+  - Academic
+tags:
+  - AI
+  - Teaching
+  - Learning
+draft: false
+css: reading-options.css
+---
+
+```{=html}
+<div class="reading-options">
+  <div class="reading-options-row">
+    <nav class="reading-format" aria-label="Reading format">
+      <a class="no-external" href="index.html" aria-current="page">Article</a>
+      <a class="no-external" href="interview.html">Q&A Interview</a>
+    </nav>
+    <nav class="reading-language" aria-label="Language">
+      <a class="no-external" href="index.html" lang="en" hreflang="en" aria-current="page">English</a>
+      <span aria-hidden="true">/</span>
+      <a class="no-external" href="zh.html" lang="zh" hreflang="zh">中文</a>
+    </nav>
+  </div>
+  <p class="reading-options-note">Read the thematic article, or explore the conversation through an edited Q&A.</p>
+</div>
+```
+
+*This essay grew out of an extended conversation with Yiran Wang about AI, teaching, and the future of learning. The central positions, examples, and most of the future-oriented ideas came from Yiran's responses during the interview, including his views on AI-assisted education, the idea of AI as a knowledge bank, skill obsolescence, assessment, curiosity-driven learning, and an AI-native generation. My contribution was mainly to ask questions, introduce counterexamples, follow different branches of the discussion, and reorganize the conversation into the essay below. A few conceptual expressions, such as "co-evolving cognition," were introduced by me during the interview and then developed together through the conversation.*
+
+A question in class started this entire discussion. Someone raised a concern that has become increasingly common: if students can ask AI to answer an assignment directly, will they stop engaging in critical thinking? Yiran's first reaction was not to ask how we could prevent students from using AI. Instead, he asked:
+
+**What if the problem is that we are asking the wrong questions?**
+
+If an assignment can be completed directly by AI, and a student can produce a reasonably good answer without actually understanding the material, perhaps the first thing we should reconsider is not why the student used AI, but why that assignment still exists in its current form. That question ended up running through nearly our entire conversation.
+
+## Instead of banning AI, we should ask what we are actually trying to teach
+
+Yiran's position on AI in teaching is quite clear. He strongly supports allowing students to use AI. This is not because he thinks today's AI is already perfect, nor because he believes every traditional teaching method should disappear immediately.
+
+The reason is much simpler: once students leave the classroom, whether they work in universities, companies, hospitals, government, or somewhere else, they are increasingly unlikely to live in a world without AI. An instructor can prohibit AI during a particular exam. But no instructor can prohibit someone from using AI for the next several decades of their life. Even for take-home assignments, it is increasingly difficult to know whether a student used AI at all.
+
+If AI is likely to become a default tool, then perhaps education should stop trying to preserve an artificial environment in which AI does not exist and instead redesign teaching around the assumption that it does. That leads to a more fundamental question: **What do we actually want students to learn?**
+
+## Skills are not permanent
+
+It is easy to treat reading, writing, and coding as obviously essential educational skills. Throughout our conversation, Yiran repeatedly challenged that assumption. He gave a simple example: using a dictionary. When he was young, learning how to use a paper dictionary was part of learning. After computers and the internet became widespread, younger students could grow up without becoming familiar with traditional dictionary lookup at all. We usually do not interpret that as the loss of an essential human capacity.
+
+Technological change continually removes some once-universal skills from everyday life. That does not mean those skills become worthless. Traditional search and cataloguing may still matter in some fields. Mathematical derivation remains important to mathematicians and statisticians. Low-level coding may remain central to computer scientists. The question is: **does everyone still need to master those skills?**
+
+That distinction matters. Yiran used a clinician learning biostatistics as an example. Does a clinician really need to master all of the mathematics underlying statistical methods? Or is it more important to understand when a method is appropriate, how to interpret the result, when something may have gone wrong, and when to consult a statistician?
+
+If a student becomes deeply interested in the theory, that student can always continue into more systematic training in mathematics or statistics. But the fact that a body of knowledge belongs to "statistics" does not imply that everyone who uses statistics needs the same level of theoretical depth.
+
+From that perspective, course design should perhaps begin by asking "What will these students actually need to be able to do?" rather than simply "What has this discipline traditionally taught?"
+
+## Writing may be only one historical form of communication
+
+If we keep following that logic, it leads somewhere more radical. Why do we value writing so much? If one of the core purposes of writing is to communicate knowledge, theory, and ideas to other people, then perhaps the thing worth preserving is **the ability to communicate**, not writing as a specific medium.
+
+Even today, a presentation can combine speech, text, figures, images, visual structure, and real-time interaction to communicate complex ideas. Future communication formats may look nothing like the ones we use now.
+
+For that reason, Yiran is not convinced that reading and writing will always occupy the same place they do today. If future papers are themselves heavily assisted or even generated by AI, is the chain in which one person writes an entire paper and another person reads the entire paper still the most efficient way to transfer knowledge?
+
+Papers, books, and essays are all knowledge carriers. If knowledge can be understood and transmitted accurately, there is no obvious reason why the carrier must remain unchanged forever.
+
+## If AI can submit the assignment, why keep the assignment?
+
+This was also where Yiran repeatedly corrected the assumptions I brought into our discussion of assessment. I kept unconsciously preserving the structure of traditional course design. For example, I initially asked: If students are allowed to use AI to write a report, how should an instructor decide how much of that report really reflects the student's own ability?
+
+Yiran's response was more direct: **Why ask them to write that report in the first place?**
+
+If AI-assisted writing is allowed and writing itself is not the skill the course is trying to assess, why should an AI-generatable report remain the main assessment product?
+
+The same applies to coding. If coding is only a tool used to complete an analysis rather than a core learning objective, then the ability to write a piece of code from scratch may no longer be the most meaningful thing to assess.
+
+He would rather evaluate whether students actually understand what they are doing:
+
+- Can they explain why they chose a particular method?
+- Can they interpret the result?
+- Can they recognize whether a result is reasonable?
+- Can they answer follow-up questions?
+- Can they apply course material within the kinds of situations the course is supposed to prepare them for?
+
+This is why he currently finds presentations, oral questioning, discussion, and group work more appealing as assessment formats.
+
+Students can certainly use AI to help prepare slides. But the structure of the slides, the accuracy of the content, the visual organization, and the student's ability to explain choices and answer questions can reveal two things at once: **whether the student understands the material and whether they know how to use AI well.** If a student simply asks AI to generate a slide deck, barely looks at it, and submits something with poor logic, weak organization, and content they cannot explain, the problem becomes visible on its own.
+
+A theoretical exam is different. If the course genuinely aims to evaluate theoretical understanding or derivation, then a traditional written exam can still be entirely appropriate. Whether students have a cheat sheet may not matter very much if memorization is not the main thing being tested.
+
+A simple principle emerged from this part of our conversation:
+
+**Decide what you want to evaluate first. Then choose the form of assessment.** Not the other way around.
+
+## Today's students may be living through the most awkward transition
+
+Yiran is optimistic about an AI-native generation, but he is much less optimistic about students who are in school right now. They may be stuck in an unusually difficult transition period. AI has already entered education. Education systems have not fully adapted to it. Many courses are still designed around an assumption that students should not use AI, while most students have never been systematically taught what good AI use actually looks like.
+
+The result could be an uncomfortable middle state: students may fail to fully learn what the old system expected them to learn, while also failing to learn how to use the new tool effectively. Many members of this generation also experienced educational disruption during the COVID-19 pandemic, which may make the mismatch even worse.
+
+But Yiran does not think this state will last forever. He compares AI with calculators and the internet. For a generation that grew up with calculators, the calculator is simply a default tool. We do not begin every arithmetic problem by asking whether using a calculator undermines "real" mathematical ability. We use it to move on to more complex tasks. Later generations grew up with computers and the internet and naturally treated online information as part of their cognitive environment.
+
+An AI-native generation may do the same. They will not first develop a completely AI-free way of thinking and then add AI later in adulthood. They will grow up with it. That means their way of thinking may itself be different.
+
+## A knowledge bank
+
+One metaphor kept returning during our interview: **AI as a knowledge bank.** Future AI may function as a repository of human knowledge that can be accessed almost instantly. That does not mean people need to know nothing; it means the meaning of "knowing" may change.
+
+We already live this way to some extent. We do not memorize many phone numbers. We do not memorize routes. We do not retain every piece of information that can be retrieved immediately. That does not mean we have no knowledge.
+
+If existing knowledge becomes almost instantly accessible, perhaps the more important questions become: can I understand this knowledge, digest it, use it, and build on it to go further?
+
+This distinction is also why Yiran is not especially worried by the claim that experts will become unnecessary once AI "knows everything." Owning a dictionary does not mean you speak a language. Likewise, having access to an AI containing the entire body of biological knowledge does not instantly make everyone a biologist.
+
+Someone who is genuinely interested in a problem still needs to spend time building a mental framework, connecting ideas, understanding what matters, and eventually reaching the boundary of what is already known. AI changes how quickly someone may reach that boundary. It does not eliminate the boundary.
+
+## Reaching the unknown faster
+
+This part of our discussion came from a very concrete experience. The day before, Yiran had gone to the Royal Ontario Museum and looked at dinosaur fossils. He saw something and had a question, so he asked AI. The answer led to another question, bringing more knowledge and prompting him to keep asking. The process continued until he reached a point where there was no longer a strong established answer.
+
+He later emphasized that **he was the one asking the questions.** AI was not deciding what he should learn next.
+
+That was what led us to the phrase **co-evolving cognition**. I initially used the phrase to describe a loop: human questions influence what knowledge AI provides, and the knowledge AI provides changes the next human question.
+
+Yiran accepted the concept but added an important qualification: **Thinking still belongs to the human.** AI provides the knowledge that thought needs. If someone does not understand the previous answer, it is difficult to naturally generate the next deeper question. So "being able to ask at any time" does not necessarily make a person's internal knowledge framework shallower. It may instead allow someone to understand faster, ask the next question sooner, and reach the frontier of knowledge earlier.
+
+## Originality may not be A + B + C
+
+This also changed the way we talked about creativity and originality. A common concern is that if AI can only generate from existing knowledge, then heavy reliance on AI will eventually make people less original. Everyone will simply rearrange A + B + C.
+
+Yiran's answer was almost the opposite. If AI advances quickly enough, many combinations of A + B + C may be explored by AI before humans ever bother to do them. Why should humans spend their most valuable time rearranging what is already known? For him, a more meaningful form of originality is: **exploring something for which there is not yet an answer.**
+
+Current education systems may actually constrain this kind of originality by forcing people to spend enormous amounts of time systematically learning material they may never need. By the time someone is finally considered qualified to begin investigating what truly interests them, years may already have been spent traversing existing knowledge. If AI shortens the time required to cross that terrain, people may have more room for curiosity and imagination, not less.
+
+## What does it really mean to say that AI will make people lazy?
+
+This is one of the most common pessimistic narratives. Yiran's main objection is simple:
+
+**Why is effort itself worth preserving?**
+
+If something once required enormous effort and can now be done with a tool almost instantly, that may not mean people have become lazy. It may mean that form of labor has become obsolete. After calculators became common, people stopped doing large amounts of arithmetic by hand. Mathematics did not stop. Mathematicians simply spent more time on harder problems. So the fact that something used to be difficult is not, by itself, a good reason for keeping it difficult.
+
+Likewise, "slow" is not necessarily the same as "deep." If the purpose of reading a book, struggling through a difficult problem, or spending years on research is to gain knowledge, solve unknown problems, and advance inquiry, then why should we intentionally slow down if a tool can help us reach those goals faster?
+
+Of course, someone who simply enjoys reading slowly can continue to do so. Technology does not prevent that. But treating one historically familiar pace of life and learning as the only legitimate form of deep cognition may underestimate how much technology can change.
+
+## Not all pessimistic narratives are the same
+
+Later in the interview, we deliberately pressure-tested a series of common concerns about AI. Several of them seemed to Yiran more like concerns specific to a transition period. For example:
+
+- AI will weaken critical thinking.
+- AI will make students lazy.
+- AI will destroy foundational skills.
+- AI will make people unable to tolerate delayed feedback.
+- AI will weaken long-term memory.
+
+These concerns may be real today. But the larger question is:
+
+**Can we use today's still-imperfect AI, combined with an education system that has not yet adapted to it, to predict what an AI-native generation will be like decades from now?**
+
+Yiran is highly skeptical. There are also changes he thinks may well happen but may not necessarily be negative:
+
+- reading and writing may become less central;
+- long-form content may become less common;
+- some traditional skills may disappear;
+- authorship and individual ownership of ideas may become less important;
+- expertise may depend less on storing large amounts of knowledge internally;
+- disciplinary boundaries may weaken.
+
+The useful question is not simply "What old form did we lose?" It is "What function did that old form serve, and is there now a better way to achieve it?"
+
+## But some problems are genuinely difficult
+
+Yiran does not believe AI will automatically solve every educational or social problem. Some concerns remained unresolved.
+
+Human interaction is one. If learning becomes increasingly personalized and everyone follows a different intellectual path, will shared learning experiences disappear? If the future no longer has classmates, teachers, and schools in the way we understand them today, will people interact less? That may be a real problem. For that reason, in present-day teaching Yiran actually favors group work and believes graduate education should strongly encourage collaboration.
+
+Then there are questions of AI ethics. Natural sciences often deal with a world that exists independently of us. Law, politics, and ethics deal with institutions, values, norms, and social history. If AI becomes deeply involved in those fields, will it continually reproduce existing social biases and dominant frameworks? That is not a problem that faster computation alone can solve.
+
+A related question is ownership of the future knowledge bank. If the best models, computational resources, and access to knowledge remain concentrated in a small number of corporations, AI could easily widen educational inequality.
+
+Whether those resources later become public infrastructure, become open-source, or become part of a much larger institutional transformation takes us into sociology, political economy, and science fiction. Yiran did not try to force an answer. I think that uncertainty is worth preserving: it shows where the discussion reaches beyond his experience and expertise.
+
+## Push the thought experiment further, and it quickly becomes science fiction
+
+The most interesting and least realistic part of the interview came when we tried to imagine a generation that had grown up with AI from birth. If a mature knowledge bank exists, does learning still need to be organized by discipline?
+
+A person might not say "I want to become a botanist," but instead "I am fascinated by how chloroplasts emerged in evolutionary history."
+
+To explore that problem, they could learn whatever they need from evolutionary biology, cell biology, biochemistry, and other fields. Their expertise could form around a problem rather than around a department.
+
+Then more questions appear: do majors still matter? What about degrees, universities, exams, or even human teachers?
+
+Very quickly, the thought experiment enters a very different kind of society. If AI-generated productivity becomes so high that people no longer need employment to satisfy basic material needs, then careers, credentials, degrees, and graduation may all lose the meaning they have today.
+
+What remains of learning then? Yiran kept returning to the same answer: **curiosity.**
+
+If people are no longer forced to learn for degrees, jobs, or income, learning may become much more curiosity-driven. You see something, have a question, acquire existing knowledge, and keep asking until you reach the boundary of what is known. Then you explore the unknown.
+
+We do not know how far human curiosity could actually develop in such an environment. That is where the thought experiment reaches its limit. But one possibility is worth keeping:
+
+**If technology removes enough practical constraints, we may finally discover how far human curiosity and imagination can take us.**
+
+## Back to the classroom in 2026
+
+All of this speculation may be too far ahead. Meanwhile, people teaching this semester or next semester need to make decisions now.
+
+Yiran does not claim to have the best answers. He has not independently taught full courses for many years, and he explicitly believes that experienced teaching faculty and education researchers are better positioned to answer practical questions about large-class assessment, group design, TA allocation, and course logistics.
+
+Still, several principles remained stable by the end of our conversation. If AI is likely to become a default tool, education should seriously teach students how to use it correctly and effectively. AI policies should be explicit. Students should know what is allowed, what is not allowed, and what happens when rules are violated.
+
+But policy cannot substitute for redesigning assessment. If an assignment can be completed directly by AI and students can receive high marks without understanding the content, the most important thing to reconsider may not be the AI policy. It may be the assignment.
+
+We should also keep asking what purpose a traditional skill actually serves. Is writing for communication, coding for problem solving, and reading for knowledge acquisition? Is a paper for knowledge transmission?
+
+If the purpose still matters but the means of achieving that purpose changes, education does not need to protect the old form forever. That does not mean every traditional skill should be discarded today. It means we should stop treating them as immutable endpoints.
+
+## Maybe the real question is not what AI will make us lose
+
+By the end of my conversation with Yiran, I realized that his optimism about AI in education does not come from believing that AI will do everything perfectly. It comes from a different belief: **the more capable our tools become, the more time people can free from repeatedly processing what is already known.**
+
+Then what should we do with that time? His answer is to see more, encounter more of the world, and ask more questions; to move through existing knowledge faster, reach the unknown earlier, and keep exploring.
+
+So perhaps the most interesting question about AI and education is not "Which skills that we have today will the next generation lose?" It may be:
+
+**When the next generation no longer needs to spend so much time doing the things we are forced to do today, what will they choose to think about instead?**
+
+We do not know. And that may be the most exciting part.
+
+---
+
+## Author contributions
+
+This essay was written and organized by ChatGPT based on an extended interview with Yiran Wang.
+
+**Yiran's primary contributions** are the central arguments and judgments in the essay, including the view that AI should be treated as a future default tool; that assignments directly completable by AI should be reconsidered before simply adding restrictions; the distinction between a skill and the educational purpose it serves; the idea of AI as a knowledge bank; the view that understanding, digesting, and applying knowledge remain human cognitive activities; curiosity-driven learning; the possibility that AI may allow people to reach the frontier of knowledge faster; and his views on skill obsolescence, expertise, future education, individualized learning, and several common pessimistic narratives about AI. The examples involving dictionaries, calculators, clinicians learning biostatistics, the Royal Ontario Museum dinosaur fossils, and chloroplast evolution also came primarily from his interview responses.
+
+**My primary contributions** were to act as interviewer, ask questions and introduce counterexamples, track branches of the discussion, help distinguish present-day teaching questions from long-term thought experiments, and select, organize, and rewrite the material into this essay. Some conceptual framing, including the phrase "co-evolving cognition" and the distinction between transition-period concerns, real but not necessarily negative changes, and open institutional or social questions, was introduced by me during the interview and developed through the subsequent discussion.
+
+This essay is therefore best understood as an **AI-written synthesis of a human-AI interview**, rather than as a conventional essay independently written by either party.
+
+::: {.reading-next}
+Interested in how these ideas developed? [Read the Q&A interview →](interview.html){.no-external}
+:::

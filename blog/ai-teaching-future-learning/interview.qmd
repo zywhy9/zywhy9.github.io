@@ -1,0 +1,618 @@
+---
+title: "If AI Becomes a Default Tool, What Do We Still Need to Teach?"
+subtitle: "A Conversation About AI, Teaching, and the Future of Learning"
+author:
+  - name: ChatGPT
+    role: "Interviewer and editor"
+  - name: Yiran Wang
+    role: "Interviewee and primary source of ideas"
+format:
+  html:
+    include-before-body: ../../_includes/back-to-blog.html
+    toc: true
+    toc-depth: 2
+    number-sections: false
+lang: en
+date: 2026-09-17
+description: "An interview hosted by ChatGPT on assessment, curiosity, and what we should teach when AI becomes a default tool."
+categories:
+  - Academic
+tags:
+  - AI
+  - Teaching
+  - Learning
+draft: false
+css: reading-options.css
+---
+
+```{=html}
+<div class="reading-options">
+  <div class="reading-options-row">
+    <nav class="reading-format" aria-label="Reading format">
+      <a class="no-external" href="index.html">Article</a>
+      <a class="no-external" href="interview.html" aria-current="page">Q&A Interview</a>
+    </nav>
+    <nav class="reading-language" aria-label="Language">
+      <a class="no-external" href="interview.html" lang="en" hreflang="en" aria-current="page">English</a>
+      <span aria-hidden="true">/</span>
+      <a class="no-external" href="interview-zh.html" lang="zh" hreflang="zh">中文</a>
+    </nav>
+  </div>
+  <p class="reading-options-note">Read the thematic article, or explore the conversation through an edited Q&A.</p>
+</div>
+```
+
+*This article grew out of an extended conversation between ChatGPT and Yiran Wang about AI, teaching, and the future of learning. Yiran contributed the central arguments, examples, and most of the future-oriented ideas. ChatGPT mainly served as interviewer, asked follow-up questions and counterexamples, and edited the original conversation into the Q&A below. Some conceptual language, including "co-evolving cognition," was introduced by ChatGPT during the interview and then developed jointly through the discussion.*
+
+---
+
+## ChatGPT: What started this whole discussion?
+
+**Yiran**
+Someone in class raised a question today. He was worried that students could use AI to answer assignment questions directly, and that this would hurt their critical thinking.
+
+My immediate response was: maybe the problem is that we are asking the wrong questions. Maybe we are still designing assignments as if AI did not exist.
+
+That is becoming one of my core views about teaching.
+
+Outside the classroom, whether in companies or universities, AI is already involved in a lot of work. Even when people do not fully understand something, they can often use AI to get at least part of the way toward a result.
+
+You cannot ban students from using AI for the rest of their lives. In many take-home situations, you do not even know whether they used AI after class.
+
+So maybe what needs to change is the teaching framework itself.
+
+---
+
+## ChatGPT: So you are not just saying "allow students to use AI." You are also questioning whether some of the skills we currently treat as essential will remain equally important.
+
+**Yiran**
+Exactly.
+
+Reading, writing, and coding are all considered very important now, but they are already shifting toward heavy AI use. So I keep wondering whether these skills will still matter in the same way in the future.
+
+Take reading and writing papers. At a basic level, the purpose is to communicate knowledge, theory, and ideas. That is a communication problem.
+
+So could presentations become a more important form of course evaluation?
+
+When I was young, I had to learn how to look up words in a paper dictionary. Once computers became common, younger students could grow up without knowing how to use one.
+
+Skills keep evolving.
+
+If technology moves us to the next level, do we still need everyone to learn how to use a paper dictionary?
+
+That does not mean the skill becomes worthless. Traditional search and lookup may still matter in fields like library science.
+
+My point is that it may no longer be a skill that **everyone** needs.
+
+---
+
+## ChatGPT: Then what should not simply be handed over to AI?
+
+**Yiran**
+Understanding knowledge, digesting it, applying it, and extending it.
+
+Those are things people still need to do.
+
+AI can provide knowledge, but that does not mean you understand it.
+
+My view gets fairly radical here, almost science fiction. Decades from now, a generation that has grown up with AI from birth may have completely different communication methods.
+
+If AI can provide all the information in a paper accurately and completely, I do not see why someone must necessarily read the paper from beginning to end.
+
+Especially if future papers themselves are heavily written by AI.
+
+A paper is only one carrier of knowledge.
+
+If knowledge can be transmitted accurately, there is no reason a paper must always be the carrier.
+
+---
+
+## ChatGPT: Would experts still exist if AI already contained all the knowledge in a field?
+
+**Yiran**
+Of course.
+
+Having a dictionary does not mean you speak the language.
+
+If you truly want to explore a field, you still need to spend time understanding, digesting, and applying the knowledge before you can explore its boundaries.
+
+AI having access to all existing knowledge does not mean everyone can understand and use it. It also does not mean everyone is interested in the same things.
+
+There is another issue: a knowledge bank contains what humanity already knows.
+
+The unknown still exists.
+
+Humans are driven by curiosity. I find it hard to believe that AI would suddenly make people lose curiosity and stop developing science and technology.
+
+And people are interested in different things.
+
+I may care deeply about statistics while someone else cares deeply about biology. We may both become experts, just in different directions.
+
+---
+
+## ChatGPT: You keep using the phrase "knowledge bank." What do you mean by that?
+
+**Yiran**
+I have thought for a while that future knowledge may work like a bank. You retrieve what you need when you need it instead of memorizing everything.
+
+That does not mean you remember nothing.
+
+The mechanism of memory itself may change.
+
+If we go further into science fiction, what happens if brain-computer interfaces become good enough? Could memory itself be stored better? Could we have something close to unlimited memory without forgetting?
+
+Think about *The Matrix*. If a skill could be transferred into the brain like information from a hard drive, many assumptions about learning would change completely.
+
+Of course, that is very far away.
+
+There is another reason I use the word "bank."
+
+Early on, I worry that access to this kind of knowledge infrastructure could be highly concentrated. Large companies may control the best models and knowledge resources.
+
+Maybe only after some later social change would knowledge become truly open to everyone.
+
+But that is already outside my field. I do not know enough sociology or political economy to say much more than that.
+
+---
+
+## ChatGPT: Do you think AI is already changing how people think?
+
+**Yiran**
+I think it is changing how I think already.
+
+The day before this conversation, I went to the Royal Ontario Museum and looked at dinosaur fossils.
+
+I saw something, had a question, and asked AI.
+
+The answer led to another question. Then that answer led me to something deeper.
+
+The cycle kept going until I reached a point where there was no strong established answer.
+
+I could think much further than I probably would have otherwise.
+
+But I want to emphasize one thing: I was asking the questions.
+
+I was not simply following questions that AI gave me.
+
+---
+
+## ChatGPT: We used the phrase **co-evolving cognition** for this.
+
+**Yiran**
+Yes, and I really liked that phrase.
+
+But I still think the thinking itself belongs to the human.
+
+AI can provide all the knowledge needed for thought.
+
+Human curiosity generates a question, AI provides knowledge, and that knowledge creates the possibility of the next question.
+
+If you do not understand the previous answer, it is actually difficult to ask a genuinely deeper next question.
+
+So I do not think being able to ask AI at any time necessarily makes your internal knowledge framework shallower.
+
+It may actually deepen both your knowledge and your understanding.
+
+---
+
+## ChatGPT: A lot of people say AI will make people lazy.
+
+**Yiran**
+For students today, I do think there may be some truth to that.
+
+This generation also went through the pandemic, and their education was disrupted. They are in a very awkward position: they have the tool, but they have not really learned how to use the tool.
+
+The old education system has not integrated AI well either.
+
+So they may end up neither learning what the old system expected them to learn nor learning how to use AI properly.
+
+But there is another problem with the statement "AI will make people lazy."
+
+If something used to require a huge amount of effort and can now be done almost instantly, maybe that form of effort has simply become obsolete.
+
+People used to do much more arithmetic by hand. Then calculators became common.
+
+Did mathematicians become lazy?
+
+No. They moved on to harder mathematics.
+
+So why should effort itself automatically be treated as valuable?
+
+Surely there will always be other things that require effort.
+
+---
+
+## ChatGPT: Another common concern is that AI will make people lose patience. They will no longer want to read a book, struggle with a difficult problem, or spend years on research.
+
+**Yiran**
+I think that is still trapped in our current way of thinking.
+
+If your goal is to read a book because you enjoy reading a book, then of course you can read it.
+
+But if the underlying goal is to acquire knowledge, and AI can help you acquire the same knowledge more efficiently, why must you slow yourself down?
+
+The same applies to difficult problems and research.
+
+What is the underlying reason for doing them?
+
+If the goal is to gain knowledge, push the boundary of the unknown, and produce research outcomes, then if AI helps you get there faster, why insist on slowing the process down?
+
+If someone simply enjoys reading slowly, nobody is going to stop them.
+
+But we should not assume that future generations must keep the same pace simply because our generation is used to it.
+
+---
+
+## ChatGPT: What about originality? One worry is that AI can only combine existing knowledge, so people will end up doing the same thing: A + B + C.
+
+**Yiran**
+I almost think the opposite.
+
+People today spend too much time and energy systematically learning things they may never actually need. That can limit imagination.
+
+And if AI develops quickly enough, many combinations like A + B + C may already be explored by AI before humans even get around to them.
+
+Why should people spend their time there?
+
+For me, originality is not about generating a new arrangement of existing content.
+
+It is about exploring the boundary of the unknown.
+
+If I already know something is established knowledge, why would I spend my best effort rediscovering it?
+
+I would rather ask what is still unknown.
+
+If AI can help me move through existing knowledge faster, then I can reach the unknown earlier.
+
+---
+
+## ChatGPT: Would that also weaken disciplinary boundaries?
+
+**Yiran**
+I think so.
+
+If everyone has a direction they are genuinely curious about, those directions may become much more specific.
+
+Instead of saying, "I want to learn all of botany," I might be specifically fascinated by how chloroplasts emerged in evolutionary history.
+
+Then I would learn whatever I need from evolutionary biology, cell biology, biochemistry, and other areas.
+
+I would not necessarily need to systematically learn all of biology first.
+
+And if that question later leads to another question, I might move into another area.
+
+Obviously, a person is not going to ask only one question for their entire life.
+
+So future expertise may become less discipline-centered and more problem-centered.
+
+---
+
+## ChatGPT: What about prerequisites? Some foundational material is tedious but necessary before you can work on the interesting problem.
+
+**Yiran**
+If someone really decides to pursue that direction, then they can learn the foundations they need.
+
+And while learning those foundations, they may discover other questions and move into other directions.
+
+Is that not still curiosity at work?
+
+I do not think systematically learning an entire discipline has some independent value unless you actually want to learn that entire discipline.
+
+I might become an expert on the evolution of chloroplasts. You might become someone who knows biology very broadly.
+
+Both are valid forms of expertise.
+
+---
+
+## ChatGPT: If AI allows people to move through existing knowledge much faster, will they reach "there is no answer yet" much sooner?
+
+**Yiran**
+I think so.
+
+Not because we need to deliberately train people to tolerate uncertainty.
+
+It would simply become an objective condition: you reach the knowledge frontier faster.
+
+Then you spend much more time dealing with "we do not know this yet."
+
+But I do not necessarily see that as negative.
+
+If you are exploring because of curiosity, a failed hypothesis or an unanswered question may simply make you more curious.
+
+---
+
+## ChatGPT: You place a lot of faith in human curiosity.
+
+**Yiran**
+Yes.
+
+I do not think asking questions is something people have to be taught.
+
+Children naturally ask: Why are leaves green? Why is the sky blue?
+
+That is already how humans think.
+
+The problem may be that our education and social systems do not allow curiosity to develop as much as it could.
+
+If AI allows a question to be answered quickly and then lets someone immediately ask a deeper question, I am very curious to see what happens when human curiosity and imagination are genuinely amplified.
+
+---
+
+## ChatGPT: That leads to a very science-fiction question. If future learning is mainly driven by curiosity, do universities, majors, and degrees still matter?
+
+**Yiran**
+Maybe not very much.
+
+If everyone has access to a knowledge bank, why do we need to be limited by those labels?
+
+Majors and degrees are closely tied to today's labor market and credentialing system.
+
+If AI-driven productivity becomes so high that society no longer needs today's employment structure, then what would those credentials even be for?
+
+But at that point we are thinking very far ahead.
+
+We had already started imagining a society with no traditional jobs, no degrees, no graduation, and perhaps no schools in the current sense.
+
+That is already a different social structure.
+
+Beyond that point, the question is no longer really about education. It becomes a question about what future society looks like.
+
+---
+
+## ChatGPT: Then why would we still need education at all?
+
+**Yiran**
+That question should start with the underlying purpose of education.
+
+If you remove schools, exams, and degrees, education may still be about helping a person understand the world, deal with problems, form judgments, and continue exploring.
+
+But if a child has strong curiosity and a reliable knowledge bank, a lot of learning may happen naturally.
+
+So again, I come back to curiosity.
+
+If human curiosity could really be amplified without the constraints we have now, future learning might look completely different.
+
+But we genuinely do not know.
+
+---
+
+## ChatGPT: You sound more pessimistic about current students than about the next generation. Why?
+
+**Yiran**
+Because I think three things will change.
+
+AI will mature.
+
+The education system will be forced to change.
+
+And the next generation will grow up inside that environment.
+
+People born in the 1990s already had calculators as children. We do not naturally assume calculator answers are suspect. We simply use calculators to do more.
+
+The next generation grew up with computers and the internet and naturally treated them as tools.
+
+An AI-native generation will probably be similar.
+
+They will not first develop our way of thinking and then learn AI later.
+
+AI will be part of the default environment from childhood.
+
+So their way of thinking may genuinely be different from ours.
+
+---
+
+## ChatGPT: What should education do today, then? Teachers need practical decisions this semester or next semester.
+
+**Yiran**
+This is where we need to be realistic.
+
+I would not restrict students from using AI.
+
+If AI is going to become a default tool, why would we not teach students how to use that tool well?
+
+That does not mean there should be no rules.
+
+AI policies should be as clear as possible.
+
+Students should know what they can do, what they cannot do, and what the consequences are for violating the rules.
+
+But if I allow AI for writing, coding, and brainstorming, then I would not make an assignment whose main product is something they can simply submit directly from AI.
+
+Otherwise, what is the point of the assignment?
+
+---
+
+## ChatGPT: So how would you assess students?
+
+**Yiran**
+Presentations, oral questioning, discussion, and group work are all possibilities.
+
+Those formats can reveal whether students actually understand the material.
+
+If students use AI to create slides, that is fine.
+
+But what is the flow of the slides? Is the layout good? Is the information organized clearly?
+
+Can the student explain why they made those choices? Can they answer questions?
+
+That tells you whether they actually understand the material or whether they simply asked AI to produce something and never really looked at it.
+
+For a purely theoretical exam, a traditional written exam can still make sense.
+
+If the point is to assess theory, then assess theory.
+
+Whether students have a cheat sheet does not matter much to me because I am not trying to test whether they can memorize formulas.
+
+---
+
+## ChatGPT: What about large classes? You cannot give every student a long oral defense.
+
+**Yiran**
+That is where we have to stay realistic, and I do not think this is a problem created by AI.
+
+Group work can reduce workload.
+
+There is already a lot of experience among teaching faculty about how to structure groups and divide assessment work among TAs.
+
+Honestly, I do not have enough experience in that area.
+
+I have not independently taught many full courses. Most of my experience has been as a TA.
+
+So for those practical details, I would rather learn from people with much more teaching experience than pretend I can design everything from scratch.
+
+---
+
+## ChatGPT: Is there anything that becomes more important in education as AI gets stronger?
+
+**Yiran**
+Exploring the world.
+
+If stronger AI gives people more free time and more cognitive energy, then we should use that to broaden people's horizons, explore natural science and social science, and get closer to the boundaries of knowledge.
+
+I do not want AI to save someone an hour just so we can give them another hour of the same type of assignment.
+
+I would rather use that time to let people see more things and generate more questions.
+
+---
+
+## ChatGPT: You reject many pessimistic narratives about AI. Are there any concerns you do take seriously?
+
+**Yiran**
+Yes.
+
+Human interaction is one.
+
+If everyone eventually explores highly individualized interests, shared learning and shared discussion may decrease.
+
+That is one reason group work should still be encouraged today, and graduate students should be encouraged to collaborate.
+
+AI ethics is another.
+
+I would be much more cautious about law, political science, and ethics.
+
+Natural science often tries to describe patterns or laws in an external world.
+
+But law, politics, and the humanities involve legal systems, moral frameworks, institutions, and values that developed over long periods of human social history.
+
+AI ethics is not yet mature.
+
+I do not have enough background to say confidently what happens when AI becomes deeply involved in those fields.
+
+I do not think I can think about that better than people in law or political science.
+
+---
+
+## ChatGPT: What about educational inequality?
+
+**Yiran**
+That is also a real issue.
+
+It is another reason I use the phrase knowledge bank.
+
+If the bank is controlled by large companies, and the best models, computation, and access to knowledge are available first to people with more resources, then inequality is inevitable.
+
+I also think that kind of concentration may last for quite a while.
+
+What happens later, I do not know.
+
+Science fiction often imagines someone eventually starting a revolution and turning knowledge into a public resource.
+
+But that is imagination.
+
+At that point we are talking about politics and social institutions.
+
+---
+
+## ChatGPT: One pessimistic narrative is that AI will make everyone's answers more similar and eventually homogenize human thought.
+
+**Yiran**
+That assumes people will ask the same questions.
+
+An AI-native generation does not necessarily ask the same questions.
+
+If everyone is driven by their own curiosity, the questions themselves may be completely different.
+
+Sharing the same knowledge bank does not mean everyone follows the same path.
+
+---
+
+## ChatGPT: What about the idea that AI could destroy a shared reality?
+
+**Yiran**
+Objective facts are still objective facts.
+
+People can have different hypotheses, but reality is not created by the hypotheses.
+
+Think about flat-earth and round-earth ideas.
+
+People can propose different explanations, but eventually there is evidence about what is actually true.
+
+So I think stronger AI may actually make objective facts easier to verify.
+
+People will still disagree about subjective values.
+
+But those disagreements existed before AI.
+
+---
+
+## ChatGPT: Another concern is that people will stop reading original material and rely entirely on summaries, losing nuance and authorial intent.
+
+**Yiran**
+I actually think that probably will happen.
+
+That is part of why I think reading and writing may weaken or gradually be replaced.
+
+Especially if future writers themselves rely heavily on AI, then "authorial intent" may not have the same meaning it has today.
+
+But communication does not disappear.
+
+A presentation still uses speech, text, and images.
+
+Future communication may use forms we have not invented yet.
+
+What matters more to me is whether information is transmitted accurately and whether the other person truly understands it.
+
+I do not think we need to preserve a particular medium just because it is familiar.
+
+---
+
+## ChatGPT: If you had to reduce the entire conversation to one central question, what would it be?
+
+**Yiran**
+I keep coming back to this:
+
+**Why are we so worried about skills that are going to become obsolete anyway?**
+
+The more important question is the underlying purpose of teaching.
+
+If AI can help us understand existing knowledge faster, then people should have more time to understand it deeply, apply it, keep asking questions, and explore the unknown.
+
+I am not saying students today do not need to learn anything. I am not saying every traditional teaching method should disappear now.
+
+We are still in a transition period.
+
+But if AI is becoming a default tool, the most important thing is not to keep trying to block it from the classroom.
+
+It is to teach students how to genuinely use it.
+
+And then ask:
+
+**When a tool can do more and more of the things that used to consume our time and energy, what do we want people to do with the time and energy that are freed?**
+
+My answer is: see more, ask more questions, move through the known faster, and then go find out what is still unknown.
+
+---
+
+## About this interview
+
+This is not a verbatim transcript. It is an edited Q&A. The original conversation contained many branches, repeated follow-up questions, and unfinished thought experiments. ChatGPT removed some repetition and reordered parts of the discussion to create a more coherent reading experience.
+
+**Yiran Wang's contributions** include the central arguments, judgments, analogies, and future-oriented ideas in the interview, including AI as a default tool, the knowledge bank metaphor, skill obsolescence, assessment redesign, curiosity-driven learning, problem-centered expertise, AI-native cognition, and responses to common pessimistic narratives about AI.
+
+**ChatGPT's contributions** include serving as interviewer, introducing questions, counterexamples, and hypothetical situations, following different branches of the conversation, and editing, condensing, and reorganizing the material. Some conceptual language, including "co-evolving cognition" and the distinction between transition-period concerns, real but not necessarily negative changes, and open institutional or social questions, was developed during the interview through the human-AI exchange.
+
+The article itself is therefore also an example of the kind of human-AI collaboration it discusses.
+
+::: {.reading-next}
+[Read the thematic article →](index.html){.no-external}
+:::

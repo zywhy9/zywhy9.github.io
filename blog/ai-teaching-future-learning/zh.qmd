@@ -1,0 +1,260 @@
+---
+title: "当 AI 成为默认工具之后，我们到底该教什么？"
+subtitle: "一场关于 AI、teaching 与 future learning 的人机访谈整理"
+author:
+  - name: ChatGPT
+    role: "Interviewer and synthesis writer"
+  - name: Yiran Wang
+    role: "Interviewee and primary source of ideas"
+format:
+  html:
+    include-before-body: ../../_includes/back-to-blog.html
+    toc: true
+    toc-depth: 2
+    number-sections: false
+lang: zh
+date: 2026-09-17
+description: "一场由 ChatGPT 主持的访谈：当 AI 成为默认工具，教学、评价和好奇心驱动的学习会如何改变？"
+categories:
+  - Academic
+tags:
+  - AI
+  - Teaching
+  - Learning
+draft: false
+css: reading-options.css
+---
+
+```{=html}
+<div class="reading-options">
+  <div class="reading-options-row">
+    <nav class="reading-format" aria-label="阅读形式">
+      <a class="no-external" href="zh.html" aria-current="page">文章</a>
+      <a class="no-external" href="interview-zh.html">Q&A 访谈</a>
+    </nav>
+    <nav class="reading-language" aria-label="语言">
+      <a class="no-external" href="index.html" lang="en" hreflang="en">English</a>
+      <span aria-hidden="true">/</span>
+      <a class="no-external" href="zh.html" lang="zh" hreflang="zh" aria-current="page">中文</a>
+    </nav>
+  </div>
+  <p class="reading-options-note">你可以阅读按主题整理的文章，也可以通过编辑后的问答了解这场对话。</p>
+</div>
+```
+
+*这篇文章来自我与 Yiran Wang 关于 AI、teaching 和 future learning 的一场长时间访谈。文章中的核心立场、例子和大部分未来设想来自 Yiran 在访谈中的回答，包括他对 AI-assisted education、knowledge bank、skill obsolescence、assessment、curiosity-driven learning 以及 AI-native generation 的看法。我的贡献主要是提出问题、追问和反例，整理不同分支，并把对话重构成下面这篇文章。文中少数概念化表达，例如 “co-evolving cognition”，是在访谈过程中由我提出、再由我们共同展开的。*
+
+一个课堂上的问题开启了我们这场讨论：有人担心，如果学生可以直接让 AI 回答作业问题，他们是不是就不会进行 critical thinking 了？Yiran 的第一反应并不是讨论怎么阻止学生使用 AI，而是反问：
+
+**有没有可能，是我们的问题问错了？**
+
+如果一个 assignment 可以直接被 AI 完成，而学生甚至不需要真正理解其中的内容就能得到不错的答案，那么首先需要重新思考的，也许不是学生为什么用了 AI，而是这个 assignment 为什么还存在。这句话后来几乎贯穿了我们的整场讨论。
+
+## 与其禁止 AI，不如重新问我们到底在教什么
+
+Yiran 对 AI in teaching 的立场相当明确。他非常支持学生使用 AI。这并不是因为他认为今天的 AI 已经足够可靠，也不是因为他认为所有传统 teaching method 都应该立刻消失。
+
+理由其实更简单：学生离开课堂以后，不论进入大学、公司、医院、政府还是其他工作环境，都越来越不可能生活在一个没有 AI 的世界里。教师当然可以在某一次考试里禁止 AI，但不可能禁止一个人未来几十年不用 AI。甚至在 take-home assignment 里，教师究竟能不能真正知道学生有没有使用 AI，本身都是问题。
+
+如果 AI 最终会成为默认工具，那么教育真正应该做的，也许不是尽可能延长一个“没有 AI 的人工环境”，而是重新设计一个**默认 AI 存在的 teaching framework**。这也意味着，一个更根本的问题出现了：**我们到底希望学生学会什么？**
+
+## Skill 并不是永恒的
+
+我们今天很容易把 reading、writing、coding 当成教育中理所当然的重要能力。但在我们的访谈里，Yiran 一直在挑战这个“理所当然”。他举了一个很简单的例子：查字典。他小时候还需要学习怎么使用纸质字典。但电脑和互联网普及以后，新一代学生可能根本不熟悉传统字典的检索方式。我们通常不会因此认为他们失去了某种必须保存的人类能力。
+
+技术进步不断让一些曾经普遍需要的 skill 退出日常生活。这并不意味着这些 skill 完全没有价值。传统检索对某些专业仍然重要，数学推导对数学家仍然重要，底层 coding 对计算机科学家当然也可能重要。变化的是：**它们还需不需要每个人都会？**
+
+这个 distinction 很重要。Yiran 用 clinician learning biostatistics 举例。一个 clinician 是否真的需要掌握统计学背后的全部数学技巧？还是更应该理解一个方法什么时候适用、结果怎么解释、什么时候可能出错，以及什么时候需要找 statistician？
+
+如果某个学生真的对理论感兴趣，他当然可以继续系统学习数学和统计。但没有必要因为这些内容属于“统计学”，就要求所有使用统计方法的人掌握同样深度的理论。
+
+从这个角度看，课程设计也许不应该从“这个学科传统上教什么？”开始，而应该从“这群学生最后到底需要做什么？”开始。
+
+## Writing 也许只是 communication 的一种历史形式
+
+这个逻辑如果继续往下推，会走到一个更激进的位置。为什么我们如此重视 writing？如果 writing 的根本作用之一是把知识、理论和观点传递给别人，那么真正值得保留的，也许是 **communication ability**，而不是 writing 这种具体载体。
+
+今天我们已经可以通过 presentation 同时使用语言、文字、图片、图表、视觉结构和现场互动来传递复杂信息。未来当然还可能出现我们今天根本想象不到的 communication methods。
+
+Yiran 因此并不确定 reading 和 writing 会不会永远保持今天的地位。尤其如果未来的 paper 本身也大量由 AI 协助甚至生成，那么“人完整写一篇 paper，再由另一个人完整读一遍 paper”这种知识传递链条，是否仍然是最有效的形式？
+
+Paper、book 和 essay 都是 knowledge carrier。如果知识能够被准确地理解和传递，载体本身没有理由永远保持不变。
+
+## 如果 AI 能直接交作业，那为什么还要留这个作业？
+
+这也是我们讨论 assessment 时 Yiran 反复纠正我的地方。我一开始仍然不自觉地保留了传统课程设计的框架。例如我会问：如果允许学生用 AI 写 report，那么应该怎样判断这篇 report 里多少是真正属于学生的？
+
+Yiran 的回答更直接：**为什么还要让他写这个 report？**
+
+如果允许 AI writing，而 writing 本身又不是课程真正想考察的能力，那么为什么还要把一份 AI 可以直接生成的文本作为最终 assessment？
+
+Coding 也是一样。如果 coding 只是完成分析的工具，而不是课程的核心 learning objective，那么“从头写出一段 code”未必还应该作为主要评价对象。
+
+他更愿意把评价放在学生是否真正理解：
+
+- 学生能不能解释为什么选择某个方法？
+- 能不能解释结果？
+- 能不能判断结果是否合理？
+- 能不能回答 follow-up questions？
+- 能不能把课堂知识应用在课程覆盖的情境里？
+
+因此，他现在更倾向 presentation、oral questioning、discussion 和 group work 这样的形式。
+
+学生当然可以用 AI 准备 slides。但 slides 有没有合理的 flow、内容是否准确、视觉布局是否清楚，以及学生被追问以后能不能解释自己的选择，都能反映两件事情：**他到底懂不懂，以及他到底会不会使用 AI。** 如果一个学生直接让 AI 生成一套 slides，自己完全没有检查，最后逻辑混乱、排版糟糕、内容无法解释，那么问题已经自然暴露出来。
+
+理论考试则不一样。如果课程真正要测量的就是理论理解和推导能力，那么 traditional written exam 完全可以继续存在。有没有 cheatsheet 甚至不是特别重要，因为 memory 本来也未必是最值得测试的部分。
+
+这让我从我们的讨论中提炼出一个很简单的原则：
+
+**先决定要 evaluate 什么，再决定 assessment 长什么样。**而不是先保留 assignment，再想办法防 AI。
+
+## 现在的学生可能正好处在最尴尬的时代
+
+Yiran 对 AI-native generation 很乐观，但他对现在正在读书的这一代学生反而没有那么乐观。原因是，他们正好处在一个 transition period。AI 已经进入教育。但教育体系没有真正适应 AI。很多课程仍然按照“学生应该不使用 AI”的方式设计；与此同时，大多数学生又没有真正接受过如何正确使用 AI 的训练。
+
+这可能产生一个很尴尬的结果：他们既没有完整掌握旧体系原本希望他们掌握的知识，又没有学会如何在新体系里有效地利用 AI。其中不少学生还经历过疫情期间的教育中断，这可能进一步加重这种错位。
+
+但 Yiran 不认为这种状态会永久持续。他拿计算器和互联网作类比。对从小有计算器的一代来说，计算器是默认工具。我们不会每次算数之前先讨论“如果计算器让人失去 arithmetic ability 怎么办”，而是直接用它完成更复杂的计算。后来从小生活在电脑和互联网中的一代，也自然把网络当成知识环境的一部分。
+
+AI-native generation 很可能也是一样。他们并不是先形成一个完全没有 AI 的 cognition，再在成年以后把 AI 接进来。他们从一开始就在这个环境里长大。这意味着，他们的思维方式本身可能都会不同。
+
+## Knowledge bank
+
+在我们的访谈里，Yiran 反复用了一个比喻：**knowledge bank**。未来的 AI 也许更像一个随时可以调用的人类知识库。这并不等于人什么都不用知道，而是“知道”的含义可能发生变化。
+
+今天我们已经不再记很多电话号码，不再记路线，也不再长期保存大量可以随时搜索到的信息。但这并不意味着我们没有知识。
+
+如果未来已有知识可以几乎即时调用，那么真正重要的也许不是“我脑子里储存了多少事实？”，而是：我能不能理解、消化和运用这些知识，并基于它们继续往前走？
+
+这个 distinction 也是 Yiran 为什么不太担心“AI 什么都懂以后，人类还需不需要 expert”。有一本字典，并不意味着你会一种语言。同样，一个储存了全部生物学知识的 AI，也不意味着所有人都突然成为生物学家。
+
+真正对某个问题感兴趣的人，仍然需要在那个方向上投入时间，建立理解框架，把不同知识连接起来，并最终走到已有知识的边界。AI 改变的是到达那个边界的速度，不是边界本身。
+
+## 更快到达未知
+
+这部分讨论来自一个非常具体的经历。Yiran 前一天去了 Royal Ontario Museum，看到了恐龙化石。他对眼前的东西产生了疑问，于是问 AI；答案又带来新的问题，引出更多知识，让他继续追问。这样一层一层往下走，直到走到一个没有很好已知答案的地方。
+
+他后来特别强调，这个过程中是**他自己在提问题**，不是 AI 在设计他的学习路径。
+
+这也是我们为什么后来谈到了 **co-evolving cognition**。我最初用这个词来描述一种循环：人的问题影响 AI 提供什么知识，AI 提供的新知识又改变人的下一轮问题。
+
+Yiran 接受这个概念，但给它加了一个很重要的限制：**思考仍然是人的。** AI 提供的是思考需要的知识。如果一个人没有理解前面的内容，他甚至很难自然地产生下一个更深入的问题。所以“随时可以问”未必意味着人的内部知识框架会越来越浅，反而可能让一个人更快理解，更快继续追问，然后更快达到知识边界。
+
+## 原创性也许不是 A+B+C
+
+这也改变了我们对 creativity 和 originality 的讨论。一个常见的 AI concern 是：如果 AI 只能基于已有知识生成内容，那长期使用 AI 会不会让人类越来越只会把已有东西 A+B+C，最终失去原创性？
+
+Yiran 的回答几乎正好相反。如果 AI 的发展速度足够快，那么很多 A+B+C 的组合可能根本轮不到人类去做。AI 自己就已经做完了。那人为什么还要把最宝贵的时间放在已有知识内部的排列组合？对他来说，更重要的 originality 是：**去探索还没有答案的东西。**
+
+而现在的教育体系可能反而让人花了太多时间系统学习大量最终并不需要的内容。等一个人终于获得“资格”开始研究真正感兴趣的问题时，已经花掉了很多年。如果 AI 可以缩短穿越已有知识的时间，人可能反而有更多空间发挥好奇心和想象力。
+
+## “AI 会让人变懒”到底是什么意思？
+
+这是一个非常常见的悲观叙事。但 Yiran 对这个说法最大的质疑是：
+
+**为什么 effort 本身值得保存？**
+
+如果以前一件事情需要投入大量 effort，现在技术能够一键完成，那么这可能不是人变懒，而是这一部分 labor 被技术淘汰了。计算器出现以后，人不再大量笔算，但数学并没有因此停止；数学家只是把时间放到更复杂的问题上。所以，“以前很难”并不是一个足够好的理由，证明这件事情以后也应该继续很难。
+
+类似地，“慢”也不一定等于“深”。如果读书、啃难题、做多年研究的根本目标，是获取知识、解决未知问题和推进研究，那么一个工具能够帮助我们更快达到目标，为什么一定需要故意慢下来？
+
+当然，一个人如果就是享受慢慢读一本书，没有任何技术会阻止他。但把某一种过去的生活和学习节奏当成唯一正确的认知方式，就可能低估技术真正带来的变化。
+
+## 不是所有悲观叙事都一样
+
+我们的访谈后来专门拿了一系列常见的 AI concern 来做“压力测试”。其中不少在 Yiran 看来更像 transition-period concerns。例如：
+
+- AI 会让学生失去 critical thinking。
+- AI 会让学生懒惰。
+- AI 会让人失去基础能力。
+- AI 会让人不能忍受没有即时反馈。
+- AI 会让人记不住知识。
+
+这些 concern 并不是今天完全不存在。问题在于：
+
+**我们能不能用今天这个尚未成熟的 AI，加上一个尚未适应 AI 的教育制度，来预测几十年后的 AI-native generation？**
+
+Yiran 对此非常怀疑。还有一些变化，他认为很可能是真的，却不一定是坏事：
+
+- reading 和 writing 的重要性下降；
+- long-form content 减少；
+- 一些传统 skill 被淘汰；
+- authorship 和 individual ownership 弱化；
+- expertise 越来越不依赖“记住很多知识”；
+- 学科边界逐渐变弱。
+
+这些变化真正需要问的不是“我们失去了什么旧形式？”，而是“这些旧形式原本承担什么功能？新技术有没有更好的方法实现它？”
+
+## 但有些问题确实没有那么容易
+
+Yiran 并不是认为 AI 会自动解决所有教育和社会问题。有一些 concern，他很明确地承认自己没有答案。
+
+例如人与人之间的 interaction。如果学习越来越个性化，每个人都沿着自己的兴趣不断往下探索，那么 shared learning experience 会不会减少？如果未来真的没有现在意义上的老师、同学和学校，人和人的交流会不会变少？这可能是一个真实问题。因此至少在今天的 teaching 里，Yiran 反而更支持 group work，也认为研究生教育应该鼓励 collaboration。
+
+还有 AI ethics。自然科学很多时候面对的是独立于人的客观世界。法律、政治、伦理则处理制度、价值、规范和社会历史。AI 如果参与这些领域，它会不会持续复制已有社会的偏见和主流框架？这不是一个只靠更快的 computing 就可以回答的问题。
+
+类似地，谁拥有未来的 knowledge bank？如果最好的模型、算力和知识访问长期掌握在少数公司手里，那么 AI 完全可能扩大教育不平等。
+
+至于未来这些资源会不会成为公共基础设施，会不会开源，会不会产生更深的制度变化，我们的讨论到这里就基本进入了 sociology、political economy 和 science fiction。Yiran 没有试图给这些问题一个确定的答案。我认为这种“不回答”反而值得保留，因为它让读者看到，这场讨论在哪里超出了他的经验与专业范围。
+
+## 再往未来走，就开始变得很科幻
+
+访谈里最有趣，也最不现实的一段，是我们尝试想象一个真正从小和 AI 一起长大的 generation。如果 knowledge bank 足够成熟，那么学习是否还需要按照学科组织？
+
+一个人完全可能不是说“我要成为一个 botanist”，而是说“我就是对 chloroplast 在 evolution 中是怎么出现的特别感兴趣”。
+
+为了探索这个问题，他按需学习 evolutionary biology、cell biology、biochemistry，以及任何其他需要的知识。他的 expertise 是围绕问题建立的，而不是围绕 department 建立的。
+
+然后问题会继续出现：那 major 还有必要吗？degree、university、exam，甚至 human teacher 呢？
+
+我们很快发现，这种 thought experiment 一旦继续推，就会进入一个完全不同的社会。如果 AI 的生产效率高到人类不再需要依靠工作满足物质需求，那么 career、credential、degree、graduation 这些概念本身都可能失去现在的意义。
+
+那学习还剩下什么？Yiran 的答案不断回到同一个东西：**好奇心。**
+
+如果一个人不再因为学位、职业和收入被迫学习，那么也许学习可以更多地由 curiosity 驱动：看到一个东西，产生一个问题，获得已有知识，再继续追问，直到走到知识边界，然后探索未知。
+
+我们当然不知道人的好奇心在这样的环境里究竟能发展到什么程度。这也是整个 thought experiment 的边界。但有一个想法值得保留：
+
+**如果技术真的能够拿掉大量现实约束，我们也许才会知道，人类的好奇心和想象力到底能把我们带多远。**
+
+## 回到 2026 年的课堂
+
+这些关于未来的想象可能太远了。而真正要教课的人，这学期或者下学期就需要做决定。
+
+Yiran 并不认为自己已经有最好的答案。他没有独立完整授课很多年的经验，也明确认为，关于 group work、大班 assessment、TA 分工、course design 等问题，经验丰富的 teaching faculty 和教育研究者比他更有资格回答。
+
+但我们的访谈最后仍然形成了几个比较稳定的原则。如果 AI 很可能成为默认工具，那么教育应该认真教学生怎么正确、有效地使用它。AI policy 应该写得清楚。什么可以做，什么不能做，违反规则有什么后果，学生都应该明确知道。
+
+但 policy 不能替代 assessment redesign。如果一个 assignment 可以被 AI 直接完成，而学生不需要理解内容就可以得到高分，那么最值得重新考虑的，也许不是 AI policy，而是这个 assignment。
+
+同时，我们也应该不断追问某个传统 skill 背后的目的：writing 是不是为了 communication，coding 是不是为了 problem solving，reading 是不是为了 knowledge acquisition？Paper 是不是为了 knowledge transmission？
+
+如果目的仍然重要，而实现目的的方法改变了，那么教育没有必要永远保护旧的形式。这并不意味着所有传统技能今天就应该被扔掉，而是意味着我们应该停止把它们当成不可改变的终点。
+
+## 也许真正的问题不是“AI 会让我们失去什么”
+
+和 Yiran 聊到最后，我发现他对未来教育的乐观并不来自“AI 会把所有事情做好”。更准确地说，他相信：**工具越强，人可以把越多时间从重复处理已有知识中释放出来。**
+
+那么，这些节省下来的时间要用来做什么？他的答案是，去看更多东西，接触更广阔的世界，提出更多问题；更快地穿过已知知识，更早地到达未知，然后继续探索。
+
+因此，也许关于 AI and education 最值得问的问题，不是“AI 会让下一代失去哪些我们今天拥有的 skill？”，而是：
+
+**当下一代终于不需要把这么多时间花在我们今天不得不做的事情上时，他们会拿这些时间去想什么？**
+
+我们现在还不知道，而这可能正是最值得期待的部分。
+
+---
+
+## 关于这篇文章的作者贡献
+
+这篇文章由 ChatGPT 根据与 Yiran Wang 的访谈撰写和组织。
+
+**Yiran 的主要贡献**是文章中的核心观点和判断，包括：AI 应被视为未来的默认工具；如果 assignment 可以由 AI 直接完成，应优先重新思考 assignment；区分 skill 与其背后的教育目的；AI 作为 knowledge bank；理解、消化和运用知识仍然属于人的认知活动；好奇心驱动的学习；AI 可能帮助人更快到达知识边界；对 skill obsolescence、expertise、future education、individualized learning 以及若干 AI 悲观叙事的看法。文中的字典、计算器、clinician learning biostatistics、ROM 恐龙化石、叶绿体进化等主要例子也来自他的访谈回答。
+
+**我的主要贡献**是担任 interviewer，提出问题和反例，追踪讨论中的分支，帮助区分现实教学问题与长期 thought experiments，并最终选择、组织和改写材料形成本文。部分分析框架和表达，包括将未来人机思考描述为 “co-evolving cognition”、把常见 AI concerns 区分为 transition-period concerns、真实但未必负面的变化以及社会制度层面的开放问题，是我在访谈和整理过程中提出的概念化方式。
+
+因此，这篇文章更适合被理解为一篇 **AI-written synthesis of a human-AI interview**，而不是任何一方单独完成的传统 essay。
+
+::: {.reading-next}
+想了解这些想法如何在对话中展开？[阅读 Q&A 访谈 →](interview-zh.html){.no-external}
+:::
