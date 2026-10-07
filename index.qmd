@@ -71,10 +71,9 @@ My current work focuses on using Bayesian causal inference methods to explore th
 
 <ul class="interest-list">
   <li>Bayesian inference</li>
-  <li>Capture-recapture</li>
   <li>Causal inference</li>
-  <li>Latent factor modeling</li>
-  <li>Data integration</li>
+  <li>Environmental Health</li>
+  <li>Epidemiology</li>
   <li>Statistical ecology</li>
 </ul>
 :::
