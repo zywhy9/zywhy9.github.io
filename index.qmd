@@ -93,7 +93,7 @@ My current work focuses on using Bayesian causal inference methods to explore th
     <ul class="news-copy">
       <li>Received University of Toronto Postdoctoral Competitive Research Award ($10,000, one year).</li>
       <li>Attended ISBA 2026 in Nagoya and PCIC 2026 in Tianjin.</li>
-      <li>Our article on pancreatic cancer was published in <em>JNCI Cancer Spectrum</em>.</li>
+      <li><a href="https://academic.oup.com/jncics/article/10/5/pkag078/8748501">Our article</a> on pancreatic cancer was published in <em>JNCI Cancer Spectrum</em>.</li>
     </ul>
   </li>
   <li class="news-item">
@@ -105,13 +105,13 @@ My current work focuses on using Bayesian causal inference methods to explore th
   <li class="news-item">
     <time class="news-date" datetime="2026-03">March 2026</time>
     <ul class="news-copy">
-      <li>Our tutorial and comparative evaluation of mediation methods for exposure mixtures was published in <em>BMC Medical Research Methodology</em>.</li>
+      <li><a href="https://link.springer.com/article/10.1186/s12874-026-02809-0">Our tutorial and comparative evaluation of mediation methods for exposure mixtures</a> was published in <em>BMC Medical Research Methodology</em>.</li>
     </ul>
   </li>
   <li class="news-item">
     <time class="news-date" datetime="2026-01">January 2026</time>
     <ul class="news-copy">
-      <li>Our article on enhancing data equity in public health data science was published in <em>JAMA Health Forum</em>.</li>
+      <li><a href="https://link.springer.com/article/10.1186/s12874-026-02809-0">Our article on enhancing data equity in public health data science</a> was published in <em>JAMA Health Forum</em>.</li>
     </ul>
   </li>
 </ul>
