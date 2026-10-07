@@ -111,7 +111,7 @@ My current work focuses on using Bayesian causal inference methods to explore th
   <li class="news-item">
     <time class="news-date" datetime="2026-01">January 2026</time>
     <ul class="news-copy">
-      <li><a href="https://link.springer.com/article/10.1186/s12874-026-02809-0">Our article on enhancing data equity in public health data science</a> was published in <em>JAMA Health Forum</em>.</li>
+      <li><a href="https://jamanetwork.com/journals/jama-health-forum/fullarticle/2843724">Our article on enhancing data equity in public health data science</a> was published in <em>JAMA Health Forum</em>.</li>
     </ul>
   </li>
 </ul>
