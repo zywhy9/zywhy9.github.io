@@ -67,7 +67,7 @@ I am a Postdoctoral Fellow at the University of Toronto, working with Dr. [Kuan 
 ::: {.home-section}
 ## Research interests
 
-My current work focuses on using Bayesian causal inference methods to explore the effect of extreme weather on health outcomes. I am also interested in capture–recapture methods, population size estimation, data integration, and latent variable models.
+My current work focuses on using Bayesian causal inference methods to explore the effect of environmental exposures on health outcomes. I am also interested in capture–recapture methods, data integration, and all kinds of applied questions.
 
 <ul class="interest-list">
   <li>Bayesian inference</li>
