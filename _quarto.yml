@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: _site
+  resources:
+    - "shared/heat-smoke-cognition/index.html"
   render:
     - "*.qmd"
     - "blog/**/*.qmd"
